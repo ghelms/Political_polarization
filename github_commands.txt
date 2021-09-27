@@ -1,0 +1,21 @@
+git checkout *branch-name*
+
+# hvis en ny branch skal laves:
+
+git checkout -b *new-branch-name* 
+
+#få overblik over branches og se hvilken du arbejder i
+
+git branch
+
+# add, commit og push
+
+git add *file-name*
+
+git commit -m *comment*
+
+git push *navn på remote repo* *navn på branch*
+
+Remote repo kaldes typisk *origin* på den lokale pc. 
+
+fx: git push origin data_scraping}
