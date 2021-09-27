@@ -5,11 +5,15 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 # skift fra en branch til en anden via checkout\
+\f0\fs24 \cf0 # skift fra en branch til en anden via checkout\\\
 \
-git checkout -b *branch-name*\
+git checkout *branch-name*\
 \
-# f\'e5 overblik over branches og se hvilken du arbejder i\
+# hvis en ny branch skal laves:\
+\
+git checkout -b *new-branch-name* \
+\
+#f\'e5 overblik over branches og se hvilken du arbejder i\
 \
 git branch\
 \
@@ -21,7 +25,6 @@ git commit -m *comment*\
 \
 git push *navn p\'e5 remote repo* *navn p\'e5 branch*\
 \
-Remote repo kaldes typisk \'93origin\'94 p\'e5 den lokale pc. \
+Remote repo kaldes typisk *origin* p\'e5 den lokale pc. \
 \
-fx: git push origin data_scraping\
-}
+fx: git push origin data_scraping}
