@@ -19,7 +19,7 @@ url = "https://www.folketingstidende.dk/da/till%C3%A6g/tillaeg-f?"\
 out_filename = "data/pdf_list.txt"
 metadata_filename = "data/metadata.csv"
 done_filename = ".state/visited.txt"
-years = range(2019, 2020)  # gives just 2016, 2017
+years = range(2019, 2021)  # gives just 2016, 2017
 
 id_re = re.compile("([A-Z]+ \d+)")  # noqa
 pdf_re = re.compile("(\S+\.pdf)")  # noqa
