@@ -1,6 +1,8 @@
 #!/bin/bash
 
-cd data/pdf
+cd data/
 # download each pdf from the urls in data/pdf_list
 # not cpu bound, so use > NCORES threads
-sort ../missing_pdfs.txt | uniq -u |  parallel -v --gnu -j 10 "wget -c"
+
+# -j defines how many jobs run in parallel. -c makes it continue if it stops. -P saves it in the pdf folder.
+sort pdf_list.txt | parallel -j 10 "wget --no-check-certificate -c -P pdf -i"
