@@ -1,0 +1,74 @@
+
+R version 3.4.4 (2018-03-15) -- "Someone to Lean On"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(tidyverse)
+── Attaching packages ─────────────────────────────────────── tidyverse 1.2.1 ──
+✔ ggplot2 3.0.0     ✔ purrr   0.2.5
+✔ tibble  1.4.2     ✔ dplyr   0.7.6
+✔ tidyr   0.8.1     ✔ stringr 1.3.1
+✔ readr   1.1.1     ✔ forcats 0.3.0
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+> 
+> 
+> tidy_text <- function(filename) {
++     d = read_delim(filename, delim = ";")
++     print(head(d))
++ 
++     d = d %>%
++         filter(split > 0) %>%
++         spread(reason, value) %>%
++         select(Time, Name, text) %>%
++         fill(Time, Name) %>%
++         filter(complete.cases(.)) %>%
++         mutate(Time = hm(Time))
++ 
++     write_delim(d, str_replace(filename, "/segmented/", "/tidy/"), delim = ";")
++ }
+> 
+> 
+> files = list.files("data/segmented/", "*.txt", full.names = TRUE)
+> 
+> for (f in files) {
++     print(f)
++     tidy_text(f)
++ }
+[1] "data/segmented//20091_M1_helemoedet.txt"
+Parsed with column specification:
+cols(
+  X1 = col_integer(),
+  split = col_integer(),
+  reason = col_character(),
+  text = col_character(),
+  value = col_character()
+)
+# A tibble: 6 x 5
+     X1 split reason text                                   value              
+  <int> <int> <chr>  <chr>                                  <chr>              
+1     0     0 <NA>   "Tirsdag den 6. oktober 2009 (D)\n\n1… <NA>               
+2     1   711 Time   "Statsministerens redegørelse i henho… Kl. 12:00          
+3     2  2048 Time   "Formanden:\nJeg vil gerne takke for … Kl. 12:02          
+4     3  2739 Name   "Danmark er et godt land at leve i. V… Statsministeren (L…
+5     4 10593 Time   "For det første – og helt afgørende: … Kl. 12:14          
+6     5 18474 Time   "Regeringen arbejder på hele velfærds… Kl. 12:25          
+Fejl i mutate_impl(.data, dots) : 
+  Evaluation error: could not find function "hm".
+Kald: tidy_text ... <Anonymous> -> mutate -> mutate.tbl_df -> mutate_impl -> .Call
+In addition: Advarselsbesked:
+Missing column names filled in: 'X1' [1] 
+Kørsel stoppet

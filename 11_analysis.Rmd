@@ -1,0 +1,219 @@
+---
+title: "Exploratory analysis of surprisal in Folketingen"
+author: "Malte Lau Petersen"
+date: "4 september 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(scales)
+# library(lme4)
+library(brms)
+```
+
+```{r load data, message=FALSE, echo = FALSE} 
+lda_output = read_csv("data/nov_tra_res.csv", col_types = cols())
+lda_output = read_csv("data/tidy_text.csv", col_types = cols()) %>%
+    right_join(lda_output, by = "doc_id") %>%
+    mutate(Parti = ifelse(Parti == "RV", "R", Parti),
+           Parti = ifelse(Parti == "KF", "K", Parti)) %>%
+    mutate(Blok = factor(case_when(
+        Parti %in% c("DF", "LA", "V", "K") ~ "Blå Blok",
+        Parti %in% c("ALT", "EL", "R", "S", "SF") ~ "Rød Blok",
+        TRUE ~ "Grønland/Færøerne"
+    ), levels = c("Rød Blok", "Grønland/Færøerne", "Blå Blok")))
+```
+
+
+
+```{r plot settings}
+
+my_theme = theme_classic() +
+    theme(legend.position = c(.92,.25),
+          legend.text = element_text(size = 12),
+          legend.title = element_text(size = 14),
+          legend.title.align = 0,
+          axis.text = element_text(size = 14),
+          plot.title = element_text(size = 22, hjust = .5),
+          # plot.subtitle = element_text(size = 12, hjust = .3),
+          axis.title = element_text(size = 18))
+my_guides = guides(fill = guide_colorbar(title.position = "bottom"))
+
+```
+
+
+How much do members of Folketinget (Danish Parliament) switch topics? How much do these topic switches get picked up by the next speakers? Barron, Huang, Spang, & DeDeo (2018) found a novelty bias during the French revolution where novel speeches were also more resonant in the subsequent discussions. Will we also find a similar bias in an established democracy such as the Danish one?
+
+### Analysis steps
+- Scrape folketinget's web-page for pdfs of meeting minutes.
+- Extract the text from the pdfs and tag it with time and speaker information
+- TODO: also tag each speech with the role of the speaker (ie ordfører, ordstyrer etc.)
+- Pre-process the text:
+    + Remove stopwords (including names of the other members of Folketinget)
+    + Remove punctuation
+    + Transform to lowercase
+    + TODO: tokenization with dapipe (udpipe for Danish: http://github.com/ITUnlp/dapipe)
+- Do topic modelling where each speech turn is a document, and k=100 topics
+- Calculate novelty, transience and resonance
+- TODO: clustering
+- TODO: group by party or block
+
+
+### Re-creating figure 1 from Barron et al. (2018) with data from Folketinget
+```{r plots, fig.height=4.5, fig.width = 4.5, echo = FALSE}
+
+# transience vs novelty
+ggplot(lda_output, aes(novelty, transience)) +
+    geom_bin2d(bins = 50) +
+    scale_fill_viridis_c(trans = "log", breaks = c(1,10,100,1000,10000),
+                         labels = trans_format("log10", math_format(expr = 10^.x, format = force))) +
+    geom_smooth(method = "lm", colour = "black", linetype = "dashed",  alpha = 0) +
+    my_guides + my_theme +
+    labs(x = "Novelty", y = "Transience", title = "Transience vs. Novelty", caption = "Data: Speeches in Folketinget 2009-2017")
+
+
+# resonance vs novelty
+ggplot(lda_output, aes(novelty, resonance)) +
+    geom_bin2d(bins = 50) +
+    scale_fill_viridis_c(trans = "log", breaks = c(1,10,100,1000),
+                         labels = trans_format("log10", math_format(expr = 10^.x, format = force))) +
+    geom_smooth(method = "lm", colour = "black", linetype = "dashed", alpha = 0) +
+    my_guides + my_theme +
+    labs(x = "Novelty", y = "Resonance", title = "Resonance vs. Novelty", caption = "Data: Speeches in Folketinget 2009-2017")
+
+# # resonance vs transience
+# ggplot(lda_output, aes(transience, resonance)) +
+#     geom_bin2d(bins = 50) +
+#     scale_fill_viridis_c(trans = "log", breaks = c(1,10,100,1000),
+#                          labels = trans_format("log10", math_format(expr = 10^.x, format = force))) +
+#     geom_smooth(method = "lm", colour = "black", linetype = "dashed", alpha = 0) +
+#     my_guides + my_theme +
+#     labs(x = "Transience", y = "Resonance", title = "Resonance vs. Transience", caption = "Data: Speeches in Folketinget 2009-2017")
+```
+
+
+```{r overall model, include = FALSE, eval = FALSE}
+# head(lda_output)
+trans = brm(bf(transience ~ novelty * Blok + (1+novelty|Parti),
+               sigma ~ 1),
+            data = lda_output,
+            cores = 2, chains = 2, iter = 200)
+save("trans", file = "models/transience.Rdata")
+```
+
+```{r show model, eval = FALSE}
+summary(trans)
+```
+
+
+
+
+# Top speakers
+
+```{r per speaker calc, echo = FALSE}
+### per speaker measures
+per_speaker = lda_output %>%
+    group_by(Name) %>%
+    summarise(n = n(),
+              `z(Novelty)` = mean(z_novelty),
+              `z(Transience)` = mean(z_transience),
+              `z(Resonance)` = mean(z_resonance)#,
+              # d_r = mean(delta_R)
+              )
+
+# names(per_speaker)[6] = "\U0394z(Resonance)"
+
+
+```
+
+### Most novel
+
+High novelty means a large degree of surprise from the past to the present (ie this is very new language). This can be the sign of an outsider (when paired with high transience/low resonance) or an innovator (when low transience/high resonance)
+```{r per speaker tables, results = "asis"}
+# most novel (different from past)
+per_speaker %>%
+    arrange(-`z(Novelty)`) %>%
+    filter(n >= 10) %>%
+    head(10) %>%
+    knitr::kable()
+```
+
+<!-- ### Least transient -->
+<!-- Low transience means a small degree of surprise from the present to the future (ie this speaker affected what came after it a lot) -->
+
+<!-- ```{r per speaker table 2} -->
+<!-- # least transience (least different to future) -->
+<!-- per_speaker %>% -->
+<!--     arrange(`Transience (z)`) %>% -->
+<!--     head(10) %>% -->
+<!--     knitr::kable() -->
+<!-- ``` -->
+
+### Most resonance
+Resonance is calculated as `novelty - transience`
+
+Highly resonant speakers were novel and had a large influence at the same time.
+
+```{r per speaker table 3}
+# most resonant (novelty - transience)
+per_speaker %>%
+    arrange(-`z(Resonance)`) %>%
+    filter(n >= 10) %>%
+    head(10) %>%
+    knitr::kable()
+```
+
+# Partier
+Averages per parti. n is the number of speeches by that parti
+```{r per parti calc, echo = FALSE}
+### per parti measures
+per_parti = lda_output %>%
+    group_by(Parti) %>%
+    summarise(n = n(),
+              `z(Novelty)` = mean(z_novelty),
+              `z(Transience)` = mean(z_transience),
+              `z(Resonance)` = mean(z_resonance)
+              )
+
+per_parti %>%
+    arrange(-`z(Resonance)`) %>%
+    knitr::kable()
+
+```
+
+
+```{r per parti plots}
+
+# transience vs novelty
+ggplot(lda_output, aes(novelty, transience, colour = Blok)) +
+    # geom_bin2d(bins = 50) +
+    geom_point(alpha = .5) + 
+    facet_wrap(~Parti) +
+    # scale_fill_viridis_c(trans = "log", breaks = c(1,10,100,1000,10000),
+    #                      labels = trans_format("log10", math_format(expr = 10^.x, format = force))) +
+    # geom_smooth(method = "lm", colour = "black", linetype = "dashed",  alpha = 0) +
+    labs(x = "Novelty", y = "Transience", title = "Transience vs. Novelty", caption = "Data: Speeches in Folketinget 2009-2017") +
+    theme(legend.position = c(.9, .1)) +
+    guides(colour = guide_legend(title = element_blank()))
+
+# resonance vs novelty
+ggplot(lda_output, aes(novelty, resonance, colour = Blok)) +
+    geom_point(alpha = .5) + 
+    facet_wrap(~Parti) +
+    theme(legend.position = c(.9, .1)) +
+    guides(colour = guide_legend(title = element_blank())) +
+    labs(x = "Novelty", y = "Resonance", title = "Resonance vs. Novelty", caption = "Data: Speeches in Folketinget 2009-2017")
+
+```
+
+
+
+# Reproducing this analysis
+- make sure you installed the dependencies
+- run `make`
+
+
+### References
+- Barron, A. T., Huang, J., Spang, R. L., & DeDeo, S. (2018). Individuals, institutions, and innovation in the debates of the French Revolution. Proceedings of the National Academy of Sciences, 115(18), 4607-4612.
