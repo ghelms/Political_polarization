@@ -127,22 +127,38 @@
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="291" y="109" width="1171" height="795" key="CommitChangelistDialog2/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852118400" />
-    <state width="621" height="206" key="GridCell.Tab.0.bottom" timestamp="1632852224340">
+    <state width="621" height="256" key="GridCell.Tab.0.bottom" timestamp="1632852583353">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="621" height="206" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852224340" />
-    <state width="621" height="206" key="GridCell.Tab.0.center" timestamp="1632852224340">
+    <state width="621" height="256" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852583353" />
+    <state width="621" height="256" key="GridCell.Tab.0.center" timestamp="1632852583351">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="621" height="206" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852224340" />
-    <state width="621" height="206" key="GridCell.Tab.0.left" timestamp="1632852224339">
+    <state width="621" height="256" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852583351" />
+    <state width="621" height="256" key="GridCell.Tab.0.left" timestamp="1632852583351">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="621" height="206" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852224339" />
-    <state width="621" height="206" key="GridCell.Tab.0.right" timestamp="1632852224340">
+    <state width="621" height="256" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852583351" />
+    <state width="621" height="256" key="GridCell.Tab.0.right" timestamp="1632852583352">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="621" height="206" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852224340" />
+    <state width="621" height="256" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852583352" />
+    <state width="621" height="256" key="GridCell.Tab.1.bottom" timestamp="1632852585119">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="621" height="256" key="GridCell.Tab.1.bottom/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852585119" />
+    <state width="621" height="256" key="GridCell.Tab.1.center" timestamp="1632852585118">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="621" height="256" key="GridCell.Tab.1.center/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852585118" />
+    <state width="621" height="256" key="GridCell.Tab.1.left" timestamp="1632852585118">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="621" height="256" key="GridCell.Tab.1.left/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852585118" />
+    <state width="621" height="256" key="GridCell.Tab.1.right" timestamp="1632852585118">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="621" height="256" key="GridCell.Tab.1.right/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852585118" />
     <state x="358" y="287" key="Vcs.Push.Dialog.v2" timestamp="1632844983363">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
@@ -157,6 +173,6 @@
     <state x="486" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632838970976" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/political_polarization$geckodriver_test.coverage" NAME="01_scrape_v2 Coverage Results" MODIFIED="1632852224330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Folketinget-Scraping" />
+    <SUITE FILE_PATH="coverage/political_polarization$geckodriver_test.coverage" NAME="01_scrape_v2 Coverage Results" MODIFIED="1632852582970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Folketinget-Scraping" />
   </component>
 </project>
