@@ -29,5 +29,10 @@ git ls-files
 # slet filer
 git rm *file*
 
-# slet branch
+# slet branch lokalt
 git branch -d *branch*
+
+# slet branch remote
+git push -d <remote-name> <branch-name>
+
+fx: git push -d origin test
