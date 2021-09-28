@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a78475-5dfd-41e8-b8db-e84f61285355" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Folketinget-Scraping/02_download_pdf.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Folketinget-Scraping/02_download_pdf.sh" afterDir="false" />
-    </list>
+    <list default="true" id="e3a78475-5dfd-41e8-b8db-e84f61285355" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +33,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Shell Script.02_download_pdf.sh">
+  <component name="RunManager" selected="Shell Script.03_extract.sh">
     <configuration name="01_scrape_v2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="political_polarization" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +64,14 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="03_extract.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Folketinget-Scraping/03_extract.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/Folketinget-Scraping" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Bash" type="ShConfigurationType">
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Folketinget-Scraping/02_download_pdf.sh" />
       <option name="SCRIPT_OPTIONS" value="" />
@@ -79,9 +84,11 @@
       <item itemvalue="Python.01_scrape_v2" />
       <item itemvalue="Shell Script.Bash" />
       <item itemvalue="Shell Script.02_download_pdf.sh" />
+      <item itemvalue="Shell Script.03_extract.sh" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Shell Script.03_extract.sh" />
         <item itemvalue="Shell Script.02_download_pdf.sh" />
       </list>
     </recent_temporary>
@@ -97,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632838531367</updated>
       <workItem from="1632838533928" duration="1399000" />
-      <workItem from="1632847151645" duration="2805000" />
+      <workItem from="1632847151645" duration="3198000" />
     </task>
     <task id="LOCAL-00001" summary="testing from pycharm">
       <created>1632838712222</created>
