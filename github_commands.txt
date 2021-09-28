@@ -1,21 +1,33 @@
+#få overblik over branches
+git branch
+
+#skift til branch
 git checkout *branch-name*
 
 # hvis en ny branch skal laves:
-
 git checkout -b *new-branch-name* 
 
-#få overblik over branches og se hvilken du arbejder i
-
-git branch
-
 # add, commit og push
-
 git add *file-name*
-
 git commit -m *comment*
-
 git push *navn på remote repo* *navn på branch*
 
-Remote repo kaldes typisk *origin* på den lokale pc. 
+# OBS: Remote repo kaldes typisk "origin" på den lokale pc. 
+# DVS at følgende er den typiske push-kommando til remote main branch:
+git push origin main
 
-fx: git push origin data_scraping}
+# pull command
+git pull
+
+# for at hente en remote branch og skifte til den
+git fetch
+git checkout *branch*
+
+# se hvilke files der er i en branch
+git ls-files
+
+# slet filer
+git rm *file*
+
+# slet branch
+git branch -d *branch*
