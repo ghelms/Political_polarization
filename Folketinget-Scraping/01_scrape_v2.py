@@ -34,9 +34,9 @@ with open(done_filename, "r") as done_file:
 
 print("Initializing browser engine")
 options = Options()
-options.set_headless(headless=True)
+options.headless=True
 driver = webdriver.Firefox(executable_path="./geckodriver",
-                           firefox_options=options)
+                           options=options)
 
 
 # write header of output file
