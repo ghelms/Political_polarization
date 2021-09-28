@@ -12,6 +12,13 @@
   <component name="FavoritesManager">
     <favorites_list name="political_polarization" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -38,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632838531367</updated>
-      <workItem from="1632838533928" duration="1120000" />
+      <workItem from="1632838533928" duration="1399000" />
     </task>
     <task id="LOCAL-00001" summary="testing from pycharm">
       <created>1632838712222</created>
@@ -47,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632838712222</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding py file to main">
+      <created>1632844914003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632844914003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,17 +80,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing from pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing from pycharm" />
+    <MESSAGE value="adding py file to main" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding py file to main" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="291" y="109" width="1171" height="795" key="CommitChangelistDialog2" timestamp="1632838712083">
+    <state x="291" y="109" width="1171" height="795" key="CommitChangelistDialog2" timestamp="1632844913880">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state x="291" y="109" width="1171" height="795" key="CommitChangelistDialog2/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632838712083" />
-    <state x="216" y="245" width="1084" height="605" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1632844889631">
+    <state x="291" y="109" width="1171" height="795" key="CommitChangelistDialog2/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632844913880" />
+    <state x="358" y="287" key="Vcs.Push.Dialog.v2" timestamp="1632844983363">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state x="216" y="245" width="1084" height="605" key="com.intellij.dvcs.ui.CompareBranchesDialog/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632844889631" />
+    <state x="358" y="287" key="Vcs.Push.Dialog.v2/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632844983363" />
+    <state x="216" y="245" width="1084" height="605" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1632844993571">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="216" y="245" width="1084" height="605" key="com.intellij.dvcs.ui.CompareBranchesDialog/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632844993571" />
     <state x="486" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632838970976">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
