@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a78475-5dfd-41e8-b8db-e84f61285355" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Folketinget-Scraping/geckodriver_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Folketinget-Scraping/01_scrape_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Folketinget-Scraping/01_scrape_v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="geckodriver_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="01_scrape_v2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="political_polarization" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +49,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Folketinget-Scraping/geckodriver_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Folketinget-Scraping/01_scrape_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632838531367</updated>
       <workItem from="1632838533928" duration="1399000" />
-      <workItem from="1632847151645" duration="1480000" />
+      <workItem from="1632847151645" duration="1849000" />
     </task>
     <task id="LOCAL-00001" summary="testing from pycharm">
       <created>1632838712222</created>
@@ -88,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632844914003</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="testing geckodriver">
+      <created>1632852118581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632852118581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,33 +115,34 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing from pycharm" />
     <MESSAGE value="adding py file to main" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding py file to main" />
+    <MESSAGE value="testing geckodriver" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing geckodriver" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="742" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632852053049">
+    <state x="742" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1632852202482">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state x="742" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852053049" />
+    <state x="742" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852202482" />
     <state x="291" y="109" width="1171" height="795" key="CommitChangelistDialog2" timestamp="1632852118400">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="291" y="109" width="1171" height="795" key="CommitChangelistDialog2/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852118400" />
-    <state width="621" height="206" key="GridCell.Tab.0.bottom" timestamp="1632852101243">
+    <state width="621" height="206" key="GridCell.Tab.0.bottom" timestamp="1632852224340">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="621" height="206" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852101243" />
-    <state width="621" height="206" key="GridCell.Tab.0.center" timestamp="1632852101242">
+    <state width="621" height="206" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852224340" />
+    <state width="621" height="206" key="GridCell.Tab.0.center" timestamp="1632852224340">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="621" height="206" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852101242" />
-    <state width="621" height="206" key="GridCell.Tab.0.left" timestamp="1632852101242">
+    <state width="621" height="206" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852224340" />
+    <state width="621" height="206" key="GridCell.Tab.0.left" timestamp="1632852224339">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="621" height="206" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852101242" />
-    <state width="621" height="206" key="GridCell.Tab.0.right" timestamp="1632852101243">
+    <state width="621" height="206" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852224339" />
+    <state width="621" height="206" key="GridCell.Tab.0.right" timestamp="1632852224340">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
-    <state width="621" height="206" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852101243" />
+    <state width="621" height="206" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632852224340" />
     <state x="358" y="287" key="Vcs.Push.Dialog.v2" timestamp="1632844983363">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
@@ -151,6 +157,6 @@
     <state x="486" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632838970976" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/political_polarization$geckodriver_test.coverage" NAME="geckodriver_test Coverage Results" MODIFIED="1632852055223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Folketinget-Scraping" />
+    <SUITE FILE_PATH="coverage/political_polarization$geckodriver_test.coverage" NAME="01_scrape_v2 Coverage Results" MODIFIED="1632852224330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Folketinget-Scraping" />
   </component>
 </project>
