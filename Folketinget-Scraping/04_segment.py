@@ -65,6 +65,7 @@ class Rule:
         return self.regex.match(txt)
 
 
+
 rules = [
     # match time
     Rule("(?:(?:(?:man|tirs|ons|tors|fre|lør|søn)dag "\
