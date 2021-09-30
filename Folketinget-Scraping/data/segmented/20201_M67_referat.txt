@@ -1,0 +1,154 @@
+split;reason;text;value
+0;;"Tirsdag den 23. februar 2021 (D)
+
+1
+
+Kirsten Normann Andersen (SF) m.fl.:
+Beslutningsforslag nr. B 159 (Forslag til folketingsbeslutning om ga‐
+ranti for 2 dages ophold på fødeafdeling eller eventuelt patienthotel
+for alle fødende efter overstået fødsel).
+
+67. møde";
+304;Time;"Peter Skaarup (DF) m.fl.:
+
+Dagsorden
+1) 2. behandling af lovforslag nr. L 153:
+Forslag til lov om ændring af lov om kommuners og regioners
+indkøb i forbindelse med håndtering af covid-19. (Forlængelse af
+lovens gyldighedsperiode).
+Af indenrigs- og boligministeren (Kaare Dybvad Bek).
+(Fremsættelse 03.02.2021. 1. behandling 09.02.2021. Betænkning
+11.02.2021).
+2) Eventuelt: 2. behandling af lovforslag nr. L 166:
+Forslag til lov om ændring af lov om midlertidig udskydelse af angi‐
+velses- og betalingsfrister m.v. på skatteområdet i forbindelse med
+covid-19, lov om rentefrie lån svarende til indberettet A-skat og ar‐
+bejdsmarkedsbidrag i forbindelse med covid-19 og lov om rentefrie
+lån svarende til angivet moms og lønsumsafgift og fremrykket udbe‐
+taling af skattekreditter m.v. i forbindelse med covid-19. (Udskydel‐
+se af betalingsfrister for A-skat og arbejdsmarkedsbidrag, udvidelse
+af A-skattelåneordningen og udvidelse af momslåneordningen som
+følge af covid-19 m.v.).
+Af skatteministeren (Morten Bødskov).
+(Fremsættelse 10.02.2021. 1. behandling 11.02.2021. Betænkning
+22.02.2021).";kl. 13.00
+1410;Time;"Beslutningsforslag nr. B 160 (Forslag til folketingsbeslutning om
+afskaffelse af strafrabat ved flere lovovertrædelser).
+Alex Ahrendtsen (DF) m.fl.:
+Beslutningsforslag nr. B 161 (Forslag til folketingsbeslutning om
+obligatorisk mulighed for digitale beboerafstemninger i almene bo‐
+ligafdelinger).
+Leif Lahn Jensen (S), Karsten Lauritzen (V), Peter Skaarup (DF),
+Karsten Hønge (SF), Andreas Steenberg (RV), Peder Hvelplund
+(EL), Mai Mercado (KF), Peter Seier Christensen (NB), Ole Birk
+Olesen (LA), Torsten Gejl (ALT), Aaja Chemnitz Larsen (IA), Uffe";Kl. 13:00
+2001;name_party;":
+Beslutningsforslag nr. B 162 (Forslag til folketingsbeslutning om
+Mette Frederiksen for Rigsretten nu (borgerforslag)).
+Leif Lahn Jensen (S), Karsten Lauritzen (V), Peter Skaarup (DF),
+Karsten Hønge (SF), Andreas Steenberg (RV), Peder Hvelplund
+(EL), Mai Mercado (KF), Peter Seier Christensen (NB), Ole Birk
+Olesen (LA), Torsten Gejl (ALT), Aaja Chemnitz Larsen (IA), Uffe";Elbæk
+2414;name_party;":
+Beslutningsforslag nr. B 163 (Forslag til folketingsbeslutning om
+ændring af lovgivning om ret til pasning af sygt barn ved almen
+sygdom (borgerforslag)).
+
+Meddelelser fra formanden";Elbæk
+2648;name_party;:;Kristian Thulesen Dahl
+2686;title_name;":
+Mødet er åbnet.
+
+Hasteforespørgsel nr. F 44 (Hvad kan statsministeren oplyse om
+regeringens planer i forhold til de syrienskrigere, der sidder i lejrene
+i Syrien, al-Roj og al-Hol og andre steder, herunder om regeringen
+planlægger at hente børnene og deres forældre til Danmark?).
+
+I dag er der følgende anmeldelser:
+Kristian Pihl Lorentzen (V), Hans Kristian Skibby (DF) og Niels";Karen Ellemann
+3089;name_party;":
+
+Social- og Indenrigsudvalget har afgivet:
+
+Beslutningsforslag nr. B 157 (Forslag til folketingsbeslutning om
+kulegravning af jernbanesektoren).
+
+Beretning om ændring af reglerne om eftervederlag for borgmestre
+m.fl. og regionsrådsformænd
+(Beretning nr. 4).
+
+Hans Kristian Skibby (DF) m.fl.:
+
+Beretningen vil fremgå af www.folketingstidende.dk.
+
+Beslutningsforslag nr. B 158 (Forslag til folketingsbeslutning om
+færgebetjening af Bornholm).
+
+Titlerne på de anmeldte sager vil fremgå af www.folketingstiden‐
+de.dk (jf. ovenfor).
+
+2
+
+Tirsdag den 23. februar 2021 (L 153)";Flemming Hansen
+3671;Time;;Kl. 13:03
+3682;Time;"Samtykke til behandling
+
+Afstemning";Kl. 13:02
+3756;title_name;":
+Det punkt, som er opført som nr. 2 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde. Hvis ingen gør indsigelse,
+betragter jeg samtykket som givet.
+Det er givet.";Karen Ellemann
+3974;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1-5, tiltrådt af et flertal?
+De er vedtaget.
+
+Det første punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 153:
+Forslag til lov om ændring af lov om kommuners og regioners
+indkøb i forbindelse med håndtering af covid-19. (Forlængelse af
+lovens gyldighedsperiode).
+Af indenrigs- og boligministeren (Kaare Dybvad Bek).
+(Fremsættelse 03.02.2021. 1. behandling 09.02.2021. Betænkning
+11.02.2021).";Karen Ellemann
+4431;Time;Forhandling;Kl. 13:02
+4480;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredjebehandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+2) 2. behandling af lovforslag nr. L 166:
+Forslag til lov om ændring af lov om midlertidig udskydelse af
+angivelses- og betalingsfrister m.v. på skatteområdet i forbindel‐
+se med covid-19, lov om rentefrie lån svarende til indberettet Askat og arbejdsmarkedsbidrag i forbindelse med covid-19 og lov
+om rentefrie lån svarende til angivet moms og lønsumsafgift og
+fremrykket udbetaling af skattekreditter m.v. i forbindelse med
+covid-19. (Udskydelse af betalingsfrister for A-skat og arbejds‐
+markedsbidrag, udvidelse af A-skattelåneordningen og udvidelse
+af momslåneordningen som følge af covid-19 m.v.).
+Af skatteministeren (Morten Bødskov).
+(Fremsættelse 10.02.2021. 1. behandling 11.02.2021. Betænkning
+22.02.2021).";Karen Ellemann
+5536;Time;Forhandling;Kl. 13:03
+5585;title_name;":
+Der er stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.
+
+Jeg foreslår, at lovforslaget går direkte til tredjebehandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.";Karen Ellemann
+5909;Time;Meddelelser fra formanden;Kl. 13:04
+5972;title_name;":
+Der er ikke mere at foretage i dette møde.
+Næste møde afholdes i dag, kl. 13.20. Derfor vil jeg nu bede alle
+medlemmer om i ro og mag at forlade salen, sådan at der kan blive
+gjort rent og klart til afstemninger i det næste møde.
+Mødet er hævet. (Kl. 13:04).";Karen Ellemann

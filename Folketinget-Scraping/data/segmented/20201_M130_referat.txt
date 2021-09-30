@@ -1,0 +1,45 @@
+split;reason;text;value
+0;;"Fredag den 11. juni 2021 (D)
+
+1";
+42;Time;"130. møde
+
+Meddelelser fra formanden";Kl. 10:01
+116;Time;;kl. 10.00
+152;title_name;":
+Så er der ikke mere at foretage i dette møde.
+
+Dagsorden
+1) Meddelelser fra formanden";Pia Kjærsgaard
+250;Time;;Kl. 10:00
+286;title_name;":
+Mødet er åbnet.
+Hvis der er nogen, der kigger på Folketings-tv, der undrer sig
+over, at jeg står her helt alene, så gør jeg det, fordi alt, hvad vi
+foretager os her i Folketinget, skal bogføres her fra formandsstolen,
+og det er bare det, jeg lige vil gøre i dag.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden af";Pia Kjærsgaard
+629;Time;;Kl. 10:00
+665;title_name;":
+I dag er der følgende anmeldelser:
+Beskæftigelsesministeren (Peter Hummelgaard):
+Lovforslag nr. L 238 (Forslag til lov om ændring af lov om en aktiv
+beskæftigelsesindsats. (Særlig løntilskudsordning for langtidsledige
+seniorer)).
+Epidemiudvalget har afgivet:
+Beretning om ændring af den automatiske nedlukningsmodel.
+(Beretning nr. 29).
+Beretning om at øge stadionkapaciteten til EURO 2020-slutrunde‐
+kampe.
+(Beretning nr. 30).
+Titlerne på de anmeldte sager vil fremgå af www.folketingstiden‐
+de.dk (jf. ovenfor).
+
+Folketingets næste møde afholdes tirsdag den 15. juni 2021, kl.
+13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjem‐
+meside. Jeg skal i øvrigt henvise til ugeplanen, der også vil fremgå
+af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 10:01).";Pia Kjærsgaard

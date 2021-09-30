@@ -1,0 +1,34 @@
+split;reason;text;value
+0;;"Fredag den 13. marts 2020 (D)
+
+Mødet er hævet. (Kl. 10:00).
+
+75. møde";
+105;Time;"Dagsorden
+1) Meddelelser fra formanden";kl. 10.00
+155;Time;;Kl. 09:59
+190;title_name;":
+Mødet er åbnet.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden";Henrik Dam Kristensen
+283;Time;;Kl. 09:59
+318;title_name;":
+I dag er der følgende anmeldelser:";Henrik Dam Kristensen
+388;title_name;":
+Lovforslag nr. L 134 (Forslag til lov om midlertidig udskydelse af
+betalingsfrister for indeholdt A-skat og arbejdsmarkedsbidrag samt
+midlertidig udskydelse af angivelses- og betalingsfrister for moms
+m.v.).
+Beskæftigelsesministeren (Peter Hummelgaard):
+Lovforslag nr. L 135 (Forslag til lov om ændring af lov om sygedagpenge. (Udvidet ret for arbejdsgiver til refusion og for selvstændige
+til sygedagpenge som følge af covid-19)).
+Titlerne på de anmeldte sager vil fremgå af www.folketingstidende.dk (jf. ovenfor).";Morten Bødskov
+916;Time;;Kl. 10:00
+951;title_name;":
+Der er ikke mere at foretage i dette møde.
+Næste møde afholdes i dag kl. 12.00 med førstebehandlingen af de
+netop fremsatte lovforslag.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+
+1";Henrik Dam Kristensen

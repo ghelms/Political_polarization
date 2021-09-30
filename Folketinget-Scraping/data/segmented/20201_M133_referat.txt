@@ -1,0 +1,1617 @@
+split;reason;text;value
+0;;"Torsdag den 24. juni 2021 (D)
+
+1
+
+(Fremsættelse 04.06.2021. 1. behandling 15.06.2021. Betænkning
+22.06.2021. 2. behandlling 24.06.2021).
+
+133. møde";
+183;Time;"Dagsorden
+1) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som ordinært medlem af Folketinget
+for Morten Østergaard (RV).
+2) 3. behandling af lovforslag nr. L 213:
+Forslag til lov om beskyttelse af whistleblowere.
+Af justitsministeren (Nick Hækkerup).
+(Fremsættelse 14.04.2021. 1. behandling 27.04.2021. Betænkning
+10.06.2021. 2. behandling 15.06.2021. Lovforslaget optrykt efter 2.
+behandling).
+3) 3. behandling af lovforslag nr. L 234:
+Forslag til lov om ændring af epidemiloven. (Overvågning af smit‐
+somme sygdomme via spildevand).
+Af sundhedsministeren (Magnus Heunicke).
+(Fremsættelse 25.05.2021. 1. behandling 03.06.2021. Betænkning
+11.06.2021. 2. behandling 15.06.2021. Lovforslaget optrykt efter 2.
+behandling. Ændringsforslag nr. 1 og 2 af 23.06.2021 til 3. behand‐
+ling af sundhedsministeren (Magnus Heunicke)).
+4) 3. behandling af lovforslag nr. L 235 A:
+Forslag til lov om ændring af lov om arbejdsgiveres adgang til at
+pålægge lønmodtagere at blive testet for covid-19 m.v. og lov om
+udstationering af lønmodtagere m.v. (Udskydelse af solnedgangs‐
+klausul).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(2. behandling 15.06.2021. Lovforslaget optrykt efter 2. behandling).
+5) 3. behandling af lovforslag nr. L 235 B:
+Forslag til lov om ændring af lov om forebyggelse af smitte med
+covid-19, når arbejdsgivere stiller bolig til rådighed for ansatte, og
+lov om pligt til at sikre covid-19-test af tilrejsende arbejdskraft efter
+indrejse i Danmark. (Udskydelse af solnedgangsklausuler).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(2. behandling 15.06.2021. Lovforslaget optrykt efter 2. behandling).
+6) Eventuelt: 3. behandling af lovforslag nr. L 237:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v.
+og lov om sygedagpenge. (Dagpengeret til selvstændige erhvervs‐
+drivende uden forudgående medlemskab af en arbejdsløshedskasse,
+midlertidigt ophør af selvstændig virksomhed og forlængelse af den
+midlertidige periode med ret til sygedagpenge for lønmodtagere, der
+er i øget risiko ved smitte med covid-19, og for lønmodtagere, der er
+pårørende til personer, der er i øget risiko ved smitte med covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+
+7) Eventuelt: 3. behandling af lovforslag nr. L 238:
+Forslag til lov om ændring af lov om en aktiv beskæftigelsesindsats.
+(Særlig løntilskudsordning for langtidsledige seniorer).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 11.06.2021. 1. behandling 15.06.2021. Betænkning
+22.06.2021. 2. behandling 24.06.2021).
+8) 1. (eneste) behandling af beslutningsforslag nr. B 298:
+Forslag til folketingsbeslutning om stop for Udrejsecenter Holme‐
+gaard på Langeland.
+Af Morten Dahlin (V), Pia Kjærsgaard (DF), Marcus Knuth (KF),
+Pernille Vermund (NB), Henrik Dahl (LA) og Inger Støjberg (UFG).
+(Fremsættelse 21.05.2021. Betænkning 15.06.2021).";kl. 13.15
+3069;Time;;Kl. 13:16
+3104;title_name;":
+Mødet er åbnet.";Henrik Dam Kristensen
+3131;Time;Samtykke til behandling;Kl. 13:16
+3190;title_name;":
+De punkter, som er opført som nr. 6 og 7 på dagsordenen, kan kun
+med Tingets samtykke behandles i dette møde.
+Som bekendt har Udvalget for Forretningsordenen vedtaget nye ret‐
+ningslinjer for, hvornår der skal stemmes i salen om samtykke til
+dispensation fra forretningsordenen.
+Dette betyder, at der holdes afstemning om spørgsmålet om dis‐
+pensation fra 30-dagesreglen, hvis et forslag er sat til tredje behand‐
+ling mindre end 14 dage efter fremsættelsen.
+I dag skal vi derfor stemme om samtykke til behandlingen af
+dagsordenens punkt 7 (L 238).
+Inden jeg starter afstemningen, skal jeg lige bede jer om at tjek‐
+ke, at det er det rigtige navn, der står i afstemningspanelet.";Henrik Dam Kristensen
+3880;Time;Afstemning;Kl. 13:16
+3926;title_name;":
+Dermed stemmer vi så om samtykke til behandlingen af L 238, og
+der kan stemmes.
+Afstemningen slutter.
+For stemte 95 (S, V, DF, SF, RV, EL, KF, NB, LA, Sikandar Siddique
+(UFG), Simon Emil Ammitzbøll-Bille (UFG) og Susanne Zimmer
+(UFG), imod stemte 0, hverken for eller imod stemte 0.
+
+2
+
+Torsdag den 24. juni 2021 (UVP )
+
+Samtykket er givet.";Henrik Dam Kristensen
+4280;Time;"Det punkt, som er opført som nr. 6 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde.
+Hvis ingen gør indsigelser, betragter jeg samtykket som givet.
+Det er givet.
+
+Det første punkt på dagsordenen er:
+1) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som ordinært medlem af Folke‐
+tinget for Morten Østergaard (RV).
+
+Afstemning";Kl. 13:18
+4687;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stem‐
+mes.
+Afstemningen slutter.
+For stemte 93 (S, V, DF, SF, RV, EL, KF, NB, Orla Østerby (UFG),
+Sikandar Siddique (UFG), Simon Emil Ammitzbøll-Bille (UFG) og
+Susanne Zimmer (UFG)), imod stemte 2 (LA), hverken for eller
+imod stemte 0.
+Lovforslaget er vedtaget og vil blive sendt til statsministeren.";Henrik Dam Kristensen
+5061;Time;Forhandling;Kl. 13:17
+5108;title_name;":
+Fra Udvalget til Valgs Prøvelse har jeg modtaget indstilling om, at
+1. stedfortræder for Det Radikale Venstre i Østjyllands Storkreds,
+Susan Kronborg, godkendes som ordinært medlem af Folketinget
+fra og med den 17. juni 2021, da Morten Østergaard nedlægger sit
+mandat pr. 16. juni 2021.
+Er der nogen, der ønsker ordet? Da det ikke er tilfældet, går vi til
+afstemning.";Henrik Dam Kristensen
+5487;Time;"Det næste punkt på dagsordenen er:
+3) 3. behandling af lovforslag nr. L 234:
+Forslag til lov om ændring af epidemiloven. (Overvågning af
+smitsomme sygdomme via spildevand).
+Af sundhedsministeren (Magnus Heunicke).
+(Fremsættelse 25.05.2021. 1. behandling 03.06.2021. Betænkning
+11.06.2021. 2. behandling 15.06.2021. Lovforslaget optrykt efter 2.
+behandling. Ændringsforslag nr. 1 og 2 af 23.06.2021 til 3. behand‐
+ling af sundhedsministeren (Magnus Heunicke)).";Kl. 13:17
+5958;Time;"Afstemning
+Forhandling";Kl. 13:18
+6016;title_name;":
+Der stemmes om udvalgets indstilling, og der kan stemmes.
+Afstemningen slutter.
+Udvalgets indstilling er enstemmigt vedtaget med 97 stemmer.
+[For stemte 97 (S, V, DF, SF, RV, EL, KF, NB, LA, Orla Østerby
+(UFG), Sikandar Siddique (UFG), Simon Emil Ammitzbøll-Bille
+(UFG) og Susanne Zimmer (UFG), imod stemte 0, hverken for eller
+imod stemte 0].";Henrik Dam Kristensen
+6396;title_name;":
+Sundhedsministeren har meddelt mig, at han ønsker at tage æn‐
+dringsforslag nr. 1 og 2 tilbage. Ønsker nogen at opretholde disse
+ændringsforslag?
+Da det ikke er tilfældet, er ændringsforslagene bortfaldet.
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+6702;Time;"Afstemning
+
+Det næste punkt på dagsordenen er:
+2) 3. behandling af lovforslag nr. L 213:
+Forslag til lov om beskyttelse af whistleblowere.
+Af justitsministeren (Nick Hækkerup).
+(Fremsættelse 14.04.2021. 1. behandling 27.04.2021. Betænkning
+10.06.2021. 2. behandling 15.06.2021. Lovforslaget optrykt efter 2.
+behandling).";Kl. 13:19
+7059;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stem‐
+mes.
+Afstemningen slutter.
+For stemte 94 (S, V, DF, SF, RV, EL, KF, LA, Orla Østerby (UFG),
+Sikandar Siddique (UFG), Simon Emil Ammitzbøll-Bille (UFG) og
+Susanne Zimmer (UFG)), imod stemte 0, hverken for eller imod
+stemte 1 (NB).";Henrik Dam Kristensen
+7368;Time;"Dermed er lovforslaget vedtaget og vil blive sendt til statsministeren.
+Forhandling";Kl. 13:18
+7487;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.
+
+Torsdag den 24. juni 2021 (L 235 B)
+
+Det næste punkt på dagsordenen er:
+4) 3. behandling af lovforslag nr. L 235 A:
+Forslag til lov om ændring af lov om arbejdsgiveres adgang til
+at pålægge lønmodtagere at blive testet for covid-19 m.v. og lov
+om udstationering af lønmodtagere m.v. (Udskydelse af solned‐
+gangsklausul).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(2. behandling 15.06.2021. Lovforslaget optrykt efter 2. behandling).
+
+3
+
+For stemte 91 (S, V, DF, SF, RV, EL, KF, Orla Østerby (UFG),
+Sikandar Siddique (UFG) og Susanne Zimmer (UFG)), imod stemte
+4 (NB og LA), hverken for eller imod stemte 0.
+Lovforslaget er vedtaget og bliver sendt til statsministeren.";Henrik Dam Kristensen
+8291;Time;Forhandling;Kl. 13:19
+8338;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+8463;Time;Afstemning;Kl. 13:19
+8509;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stem‐
+mes.
+Afstemningen slutter.
+For stemte 84 (S, V, DF, SF, RV, KF, Orla Østerby (UFG), Sikandar
+Siddique (UFG), Simon Emil Ammitzbøll-Bille (UFG) og Susanne
+Zimmer (UFG)), imod stemte 4 (NB og LA), hverken for eller imod
+stemte 7 (EL).
+Lovforslaget er vedtaget og bliver sendt til statsministeren.
+
+Det næste punkt på dagsordenen er:
+6) 3. behandling af lovforslag nr. L 237:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring
+m.v. og lov om sygedagpenge. (Dagpengeret til selvstændige
+erhvervsdrivende uden forudgående medlemskab af en arbejds‐
+løshedskasse, midlertidigt ophør af selvstændig virksomhed og
+forlængelse af den midlertidige periode med ret til sygedagpenge
+for lønmodtagere, der er i øget risiko ved smitte med covid-19,
+og for lønmodtagere, der er pårørende til personer, der er i øget
+risiko ved smitte med covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 04.06.2021. 1. behandling 15.06.2021. Betænkning
+22.06.2021. 2. behandling 24.06.2021).";Henrik Dam Kristensen
+9582;Time;Forhandling;Kl. 13:21
+9629;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+9754;Time;"Afstemning
+Det næste punkt på dagsordenen er:
+5) 3. behandling af lovforslag nr. L 235 B:
+Forslag til lov om ændring af lov om forebyggelse af smitte med
+covid-19, når arbejdsgivere stiller bolig til rådighed for ansatte,
+og lov om pligt til at sikre covid-19-test af tilrejsende arbejds‐
+kraft efter indrejse i Danmark. (Udskydelse af solnedgangsklau‐
+suler).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(2. behandling 15.06.2021. Lovforslaget optrykt efter 2. behandling).";Kl. 13:21
+10245;Time;Forhandling;Kl. 13:20
+10292;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+10417;Time;Afstemning;Kl. 13:20
+10463;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stem‐
+mes.
+Afstemningen slutter.";Henrik Dam Kristensen
+10593;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse. [Der kan stem‐
+mes].
+Afstemningen slutter.
+For stemte 95 (S, V, DF, SF, RV, EL, KF, NB, LA, Orla Østerby
+(UFG), Sikandar Siddique (UFG), Simon Emil Ammitzbøll-Bille
+(UFG) og Susanne Zimmer (UFG)), imod stemte 0, hverken for eller
+imod stemte 0.
+Lovforslaget er vedtaget og bliver sendt til statsministeren.
+
+4
+
+Torsdag den 24. juni 2021 (B 298)
+
+Det næste punkt på dagsordenen er:
+7) 3. behandling af lovforslag nr. L 238:
+Forslag til lov om ændring af lov om en aktiv beskæftigelsesind‐
+sats. (Særlig løntilskudsordning for langtidsledige seniorer).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 11.06.2021. 1. behandling 15.06.2021. Betænkning
+22.06.2021. 2. behandling 24.06.2021).";Henrik Dam Kristensen
+11357;Time;Forhandling;Kl. 13:21
+11404;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+11529;Time;Afstemning;Kl. 13:22
+11575;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stem‐
+mes.
+Afstemningen slutter.
+For stemte 90 (S, V, DF, SF, RV, EL, KF, Orla Østerby (UFG),
+Sikandar Siddique (UFG) og Susanne Zimmer (UFG)), imod stemte
+2 (LA), hverken for eller imod stemte 3 (NB og Simon Emil Am‐
+mitzbøll-Bille (UFG)).
+Lovforslaget er vedtaget og vil nu blive sendt til statsministeren.
+
+det, ikke svare til at sparke til en, der ligger ned, men til en, som er
+ved at rejse sig op.
+Selv om Socialdemokratiets politiske ordfører stod på den her ta‐
+lerstol ved afslutningsdebatten og seriøst påstod, at regeringen havde
+gjort deres hjemmearbejde i sagen om Holmegaard, tror jeg, det er
+tydeligt for alle andre end regeringen selv, at det bestemt ikke er til‐
+fældet, for skeletterne bliver jo ved med at vælte ud af skabet. Først
+fandt vi ud af, at regeringen slet ikke havde besigtiget ejendommen,
+før de købte den. Så fandt vi ud af, at regeringen ikke havde skæn‐
+ket lovens bestemmelser om lokal høring en eneste tanke. Til sidst
+finder vi så ud af, at regeringen betaler en gedigen overpris for
+ejendommen, stik imod rådgivningen fra regeringens egne rådgivere.
+At pengene så i øvrigt gik til en mand, der tidligere er dømt for
+svindel med EU-midler, er bare endnu et skelet. Så meget for at have
+gjort sit hjemmearbejde. Men det er faktisk ikke engang det værste.
+Den måde, regeringen har ageret på bagefter, er endnu værre, for da
+et flertal i Folketinget, og heldigvis for det, får sagt nej til planerne
+om Langeland, sætter regeringen sig hen i hjørnet med armene over
+kors og surmuler som en fornærmet teenager.
+Nu er det ikke længere regeringens ambition at leve op til de
+løfter, de har givet til midtjyderne, om, at de her dybt kriminelle
+mennesker skal flyttes fra Kærshovedgård. Derfor har vi sammen
+med en række andre partier fremsat det her forslag, og det er et
+forslag, som går på to ben. Det første ben er, at regeringen skal på‐
+lægges endeligt at lægge planerne om et udrejsecenter på Langeland
+i graven, og det andet ben er, at regeringen bliver pålagt at indkalde
+til drøftelser, så vi kan finde en ny placering og dermed leve op til
+løftet til midtjyderne, de midtjyder, som jeg i øvrigt godt kan forstå
+føler sig meget svigtet af regeringen. Jeg håber på, at det her forslag
+lige om lidt bliver vedtaget, og så ser vi frem til at forfølge den her
+sag, for den er bestemt ikke slut endnu. Tak for ordet.";Henrik Dam Kristensen
+13997;Time;;Kl. 13:26
+14032;title_name;":
+Jeg ser, at der er en kort bemærkning fra hr. Christian Juhl, Enhedsli‐
+sten.
+Det sidste punkt på dagsordenen er:
+8) 1. (eneste) behandling af beslutningsforslag nr. B 298:
+Forslag til folketingsbeslutning om stop for Udrejsecenter Hol‐
+megaard på Langeland.
+Af Morten Dahlin (V), Pia Kjærsgaard (DF), Marcus Knuth (KF),
+Pernille Vermund (NB), Henrik Dahl (LA) og Inger Støjberg (UFG).
+(Fremsættelse 21.05.2021. Betænkning 15.06.2021).";Henrik Dam Kristensen
+14479;Time;Forhandling;Kl. 13:22
+14526;title_name;":
+Jeg vurderer lige, hvor stor talelysten er. I givet fald vil jeg selvføl‐
+gelig slukke A'et, men jeg forstår, at i hvert fald hr. Morten Dahlin
+ønsker ordet. Værsgo.";Henrik Dam Kristensen
+14704;Time;;Kl. 13:26
+14725;name_party;":
+For det første vil jeg gerne bede ordføreren om ikke at tale på vegne
+af os midtjyder – det kan vi sagtens selv. Vi har trivedes med det
+sted, og der har været mange myter om, hvad der rent faktisk sker i
+vores byer og landsbyer. Der er ikke nogen overkriminalitet, for så
+ville aviserne har været fyldt med artikler om det. Det er den ene
+ting.
+Den anden ting er, at jeg synes, at det her er et lidt populistisk
+forslag. Skal vi stemme om hver eneste sted, vi ikke skal have et
+center? Det er det ene. Som det andet vil jeg for at være lidt kon‐
+struktiv spørge: Hvad synes ordføreren om Hjørrings borgmesters
+geniale idé om at fordele de mennesker, der skal være et sted, i de
+forskellige regioner? Han har endda sagt, at de gerne tager lidt flere
+end de andre, der brokker sig og kun siger, hvad de ikke vil.";Christian Juhl
+15549;Time;(Ordfører);Kl. 13:23
+15579;name_party;":
+Tak for det, formand. Sagen om et nyt udrejsecenter har mildest talt
+været håndteret amatøragtigt. Den her sag starter jo, da regeringen
+uden at have inddraget andre end sig selv beslutter sig for at placere
+et udrejsecenter for dybt kriminelle udviste på Langeland. Man skal
+ikke have fulgt meget med på det udlændingepolitiske område for
+at kunne forudsige, hvilke katastrofale konsekvenser det ville have
+haft for et lille lokalsamfund. Så det var og er en dybt kritisabel
+beslutning. Det ville, som en langelænder nok mest præcist udtrykte";Morten Dahlin
+16135;Time;;Kl. 13:27
+16170;title_name;":
+Ordføreren.";Henrik Dam Kristensen
+16193;Time;;Kl. 13:27
+16212;name_party;":
+For det første må jeg sige, at jeg er dybt uenig med spørgeren fra En‐
+hedslisten. Jeg har selv besøgt Kærshovedgård og lokalsamfundet,
+og de her dybt kriminelle udviste skaber utryghed. De skaber en stor
+utryghed for dem, der bor i nærheden, og for dem, der driver forret‐
+ning i nærheden, så jeg er dybt uenig med Enhedslistens analyse af,
+at det her ikke skaber utryghed.
+
+Torsdag den 24. juni 2021 (B 298)
+
+Hvad angår den socialdemokratiske borgmesters forslag om at
+fordele de her mennesker, så har jeg ikke læst nærmere om det, men
+vores udgangspunkt er jo, at der skal laves et nyt udrejsecenter, og vi
+har så foreslået, at det skal være på en ubeboet ø, mens regeringen
+foreslår, at det skal være på en beboet ø, og der tror jeg vitterlig, at
+man skal være socialdemokrat for at påstå, at det ikke skaber mere
+utryghed at placere det på beboet ø end at placere det på en ubeboet
+ø.";Morten Dahlin
+17114;Time;;Kl. 13:27
+17149;title_name;":
+Hr. Christian Juhl.";Henrik Dam Kristensen
+17181;Time;;Kl. 13:29
+17200;name_party;":
+Det var også det svar, jeg havde forventet. Så vil jeg bare gerne
+spørge, hvad ordførerens kommentar er til de mange borgere, der bor
+i Kalvehave, og som er akkurat lige så utrygge ved udsigten til at
+få et udrejsecenter tæt på dem, som langelænderne har været. Jeg
+ved også, at hr. Morten Dahlin er valgt i samme storkreds, som jeg
+er, nemlig Sjællands Storkreds, hvor Lindholm og Kalvehave ligger.
+Hvad er svaret til borgerne i Kalvehave?";Zenia Stampe
+17652;Time;;Kl. 13:29
+17663;Time;;Kl. 13:27
+17684;name_party;":
+Tak for det. Vi elsker gæster i Midtjylland, men vi elsker ikke bedre‐
+vidende gæster, der på baggrund af et enkelt besøg en enkelt time
+begynder at udtale sig så kategorisk, som ret mange i den her sal gør,
+om, hvad der sker i området.
+Jeg synes da, det er mærkeligt, at ordføreren, som har så travlt
+med at afvise det her forslag – og det kan der være mange grunde til
+– ikke engang kan sige, om han synes, at det, Hjørrings borgmester
+foreslår, er en god idé. Jeg synes, at forslaget om at fordele dem ude
+i regionerne, så der ikke er så stor en koncentration, hvilket der også
+er mange der har klaget over, er det er det klogeste, der er blevet
+foreslået indtil nu.";Christian Juhl
+18365;Time;;Kl. 13:28
+18400;title_name;":
+Ordføreren, værsgo.";Henrik Dam Kristensen
+18456;title_name;":
+Ordføreren.";Henrik Dam Kristensen
+18479;Time;;Kl. 13:29
+18498;name_party;":
+Svaret til borgerne i Kalvehave er jo naturligvis, at det er lidt skægt,
+hvad fru Zenia Stampe siger, i forhold til at det er det eneste sted i
+Danmark, hvor man skal stemme på Radikale Venstre, hvis man øn‐
+sker færre flygtninge – det er så i Kalvehave. Altså, vi mener, at en
+løsning med en ubeboet ø medfører mindre utryghed for danskerne
+end at lægge det på en beboet ø. Vi siger ikke, der findes en genial
+løsning på det her problem. Der findes kun dårlige løsninger, men vi
+skal da tage den mindst dårlige, og det er altså en ubeboet ø.";Morten Dahlin
+19052;Time;;Kl. 13:30
+19087;title_name;":
+Så er det fru Rosa Lund, Enhedslisten. Værsgo.";Henrik Dam Kristensen
+19145;Time;;Kl. 13:30
+19156;Time;;Kl. 13:28
+19167;Time;;Kl. 13:28
+19183;name_party;":
+Tak for det. Jeg tager ordet, fordi hr. Morten Dahlin kommer ind på
+det her med motivationsfremmende foranstaltninger. Og der skal jeg
+bare høre, om hr. Morten Dahlin sidder med nogle andre oplysnin‐
+ger, end vi gør i Enhedslisten. For i 2012 konkluderede Rigspolitiet,
+at frihedsberøvelse ikke er en motivationsfremmende foranstaltning.
+I 2018 spurgte vi i Enhedslisten ind til det igen, og der fik vi det
+samme svar: Frihedsberøvelse er ikke en motivationsfremmende for‐
+anstaltning. Nu er vi i år 2021, og vi har ikke fået nogen nye svar
+i Enhedslisten, men det lyder jo lidt, som om hr. Morten Dahlin har
+nogle andre svar, end vi har i Enhedslisten, så dem vil jeg da gerne
+høre.";Rosa Lund
+19879;Time;;Kl. 13:29
+19914;title_name;":
+Ordføreren, værsgo.";Henrik Dam Kristensen
+19954;name_party;":
+Det kan jeg sige meget klart: Det synes vi ikke er en god idé. En
+af de vigtigste pointer ved at have et udrejsecenter er jo at motivere
+de her mennesker til at forlade Danmark, for hele målsætningen med
+det her er jo ikke, at de skal ud og bo og integrere sig i et lokalsam‐
+fund. Det her er mennesker, der har begået alvorlig kriminalitet,
+og som derfor skal forlade Danmark hurtigst muligt, og derfor skal
+vi selvfølgelig lave et system, som motiverer dem til at forlade
+Danmark, og jeg tror ikke på, at den løsning, Hjørrings borgmester
+foreslår, vil leve op til det formål.";Morten Dahlin
+20568;title_name;":
+Fru Zenia Stampe, værsgo.";Henrik Dam Kristensen
+20613;name_party;":
+Jeg vil bare gerne bede ordføreren om at fortælle, hvor det er, de her
+tidligere kriminelle asylansøgere og udvisningsdømte så skal være.";Zenia Stampe
+20762;Time;;Kl. 13:29
+20797;title_name;":
+Ordføreren.";Henrik Dam Kristensen
+20820;Time;;Kl. 13:29
+20839;name_party;":
+Vi mener, de skal placeres på en ubeboet ø i Stege Bugt, der hedder
+Lindholm.";Morten Dahlin
+20928;Time;;Kl. 13:29
+20963;title_name;":
+Fru Zenia Stampe.
+
+5";Henrik Dam Kristensen
+20996;Time;;Kl. 13:30
+21007;Time;;Kl. 13:30
+21026;name_party;":
+Jamen jeg tror, det er et udtryk for en politisk uenighed. Jeg er over‐
+bevist om, at hvis man gør det, som Enhedslisten lige har kaldt det
+mest geniale forslag, altså spreder de her mennesker ud, lader dem
+integrere sig i lokalsamfundet og bosætte sig i alle mulige miljøer og
+måske endda lader dem få lov at arbejde og al mulig andet, så er der
+da mindre sandsynlighed for, at de vil forlade Danmark. Det siger
+sig selv. Vi har nogle dybt kriminelle udvisningsdømte udlændinge,
+om hvem i hvert fald et bredt flertal i Folketinget har sagt, at de
+ønsker, de skal forlade Danmark. Derfor bliver vi selvfølgelig nødt
+til at installere dem under nogle forhold, som motiverer dem til at
+forlade Danmark. Man kunne jo stille spørgsmålet den anden vej og
+spørge: Er Enhedslisten overhovedet enige i intentionen om, at de
+her mennesker skal forlade landet hurtigst muligt?
+
+6
+
+Torsdag den 24. juni 2021 (B 298)";Morten Dahlin
+21944;Time;;Kl. 13:31
+21979;title_name;":
+Fru Rosa Lund.";Henrik Dam Kristensen
+22005;Time;;Kl. 13:31
+22021;name_party;":
+Jamen vi synes da naturligvis ikke, at man skal være her, hvis man
+er udvist af Danmark og ikke har et lovligt opholdsgrundlag. Men
+jeg vil gerne vende tilbage til mit spørgsmål, hr. Morten Dahlin, nu,
+hvor det er mig, der er spørgeren, nemlig: Har hr. Morten Dahlin nye
+oplysninger, som viser, at frihedsberøvelse virker motivationsfrem‐
+mende? Jeg kunne jo også spørge: Hvor mange har man på grund
+af de forhold, der er på Kærshovedgård, som er vanvittig dårlige,
+fået til frivilligt at rejse ud af Danmark, hr. Morten Dahlin? Altså,
+hvad er det, der gør, at Venstre er så overbeviste om, at den her
+model med opholdspligt, meldepligt og dårlig behandling får folk til
+at rejse ud?";Rosa Lund
+22716;Time;;Kl. 13:32
+22751;title_name;":
+Tak. Ordføreren, værsgo.";Henrik Dam Kristensen
+22787;Time;;Kl. 13:32
+22806;name_party;":
+Jeg bliver lige nødt til at stoppe op et øjeblik her. I forhold til at
+påstå, at det danske samfund giver de her mennesker dårlig behand‐
+ling, vil jeg sige, at jeg synes, det er lige omvendt. Det her er nogle
+mennesker, der er kommet til Danmark: de er blevet tilbudt husly,
+de er blevet tilbudt beskyttelse, de er blevet tilbudt sundhed, og den
+måde, de betaler det danske samfund tilbage på, er ved at begå så
+alvorlig kriminalitet, at vores lovgivning siger, de skal udvises af
+Danmark. Det er altså ikke os, der behandler dem ordentligt. Det er
+lige omvendt.";Morten Dahlin
+23381;Time;;Kl. 13:32
+23416;title_name;":
+Tak til hr. Morten Dahlin. Der er ikke flere korte bemærkninger. Det
+er sådan, at jeg har noteret to ordførere, der har bedt om ordet. Det er
+hr. Kristian Thulesen Dahl og fru Pernille Vermund, og hvis der ikke
+kommer flere ordførere, vil jeg fortsætte med at have afstemningsA'et tændt. Kommer der flere, vil jeg selvfølgelig overveje at slukke
+for A'et.
+Værsgo, hr. Kristian Thulesen Dahl, Dansk Folkeparti.";Henrik Dam Kristensen
+23837;Time;(Ordfører);Kl. 13:33
+23877;name_party;":
+Tak for det. Hvis man er dømt for terror i Danmark og dømt til
+udvisning, hvis man er dømt for voldtægt i Danmark og dømt til
+udvisning, hvis man er dømt for narkotikakriminalitet i Danmark og
+dømt til udvisning – for at tage de tre eksempler – så synes vi i
+Dansk Folkeparti slet ikke, at man skal have lov til at gå frit rundt
+i det danske samfund og genere lovlydige danske borgere. Vi synes
+sådan set, at hverken naboer til Kærshovedgård i Midtjylland eller
+naboer til Holmegaard på Langeland eller danskere i Kalvehave,
+naboer til den ubeboede ø Lindholm, bør have de her mennesker
+vadende frit rundt.
+Jeg synes i virkeligheden, noget blev klart, da regeringen ville
+flytte 130 – hvoraf dem, jeg taler om her, er en del – fra Kærsho‐
+vedgård i Midtjylland til Langeland og langelænderne med god ret
+stillede sig op og protesterede og sagde: Nej tak, dem ønsker vi
+ikke som naboer. Hvad var regeringens svar til de her mennesker, til
+de her naboer? Det var, at de kunne få tilskud til at sætte hegn op
+omkring deres bolig, så de her kriminelle udlændinge, som er udvist
+
+af Danmark, og som kan gå frit rundt i det danske samfund, ikke
+kunne genere dem. For nu havde naboerne fået hegn omkring sig.
+Eller man kunne få tilskud til alarmsystemer, sådan at man, hvis de
+alligevel brød ind i ens hus, kunne vide, at de brød ind i ens hus. Og
+når man skulle op at handle i den lokale butik, oppe hos den lokale
+købmand eller brugs, så kunne der være vagter deroppe, som kunne
+prøve at skabe lidt sikkerhed for de her mennesker.
+Jeg tror da et eller andet sted, at det meste af Folketinget – altså,
+der er nok nogle enkelte, vi slet ikke kan nå her – vel sådan helt
+lavpraktisk må nå frem til, at det er en uholdbar situation, vi er
+endt i, hvis de her kriminelle udlændinge, som er udvist af vores
+land, skal have lov til at gå frit rundt, mens de danskere, der så er
+deres naboer, skal føle frygt. Derfor synes vi jo, at vi virkelig skal
+diskutere det her grundigt og finde ud af, hvordan vi løser det, så
+danskerne får trygheden tilbage.
+Det her beslutningsforslag går jo på to ben. Hvad angår det ene
+ben, kan man umiddelbart sige, at der er løst, for der har integra‐
+tions- og udlændingeministeren trukket i land og sagt: Vi flytter
+ikke de her 130 mennesker fra Kærshovedgård i Midtjylland til
+Holmegaard på Langeland. Så man kan sige, at den første pind i
+det her forslag sådan set allerede er udmøntet. Men den anden pind
+i forslaget går så ud på, at regeringen skal indkalde Folketingets
+partier for at finde ud af, hvad vi så gør nu. For de fleste af os ved jo
+– der er nogle enkelte undtagelser, og dem tror jeg ikke vi kan nå –
+at vi har en uholdbar situation.
+Hvad har integrations- og udlændingeministeren så gjort, siden
+han trak forslaget om Langeland? Der vil jeg i virkeligheden lægge
+mig i halen af det, hr. Morten Dahlin sagde heroppe fra for et øjeblik
+siden. Altså, integrations- og udlændingeministeren har sagt: Okay,
+så dropper vi det med Langeland, når I nu er så sure over det, og
+så kan I bare forklare midtjyderne, hvorfor de fortsat skal have de
+her mennesker som naboer. For nu har regeringen jo gjort sit: nu
+har regeringen, mener den selv, levet op til sit løfte om at anvise en
+anden løsning end øen Lindholm. Så nu har regeringen valgt at gå på
+sommerferie og foretager sig ikke mere for at løse den her opgave
+for de danskere, der føler sig utrygge. Men det er jo helt uholdbart.
+Det her burde være noget, der aflyste sommerferien for integrationsog udlændingeministeren, for han satte sig helt frem i bussen for
+at finde en løsning, som gjorde, at danskerne, uanset hvor de bor i
+Danmark, faktisk kunne føle sig trygge.
+Derfor vil jeg bare opfordre til, at man selvfølgelig får vedtaget
+beslutningsforslaget, så vi om ikke andet pålægger ministeren at
+indkalde til de forhandlinger, men ellers til, at ministeren som mini‐
+mum tager ordet heroppe på talerstolen og forklarer de mange af os
+herinde, der er undrende – der er nok nogle, vi ikke kan nå – hvorfor
+i alverden ministeren så ikke har gjort noget ved det her siden det
+tidspunkt, hvor man opgav Langeland, og hvad regeringen i øvrigt så
+vil gøre i fremtiden for at sikre danskernes tryghed.
+Jeg håber, at vi får svaret her. Ellers kan det være, at vi får svaret
+på mandag, hvor vi jo har indkaldt til et samråd i udvalget med mini‐
+steren for at få svar på de her spørgsmål. Jeg håber, at ministeren kan
+finde lidt mere end den time, han vist har sat af til det på mandag.
+Det var det, vi for en måneds tid siden, da vi bad om samrådet,
+kunne få stillet til rådighed på mandag, og det er jo fantastisk stort,
+at en minister vil give Folketinget en hel time på mandag. Altså, 3-4
+uger efter at vi bad om samrådet, kan han så sætte en time af til, at vi
+kan snakke om det. Jeg håber da om ikke andet, at vi kan få svar her
+i Folketingssalen i dag og ellers på mandag, hvor vi forhåbentlig kan
+få skrabet lidt bedre tid sammen. For det her er en vigtig sag. Det er
+det af hensyn til de danskere, der føler sig utrygge, og det er, uanset
+om de bor i Midtjylland, på Langeland eller i Kalvehave, eller hvor
+ellers i Danmark man bor og er utryg over de her menneskers færden
+i det danske samfund.
+
+Torsdag den 24. juni 2021 (B 298)";Kristian Thulesen Dahl
+29110;Time;;Kl. 13:38
+29145;title_name;":
+Der er en kort bemærkning. Først er det hr. Rasmus Jarlov.
+
+7
+
+lang tid havde givet et løfte om, at man ville finde en bedre løsning
+end Kærshovedgård. Tak.";Henrik Dam Kristensen
+29313;Time;;Kl. 13:40
+29324;Time;;Kl. 13:38
+29344;name_party;":
+Jeg er jo meget enig i indlægget her fra hr. Kristian Thulesen Dahl.
+Jeg vil også bemærke, at jeg synes, der er rigtig meget diskutere her,
+og at der er rigtig meget at kritisere: Købet af en bygning til over‐
+pris: hykleriet i, at man først er imod Lindholm og derefter foreslår
+en løsning, som er endnu dårligere for et lokalsamfund osv. Derfor
+synes jeg, det er meget kritisabelt, at vi ikke ser Socialdemokratiet
+og regeringen gå op på talerstolen og tage debatten med Folketinget,
+men bare holder lav profil, fordi man ved, at man har en dårlig sag –
+og så håber man, det går over.
+Så jeg synes, det er godt, at Dansk Folkeparti indkalder til sam‐
+råd, og jeg ville ønske, at regeringen havde mandsmod til at gå op på
+talerstolen.";Rasmus Jarlov
+30091;Time;;Kl. 13:38
+30126;title_name;":
+Ordføreren.";Henrik Dam Kristensen
+30149;Time;;Kl. 13:38
+30178;name_party;":
+Jamen tak til hr. Rasmus Jarlov. Jeg synes jo også, at det er kende‐
+tegnende, at man opgav Lindholm, fordi, som man sagde, det var
+for dyrt. Og så anviser man så et område på Langeland, hvor man
+jo efter det, der er kommet frem indtil nu i hvert fald, har betalt
+overpris for bygningen. Man kunne da starte med kun at give det,
+som bygningen rent faktisk var prissat til: men der ser det ud til at
+man har givet overpris. Det har vi heller ikke fået nogen form for
+antydning af et svar på.
+Så det er rigtigt, at der er rigtig mange ting, der trænger til at
+blive belyst her. Jeg glæder mig til, at der forhåbentlig er nogen fra
+regeringen, der vil lytte til hr. Rasmus Jarlovs anmodning og svare
+på spørgsmålene heroppe fra talerstolen.";Kristian Thulesen Dahl
+30927;Time;;Kl. 13:39
+30962;title_name;":
+Det er sådan, at hr. Marcus Knuth har bedt om ordet som ordfører,
+og derfor siger vi tak til hr. Kristian Thulesen Dahl. Jeg fastholder
+afstemnings-A'et, da der kun er en ordfører ekstra, der har bedt om
+ordet. Værsgo.";Henrik Dam Kristensen
+31192;Time;(Ordfører);Kl. 13:39
+31222;name_party;":
+Tak, formand. Jeg skal ikke bruge meget tid på det her, for jeg vil
+egentlig følge op på det, hr. Rasmus Jarlov sagde. Jeg synes, det er
+meget, meget underligt, at udlændingeministeren ikke selv kommer
+op og tager ordet.
+Jeg tror, at vi var rigtig mange, der havde glædet os til at se,
+hvad Socialdemokratiet ville gøre. De havde jo kritiseret Lindholm.
+Lindholm var ikke en perfekt løsning, men det var i hvert fald var
+den bedste løsning, vi kunne finde på – en øde ø. Man mente også, at
+man kunne finde en løsning, der var bedre end Kærshovedgård – og
+nu er der så ikke nogen løsning.
+Jeg tror, at de mennesker, der bor i området Ikast-Brande, som
+virkelig havde glædet mig til, at regeringen ville levere på sit løfte,
+bare må være stærkt, stærkt skuffede.
+Så jeg vil egentlig bare opfordre udlændingeministeren til at
+komme herop og forklare, hvad regeringen egentlig vil gøre for at
+hjælpe de mange mennesker i Ikast-Brande, som man gennem så";Marcus Knuth
+32207;title_name;":
+Tak til ordføreren. Ingen korte bemærkninger. Og derfor går vi ef‐
+ter lidt afspritning videre til fru Pernille Vermund, Nye Borgerlige.
+Værsgo.";Henrik Dam Kristensen
+32363;Time;(Ordfører);Kl. 13:41
+32397;name_party;":
+Det er glædeligt, at der lader til at være flertal for det beslutningsfor‐
+slag, som er et fælles borgerligt beslutningsforslag, som vi behandler
+i dag, og at regeringen allerede ved udsigten til at komme i mindretal
+besluttede at ændre planer. Men hvorfor skulle vi igennem hele det
+her cirkus med et udrejsecenter på Langeland, som ingen jo ønsker
+sig? Hvorfor var det nødvendigt for langelænderne at sige så kraftigt
+fra og mobilisere alle kræfter? Det er jo indlysende, at ingen i Dan‐
+mark ønsker, at terrordømte, voldtægtsforbrydere og andre alvorligt
+kriminelle udlændinge skal gå frit omkring i deres lokalområde. Der
+er jo altså en grund til, at de her mennesker er blevet udvist.
+Man ønsker dem ikke i Brande omkring Kærshovedgård. Man
+ønskede dem heller ikke i Kalvehave, da øen Lindholm blev foreslå‐
+et, og man ønsker dem heller ikke på Langeland. Og med god ret.
+Selvfølgelig skal udviste voldsmænd ikke færdes frit i samfundet.
+Det er en fuldstændig sund og logisk holdning, at det ikke er dan‐
+skerne, der skal forskanse sig og leve i utryghed. Det er til gengæld
+fuldstændig ulogisk og usundt, at en fortolkning af en konvention
+gør danske politikere magtesløse på det her område.
+Udviste kriminelle udlændinge, som er dømt for voldtægt, for
+terror og for narko, skal ud af landet. Og vil de ikke det, må de
+opholde sig et sted, hvor der kun er en dør ud, og det er døren ud af
+Danmark. Tak for ordet.";Pernille Vermund
+33827;Time;;Kl. 13:42
+33862;title_name;":
+Tak til fru Pernille Vermund. Lidt sent er der markeret for et spørgs‐
+mål fra fru Zenia Stampe, men det når vi lige, for fru Pernille
+Vermund er ikke gået ned fra talerstolen. Værsgo.";Henrik Dam Kristensen
+34058;Time;;Kl. 13:42
+34077;name_party;":
+Det var formuleringen omkring én dør, og at det kun er døren ud, der
+fik mig til at markere. Og jeg går så ud fra, at fru Pernille Vermund
+i lighed med Venstre synes, at det her udrejsecenter skal ligge på
+Lindholm. Så vil jeg bare sige, for det er måske ikke et spørgsmål,
+men mere en kommentar, at der jo er en vej, der ikke kun fører ud
+af landet: der er jo en vej, der hedder en færge, også over til byen
+Kalvehave – som altså udtales »kallehave«, selv om det ikke staves
+sådan: så det er ikke, fordi jeg ikke kender mit lokalområde. Og
+derfor vil jeg bare spørge: Hvad er svaret til de beboere, som har
+den dør i forhold til de her tidligere kriminelle udvisningsdømte?
+Den eneste dør, som der rent faktisk er, fører hen til deres lille
+lokalsamfund. Hvad er fru Pernille Vermunds svar til dem?";Zenia Stampe
+34888;Time;;Kl. 13:43
+34923;title_name;":
+Ordføreren.";Henrik Dam Kristensen
+34946;Time;;Kl. 13:43
+34969;name_party;":
+Jamen den eneste grund til, at vi nu bakker op om Lindholm, er, at
+man har solgt færgen, og at der jo ikke længere er en færgeforbindel‐
+se. Dengang der var en færgeforbindelse, var det vores kritik – det
+
+8
+
+Torsdag den 24. juni 2021 (B 298)
+
+var jo netop, at de her mennesker havde mulighed for at sejle i land
+og at ødelægge et nyt lokalområde. Og vi synes ikke, det er rimeligt,
+at man bare flytter rundt på de her problemer. Vi synes ikke, det
+er rimeligt, at der er nogen danskere, der skal generes af kriminelle
+udlændinge. Vi synes til gengæld, det er helt rimeligt, at man, hvis
+man er udvist af Danmark, ikke skal kunne gå frit rundt i vores land.";Pernille Vermund
+35639;Time;;Kl. 13:44
+35674;title_name;":
+Fru Zenia Stampe.";Henrik Dam Kristensen
+35703;Time;;Kl. 13:44
+35722;name_party;":
+Altså, det kan godt være, at man har solgt færgen, men så vidt jeg
+er bekendt med udlændingeretten, har man desværre ikke mulighed
+for at afskære de her mennesker fra at bevæge sig videre. De har jo
+meldepligt, de sidder ikke i fængsel. Ergo bliver man jo nok nødt til
+så at anskaffe sig en ny færge. Og hvad er svaret så fra fru Pernille
+Vermund, når de her mennesker så alligevel kommer til at troppe op
+i Lindholm, fordi man ifølge udlændingeretten ikke kan afskære dem
+fra det?";Zenia Stampe
+36215;Time;;Kl. 13:44
+36250;title_name;":
+Ordføreren.";Henrik Dam Kristensen
+36273;Time;;Kl. 13:44
+36296;name_party;":
+Jamen mit svar og Nye Borgerliges svar er, at det er os herinde, der
+skal vedtage udlændingeloven: det er os, der skal bestemme, hvad
+der er af regler for udvisningsdømte kriminelle udlændinge. Og det
+er simpelt hen ikke rimeligt – det er det, jeg siger i min ordførertale
+– at vi lader os paralysere af konventioner, som betyder, at uanset
+hvor man placerer det her udrejsecenter, vil der være danskere, som
+skal chikaneres, leve i utryghed og forskanse sig i deres eget lokal‐
+område. Så lovgivningen må laves om, når lovgivningen i dag giver
+de her mennesker mulighed for at chikanere danskerne.";Pernille Vermund
+36906;Time;;Kl. 13:45
+36941;title_name;":
+Tak til ordføreren. Der er ikke flere korte bemærkninger. Og der
+er ikke flere ordførere, der har bedt om ordet, og derfor er det nu
+udlændinge- og integrationsministeren. Værsgo.";Henrik Dam Kristensen
+37132;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Tak til formanden for ordet, og tak for de indlæg, der har været
+fra ordførerne. Det beslutningsforslag, som vi behandler nu i dag,
+pålægger regeringen at standse etableringen af et udrejsecenter på
+ejendommen Holmegaard på sydspidsen af Langeland. Som alle her
+i salen ved, er det en sag, der har udviklet sig lidt, siden beslutnings‐
+forslaget blev fremsat. Vi har som bekendt allerede droppet planerne
+om etableringen af sådan et udrejsecenter på ejendommen Holme‐
+gaard på Langeland, men jeg vil alligevel gerne sætte lidt flere ord
+på baggrunden for vores beslutning.
+Vi har fra den allerførste dag af den her regerings levetid arbejdet
+på at styrke hjemrejseindsatsen. Da vi trådte til, var der omkring
+1.100 afviste asylansøgere i det, der hedder udsendelsesposition.
+Rigtig mange af dem har været i udsendelsesposition i flere år, og
+det er et problem, som jeg godt mener vi kan løse lidt bedre, og
+derfor har det fra starten været og vil også fortsat være en meget
+høj prioritering for den her regering at få flere afviste asylansøgere
+og kriminelle udviste til at rejse hjem, så vi kan få antallet, der er i
+udsendelsesposition, ned.
+
+Men hvis det var let, var der nok nogen før os, der havde gjort
+det for lang tid siden. Der er ingen hurtige snuptagsløsninger på det
+her område: der er derfor kun tålmodigt og vedholdende rugbrøds‐
+arbejde. Regeringen har gennemført en række tiltag for at styrke
+hjemrejseindsatsen, som bygger oven på de udmærkede regler, der er
+indført både den tidligere og den forrige regering. Det er nogle tiltag,
+der er gennemført hen over midten i Folketingssalen, og som vi er
+meget glade for er blevet gennemført. Vores overordnede pejlemær‐
+ke har været, at alle kreative forslag til en ny hjemrejsepolitik kan
+diskuteres, så længe det faktisk bidrager til at få folk på flyene hjem.
+Kan katten fange mus, er vi glade for det.
+Vi har også haft den tommelfingerregel, at hjemrejsepolitikken
+skal tilrettelægges på en måde, hvor børnene bliver skærmet bedre,
+end det skete på Udrejsecenter Sjælsmark før valget. Vi har så bl.a.
+sidste år oprettet Hjemrejsestyrelsen, som skal langt tættere på de
+enkelte udlændinge og opsøge dem aktivt, fra det øjeblik de får en
+afgørelse om, at de ikke må opholde sig i Danmark, og lige indtil de
+rejser hjem igen. Hjemrejsestyrelsen har bl.a. medarbejdere, der har
+deres daglige gang på vores udrejsecentre, hvor de har en opsøgende
+tilgang til den enkelte udlænding på det center, hvor den pågældende
+bor og opholder sig. Derudover sætter styrelsen ind med rådgivning,
+langt tidligere end vi har gjort tidligere.
+Regeringen har derudover fremsat et forslag til Danmarks første
+hjemrejselov, som blev vedtaget af Folketinget i slutningen af maj
+i år. Det er en lov, der indeholder en række nye initiativer, der
+samlet set skal sikre, at myndighederne har bedre forudsætninger for
+at få flere til at rejse hjem. Det er overordnet en hjemrejsepolitik,
+som baserer sig på en meget proaktiv og håndholdt tilgang. Hjemrej‐
+seindsatsen skal bidrage til, at langt færre i sidste ende ender på et
+udrejsecenter, så langt færre danskere ender med at være naboer til et
+udrejsecenter.
+Jeg synes, at det indtil videre ser fornuftigt ud, og at vi bevæger
+os i den rigtige retning i forhold til antallet af afviste asylansøgere
+i udsendelsesposition. Nu fik jeg lige et tal i går, og det er 2 uger
+gammelt: Vi er nede på 970 afviste asylansøgere. Jeg er med på, at
+nogle vil sige, at det stadig er et stort problem – det medgiver jeg
+fuldstændig – men vi bevæger os nedad, vi bevæger os i den rigtige
+retning. Det er godt gammeldags rugbrødsarbejde: små sikre skridt
+i den rigtige retning. Det skyldes selvfølgelig dels det lave antal
+asylansøgere, der er kommet den seneste tid, dels faktisk også, at vi
+har haft succesfulde udrejseprojekter, som har betydet, at udlændin‐
+ge uden lovligt ophold som regel i grupper er rejst hjem til deres
+hjemland – nogle gange frivilligt, nogle gange ledsaget af danske
+myndigheder.
+Derudover har regeringen oprettet et særskilt udrejsecenter for
+børnefamilier i Lejre Kommune på Midtsjælland. Med det center
+har regeringen haft fokus på at skærme børnene bedre og ændre
+rammerne for indkvartering af de børn, der tidligere boede på et
+center i Nordsjælland, der hed Sjælsmark.
+Næste skridt i hjemrejsepolitikken skulle så have været et nyt
+center for gruppen af bl.a. udvisningsdømte kriminelle udlændinge.
+Jeg er egentlig enig med Venstres ordfører, hr. Morten Dahlin, i, at
+der ikke findes nogen gode løsninger for indkvartering af den her
+gruppe, men der findes en løsning, der er den mindst dårlige, og det
+var den, vi syntes vi havde fundet med udrejsecenter Holmegaard på
+Langeland. Det var derfor, vi præsenterede den løsning i maj.
+Vores beslutning affødte en række reaktioner, ikke mindst fra be‐
+boerne på Langeland, som jeg selv mødtes med for at diskutere med
+dem og lytte til dem og tale med dem. Også her fra Folketinget rejste
+der sig reaktioner på vores beslutning, og jeg kunne konstatere, at
+der ikke alene var kritik fra en række partier, men også et flertal, der
+var klar til at gå herned i salen og trykke på den grønne knap og
+stemme for, at regeringen skulle pålægges at stoppe etableringen af
+et udrejsecenter på Langeland. I regeringen har vi ikke noget ønske
+
+Torsdag den 24. juni 2021 (B 298)
+
+om at tromle hen over et flertal i Folketinget, og derfor har vi trukket
+stikket, droppet planerne om et udrejsecenter på Langeland.
+Så nu står vi så her. Jeg forstår udmærket, at der er ærgrelse
+i Midtjylland, og vi har derfor besluttet, at vi vil fremrykke det,
+vi allerede havde planlagt, nemlig en hjælpende hånd til området
+omkring Kærshovedgård i Midtjylland, så de får yderligere støtte
+til at håndtere de udfordringer, de i forvejen har stået med. Tak for
+ordet.";Kl. 13:45
+42992;Time;;Kl. 13:51
+43027;title_name;":
+Tak for det. Jeg har foreløbig fem indtegnede, og derfor fastholder
+jeg, at A'et, som lyser, når der er afstemning, er tændt. Først er det
+hr. Morten Dahlin, Venstre. Værsgo.";Henrik Dam Kristensen
+43213;Time;;Kl. 13:51
+43232;name_party;":
+Tak til ministeren for at gå på talerstolen. Ministeren nævner den
+ene del, som det her beslutningsforslag handler om, nemlig den del
+om Langeland, men glemmer meget behændigt den anden del, som
+handler om, at ministeren skal indkalde til drøftelser, så man kan få
+flyttet de her mennesker fra Kærshovedgård.
+Den del af beslutningsforslaget er jo i virkeligheden en hjælpe‐
+nde hånd til Socialdemokratiet, for det var Socialdemokratiet, der
+i valgkampen gav midtjyderne et løfte. Derfor er mit spørgsmål
+bare: Når nu det her forslag lige om lidt bliver vedtaget, hvornår
+indkalder ministeren så til de drøftelser, så vi kan finde en løsning på
+problemerne omkring Kærshovedgård?
+
+tænkningen meget grundigt, herunder SF's betænkningsbidrag, hvori
+der står, at regeringen selv må tage ansvar for at vurdere, om og
+hvordan Folketingets partier inddrages mest hensigtsmæssigt. Det er
+jeg glad for, for jeg mener, at Folketinget havde en god dag den dag,
+de besluttede sig for i grundlovens ånd med adskillelse af lovgivende
+og udøvende magt at sige, at det er regeringen og Udlændingesty‐
+relsen, der har ansvaret for at sørge for indkvartering. Det er ikke
+noget, man skal forhandle om og sprede usikkerhed omkring masser
+af steder i Danmark.";Morten Dahlin
+44483;Time;;Kl. 13:53
+44518;title_name;":
+Tak. Så er det hr. Kristian Thulesen Dahl, Dansk Folkeparti.";Henrik Dam Kristensen
+44590;Time;;Kl. 13:53
+44619;name_party;":
+Ministeren både blæser og har mel i munden. Han siger både, at
+Folketingets flertal retter man sig efter, men alligevel gør man ikke
+det, fordi det ligger hos regeringen. Det er sådan lidt dobbeltsnak.
+Men det, jeg gerne vil spørge udlændingeministeren om – og
+fint og godt, at han tager ordet her, og hvis han så også svarer på
+spørgsmålene her, bliver det rigtig, rigtig godt – er, om ministeren
+kan bekræfte, at der ligger to vurderinger på ejendommen Holme‐
+gaard på Langeland, og at de begge er markant under det beløb på
+13,5 mio. kr., som man endte med at give for ejendommen. Og kan
+ministeren bekræfte, at for kun et par år siden tilbød sælgerne staten
+ejendommen for 8,5 mio. kr., altså den ejendom, som man nu køber
+for 13,5 mio. kr.?";Kristian Thulesen Dahl
+45377;Time;;Kl. 13:51
+45412;title_name;":
+Ministeren.
+
+9";Henrik Dam Kristensen
+45439;Time;;Kl. 13:54
+45474;title_name;":
+Ministeren.";Henrik Dam Kristensen
+45497;Time;;Kl. 13:51
+45508;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Om der kommer hjælpende hænder fra Venstre til Socialdemokratiet,
+vil jeg lade andre om at vurdere. Men jeg vil sige det på den her
+måde, at jeg ikke synes, at placeringen af et udrejsecenter egner sig
+til politiske forhandlinger. Jeg synes, at det, der står i udlændingelo‐
+ven, er fornuftigt, nemlig at det er myndighederne og ministeriet, der
+tilvejebringer og driver indkvarteringssteder.
+
+Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Tak for spørgsmålet. Jeg står lige og roder lidt rundt i papirerne,
+for jeg synes lige, at jeg så noget her, så jeg kunne læse noget
+præcist op. Jeg har selvfølgelig også fulgt diskussionen om selve
+købet, som Udlændingestyrelsen har stået for med hjælp fra Kamme‐
+radvokaten, og jeg har netop i dag godkendt et svar til hr. Troels
+Lund Poulsen, hvori der står, at Udlændingestyrelsen ikke har nogen
+ejendomsvurderingsmæssig ekspertise i forbindelse med erhvervel‐
+sen af ejendommen, og derfor søgte Udlændingestyrelsen juridisk
+bistand fra Kammeradvokaten, bl.a. i forhold til værdiansættelsen.
+Ejendomsmægleren fastsatte ejendommens aktuelle markedsværdi
+til 10,5 mio. kr., eksklusive visse dele af ejendommen, og ejendom‐
+men blev af mægleren bl.a. vurderet ud fra en for området normal
+handelsperiode, hvilket typisk er en salgsperiode på 6-12 måneder.
+Der blev i vurderingen ikke taget hensyn til den igangværende drift
+af kursusvirksomheden og sælgers tab af indtægter i den forbindelse.
+Derudover indgik det netop etablerede skydeanlæg, der hører til
+ejendommen, ikke i ejendomsmæglerens værdiansættelse.";Kl. 13:54
+47140;Time;;Kl. 13:52
+47175;title_name;":
+Hr. Morten Dahlin.";Henrik Dam Kristensen
+47205;Time;;Kl. 13:52
+47224;name_party;":
+Jeg skal bare forstå det rigtigt. Hvis det her forslag, som vi jo
+forventer, bliver vedtaget lige om lidt, har regeringen tænkt sig at
+sidde et folketingsflertal overhørig og ikke indkalde til drøftelser, på
+trods af at ministeren lige har stået og sagt, at regeringen i den anden
+sag ikke ønsker at gå imod et flertal i Folketinget.
+Så bare ganske kort: Hvis det her forslag bliver vedtaget lige om
+lidt, kan vi så forvente, at regeringen følger et flertal i Folketingets
+ønske og indkalder til drøftelser, så vi kan få afhjulpet problemerne
+omkring Kærshovedgård i Midtjylland?";Morten Dahlin
+47815;Time;;Kl. 13:52
+47850;title_name;":
+Ministeren.";Henrik Dam Kristensen
+47873;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Nej, vores fokus er at fremrykke den hjælpende hånd til Midtjylland,
+som vi i forvejen havde planlagt. Jeg har selvfølgelig også læst be‐";Kl. 13:52
+48080;Time;;Kl. 13:55
+48115;title_name;":
+Tak. Så er det hr. Kristian Thulesen Dahl. Værsgo.";Henrik Dam Kristensen
+48177;Time;;Kl. 13:55
+48206;name_party;":
+Den aktindsigt, som jo er givet, belyser, at der er to vurderinger,
+hvor den ene er den, som ministeren nævner, fra ejendomsmægler‐
+firmaet Nordicals, og den anslår værdien til 10,5 mio. kr., og så
+kommer de korrektioner, som ministeren fremdrager. Den anden er
+en vurdering på 5,35 mio. kr. Samtidig med det tilbød sælgerne
+
+10
+
+Torsdag den 24. juni 2021 (B 298)
+
+ejendommen til staten for 2 år siden for 8,5 mio. kr. Kan ministeren
+ikke lige bekræfte det?
+Sagen er jo, at hovedargumentet for ikke at vælge øen Lindholm,
+men vælge øen Langeland, er, at det skulle være billigere, og det kan
+det jo godt være i det samlende regnestykke, men derfor er det jo
+interessant at se, om staten i virkeligheden her så starter det hele med
+at købe en ejendom til overpris.
+
+Og så er det ret vigtigt, at vi rigtig hurtigt kan få flyttet folk ud i
+Kastrup Lufthavn og ikke skal til at lede efter dem alle mulige steder
+i kongeriget.";Kristian Thulesen Dahl
+49140;Time;;Kl. 13:58
+49175;title_name;":
+Hr. Christian Juhl.";Henrik Dam Kristensen
+49206;Time;;Kl. 13:58
+49217;Time;;Kl. 13:56
+49252;title_name;":
+Så får vi et svar. Værsgo til ministeren.";Henrik Dam Kristensen
+49305;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+For det første synes jeg, vi bør interesse os for, at det er en ejen‐
+domsmægler med speciale i erhvervsejendomme. Det er den sidst‐
+nævnte. Og for det andet synes jeg, at vi også bør interessere os
+for, at ejendomsmægleren rent faktisk har været på stedet. Så siger
+de så 10,5 mio. kr. Udlændingestyrelsen har købt til 13,5 mio. kr.
+Oven i de 10,5 mio. kr., er der så noget værdi i, at man har kunnet
+udleje den hen over sommeren. Udlændingestyrelsen vil gerne over‐
+tage det hurtigt, og der er noget værdi i et skydebaneanlæg, som
+ejendomsmægleren siger han ikke har ekspertise til at vurdere. Om
+de resterende 3 mio. kr. er dækket af det, skal jeg virkelig ikke gøre
+mig til ekspert over, men jeg betragter det ikke som langt væk fra,
+hvad man ville betragte som almindelig sund fornuft.";Kl. 13:56
+50164;Time;;Kl. 13:56
+50199;title_name;":
+Tak for det. Så er det hr. Christian Juhl, Enhedslisten.";Henrik Dam Kristensen
+50267;Time;;Kl. 13:56
+50288;name_party;":
+Tak for det. Jeg vil bare gerne spørge ministeren om det samme, som
+jeg spurgte om før. Hans partikollega fra Hjørring har jo fremført
+et efter min mening klogt forslag om, at man skulle fordele de her
+folk ud, mens de var i landet. For så er det, der menes at være
+en belastning for et enkeltområde ikke så hårdt, uanset hvor man
+placerer dem. Og så ville man jo kunne håndtere det meget, meget
+nemmere i regionerne. Han foreslår endda, at han vil tage mere
+end det, Hjørring skal tage for at tage deres andel. Hvad mener
+ministeren om det forslag? Er det ikke bare lige at gå til og så sørge
+for, at det er det, der bliver brugt som udgangspunkt? Så vidt jeg kan
+se, betyder det, at Hjørring skulle have 25-27 af de der mennesker,
+mens de er i landet.";Christian Juhl
+51053;Time;;Kl. 13:57
+51088;title_name;":
+Ministeren.";Henrik Dam Kristensen
+51111;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jeg bemærkede godt, at der var et medie, der havde lavet en rund‐
+spørge blandt landets borgmestre, om ikke de havde lyst til at lægge
+adresse til sådan et udrejsecenter, og at der i hvert fald var kommet
+en henvendelse den anden vej, fra Hjørrings borgmester, som havde
+det her forslag – som jeg ikke synes er godt.
+For jeg synes, det er vigtigt, at der er opholdspligt ét sted, eller i
+hvert fald få steder. Dels af sådan økonomiske og praktiske hensyn,
+fordi vi er nødt til at have polititilstedeværelse, der er nødt til at
+være et sted, hvor man kan melde sig, altså et sted, hvor man digitalt
+kan sige: Nu er jeg her. Og det kan blive meget dyrt at sætte hele
+det setup op i alle 98 kommuner. Men også fordi det faktisk en
+gang imellem lykkes at få hul igennem til et land og få dem til
+at acceptere, at de skal modtage nogle af deres egne statsborgere.";Kl. 13:57
+52049;name_party;":
+Jamen det forstår jeg ikke helt. Altså, sådan som jeg har forstået
+det, har de mennesker meldepligt, og det er måske dybest set det,
+der er lovovertrædelserne i Midtjylland. Det er, når de ikke kommer
+ind og melder til tiden, og det bliver selvfølgelig så markeret som
+en overtrædelse. Jeg mener: De har jo ikke opholdspligt, de har
+meldepligt. De har da ret til at tage sig en tur til Aarhus eller et
+andet sted, mens de er der, og altså, hvis ikke de borgerlige ellers
+har fjernet politiet fra nærområderne alle steder, er det vel også til
+at overkomme at løse den opgave, uanset om det er i Hjørring eller
+Ikast, eller hvor pokker det er henne.";Christian Juhl
+52708;Time;;Kl. 13:59
+52743;title_name;":
+Ministeren, værsgo.";Henrik Dam Kristensen
+52774;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+De har faktisk både meldepligt og opholdspligt. Men hr. Christian
+Juhl har jo ret i, at opholdspligten ikke betyder, at de er indespærret.
+De er ikke frihedsberøvet. De kan gå ud af døren, når de vil, men
+der er et par gange om ugen, hvor man skal overnatte på centeret, og
+det er, fordi de har begået noget kriminelt, i hvert fald nogle af dem,
+den straf har de afsonet, og i forlængelse af den straf, de har fået,
+har de så fået en udvisningsdom. Så vi kan ikke spærre dem inde,
+medmindre de begår ny kriminalitet.
+Nu er loven faktisk lige strammet her for ganske nylig, som
+betyder, at hvis man overtræder den her opholds- og meldepligt ad
+nogle omgange, kan man også ryge ind i spjældet i noget tid.";Kl. 13:59
+53546;Time;;Kl. 13:59
+53581;title_name;":
+Hr. Carl Valentin, SF.";Henrik Dam Kristensen
+53615;Time;;Kl. 13:59
+53635;name_party;":
+Tak. Jeg er glad for, at ministeren har læst SF's betænkningsbidrag.
+Jeg fik bare lyst til lige at komme med en kommentar, for det
+lød lidt på nogle borgerlige, som om regeringen med det her beslut‐
+ningsforslag var tvunget til at indkalde alle Folketingets partier til
+realitetsforhandlinger om, hvor det præcis skal ligge. Jeg mener slet
+ikke, at det er sådan, teksten skal læses. Man har pålagt regeringen,
+at de skal droppe udrejsecenteret på Langeland. Det har regeringen
+gjort. Så skal regeringen indkalde Folketingets partier til drøftelser
+om mulige placeringer. Det har regeringen faktisk også gjort. Vi har
+haft et fint møde om det.
+Jeg synes, at det, der er centralt herefter, er, at regeringen sørger
+for, at dens parlamentariske grundlag bliver godt inddraget, og at
+man i øvrigt holder sig til forståelsespapiret, hvor der jo står, at man
+vil lave en undersøgelse af mulige placeringer. Så længe man gør
+det, tror jeg sådan set, at vi kan have et fint forløb. SF's stemmer
+jo for det her forslag, fordi vi er meget imod, at man placerer et
+udrejsecenter på Langeland uden at have sikret sig opbakning til det.
+Det var bare en kommentar. Tak.
+
+Torsdag den 24. juni 2021 (B 298)";Carl Valentin
+54839;Time;;Kl. 14:02
+54850;Time;;Kl. 14:00
+54885;title_name;":
+Ministeren.
+
+11";Henrik Dam Kristensen
+54937;title_name;":
+Så er det hr. Morten Messerschmidt.";Henrik Dam Kristensen
+54984;Time;;Kl. 14:02
+54995;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Tak til hr. Carl Valentin. Vi har jo skrevet nogle linjer i forståelsespa‐
+piret om det her. Vi havde så forestillet os, at det skulle gennemføres
+ved at etablere et udrejsecenter på Langeland. Det bliver så ikke
+til noget. Så er det klart, at vi her har en opgave at få fulgt op på
+mellem regeringen, SF, Radikale og Enhedslisten, som er de partier,
+der står bag forståelsespapiret.";Kl. 14:00
+55447;Time;;Kl. 14:01
+55482;title_name;":
+Så er det hr. Marcus Knuth, Det Konservative Folkeparti.";Henrik Dam Kristensen
+55550;Time;;Kl. 14:01
+55569;name_party;":
+Mange tak. Nu har vi jo ventet i 2 år på, at regeringen skulle levere
+på sit løfte. Regeringen mente jo, at man havde en løsning, der var
+bedre end Lindholm, bedre end Kærshovedgård – og nu er det så
+bare blevet til absolut ingenting. I de 2 år har folk i Ikast-Brande
+jo gået og glædet sig til, at den utryghed, der var i deres område,
+skulle forsvinde, og det sker så alligevel ikke. Så jeg vil egentlig
+bare høre, hvad ministeren har at sige til folk i Midtjylland, der jo
+sidder tilbage med en enorm skuffelse.";Marcus Knuth
+56095;Time;;Kl. 14:01
+56130;title_name;":
+Ministeren.";Henrik Dam Kristensen
+56153;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jamen jeg vil da starte med at sige, at jeg godt forstår, at de er
+ærgerlige – det forstår jeg virkelig godt. Jeg synes, og regeringen
+synes, at Midtjylland har båret en stor opgave på vegne af hele det
+danske samfund. Vi synes, at de skulle aflastes, og vores bud var
+Langeland – det kunne så ikke realiseres.";Kl. 14:01
+56532;Time;;Kl. 14:02
+56567;title_name;":
+Hr. Marcus Knuth.";Henrik Dam Kristensen
+56613;name_party;":
+Det er jo virkelig rørende at høre venstrefløjens omsorg for de her
+personer, altså dømte terrorister, mordere osv. Vi venter jo nærmest
+kun på, at Enhedslistens folketingsgruppe tilbyder, at man kan ind‐
+kvartere dem privat hjemme i kollektivet. Men jeg vil spørge mini‐
+steren om noget. Han sagde i sit indlæg, at hvis det her var let, så
+var der nok nogle, der havde gjort det. Let i forhold til hvad? For
+det at finde en løsning er jo ikke svært, vil jeg sige til ministeren.
+Ministeren kan jo bare se til højre i stedet for at se til venstre og så
+stemme for den løsning, som den samlede borgerlige blok tilbyder,
+nemlig Lindholm. Så når han siger, at det ikke er let, må det jo i
+virkeligheden handle om, at det ikke er let at blive ved med at være
+minister, hvis man gør det, som er let i forhold til at løse problemet.
+Vil ministeren bekræfte det?";Morten Messerschmidt
+57480;Time;;Kl. 14:03
+57515;title_name;":
+Ministeren.";Henrik Dam Kristensen
+57538;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Nej, jeg tror, at hr. Morten Messerschmidt har misforstået, hvad
+jeg sagde i min ministertale. Det, jeg sagde ikke var let, var at få
+1.100 afviste asylansøgere til at rejse ud. Det, jeg så også sagde,
+var, at jeg faktisk godt tror på, at vi kan gøre det bedre, end vi gør
+i dag, med godt gammeldags rugbrødsarbejde. Og jeg gav endda
+Folketinget den lille nyhed, at vi nu er nede på 970. Jeg kan ikke
+huske, hvornår vi sidst har været nede på et trecifret antal afviste
+asylansøgere i udsendelsesposition. Jeg medgiver så, at det ikke
+kun skyldes hjemrejsepolitikken. Det skyldes også lave asyltal og
+dermed lavere antal afslag på asyl og dermed lavere antal afviste
+asylansøgere i udsendelsesposition. Det var det, der ikke var let, men
+som jeg tror på vi kan nå ved gammeldags rugbrødsarbejde. Det er
+det, der er hele grundlaget for at have etableret Hjemrejsestyrelsen,
+som arbejder hårdt på at få folk ud, når de ikke skal være her. Det
+tror jeg i øvrigt også Enhedslisten og venstrefløjen er enig i.";Kl. 14:03
+58611;Time;;Kl. 14:04
+58622;Time;;Kl. 14:02
+58641;name_party;":
+Men jeg tror, at alle kan se, at Langeland jo bare ville være at flytte
+problemet fra en landsdel til en anden, og regeringen havde netop
+lovet, at man ville finde en bedre løsning, altså en, hvor man ikke
+bare flyttede problemet. Så nu, hvor Langeland ikke bliver til noget,
+hvor der ikke er opbakning til det, hvorfor gør regeringen så ikke
+noget for rent faktisk at prøve at levere på det løfte, man har givet,
+ikke mindst til folk i Midtjylland, og finde en løsning, som er det,
+regeringen jo mente man kunne, som er bedre end Kærshovedgård?";Marcus Knuth
+59198;Time;;Kl. 14:02
+59233;title_name;":
+Ministeren.";Henrik Dam Kristensen
+59256;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jeg er faktisk ikke helt enig med hr. Marcus Knuth i, at vi har sagt,
+at vi ikke ville flytte de her 130 mennesker. Det er faktisk lige præcis
+det, vi sagde vi ville.";Kl. 14:02
+59516;title_name;":
+Hr. Morten Messerschmidt.";Henrik Dam Kristensen
+59553;Time;;Kl. 14:04
+59580;name_party;":
+Vi skoser jo ikke ministeren for de ting, der så ikke er lette, for det er
+jo ting, han i udgangspunktet har lavet med de borgerlige partier på
+Christiansborg her i Folketinget. Det er jo noget, der tilsyneladende
+virker. Ministeren føler trang til, inden han skal stå til ansvar for det,
+der så ikke virker, at fremhæve bedre hjemsendelsesregler osv. Det
+er jo noget, han har lavet med de borgerlige partier. Hvorfor så ikke
+løse også det her med de borgerlige partier? Hvorfor insistere på
+venstrefløjen, der jo har lagt grunden til alle de katastrofer, indvan‐
+dringen har ført til? Lad dem sejle deres egen sø og så lad os løse det
+her problem. Det er jo ikke så svært, vil jeg sige til ministeren.";Morten Messerschmidt
+60294;Time;;Kl. 14:05
+60329;title_name;":
+Tak. Så er det ministeren. Værsgo.
+
+12
+
+Torsdag den 24. juni 2021 (B 298)";Henrik Dam Kristensen
+60416;Time;;Kl. 14:08
+60427;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Min holdning er, at placeringen af et asylcenter, af et modtagecenter,
+af et udrejsecenter bør foretages af en regering og en minister, der
+så står til ansvar for den beslutning, der er truffet. Jeg mener ikke,
+at vi skal sidde og forhandle om, hvor der skal åbne centre. Før
+den store flygtningebølge havde vi måske 10-15 centre i det danske
+asylsystem. Så kom vi på ganske kort tid op på at have 80-90.
+Det er så skaleret ned igen. Udlændingestyrelsen køber en masse
+ejendomme, og de sælger en masse ejendomme. Det er en del af det,
+de foretager sig. Det tror jeg virkelig ikke egner sig til at vi sidder og
+forhandler om.";Kl. 14:05
+61120;Time;;Kl. 14:06
+61155;title_name;":
+Tak for det. Så er det hr. Peder Hvelplund, Enhedslisten.";Henrik Dam Kristensen
+61224;Time;;Kl. 14:06
+61246;name_party;":
+Tak for det. Når jeg tager ordet, er det egentlig, fordi ministeren fik
+det til at lyde, som om det var borgmesteren i Hjørring, som havde
+foreslået det her. Det er jo faktisk et flertal i byrådet i Hjørring,
+som har sagt, at det her vil man gerne tilbyde. Så derfor er det jo
+ikke bare sådan et tilfældigt forslag. Det gør jo også, at det er lidt
+paradoksalt, at vi står her og diskutere det i salen, hvor det lyder,
+som om det er et center, der ikke kan placeres nogen steder, fordi
+der ikke er nogen, der vil have det. Og så er der faktisk nogle
+pragmatiske folk, som siger, at vi her har et samfundsproblem. Det
+er jo ikke et spørgsmål om, at det skal placeres i 98 kommuner.
+Forslaget var jo, at hver region kunne tage 25. Hjørring ville gerne
+tilbyde at tage 25. Jeg tror, at der er 129 i alt. Jeg tror ikke, at de
+sidste 4 skal stå imellem nogen. Dem tror jeg også godt man kunne
+tage i Hjørring, så de kunne sige, at de tager 29. Og så kan de fire
+gange 25 placeres andre steder. Hvorfor er det, at ministeren har
+sådan en principiel modstand i forhold til den løsning? For det er da
+en forholdsvis pragmatisk og fornuftig løsning, i stedet for at vi skal
+høre på alle mulige mere eller mindre fantasifulde forslag om, hvor
+man synes, de skulle placeres henne.";Peder Hvelplund
+62526;Time;;Kl. 14:07
+62561;title_name;":
+Ministeren.";Henrik Dam Kristensen
+62584;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jeg vil starte med at sige, at jeg faktisk ikke vidste, at det var et fler‐
+tal i byrådet, men for mig bliver det heller ikke mere seriøst af det.
+Jeg tog det sådan set også seriøst, da borgmesteren i Hjørring sagde
+det, men jeg er bare uenig med ham. Det er der nogle logistiske og
+økonomiske årsager til, bl.a. det, at vi i dag har politifolk fra Midtog Vestjyllands Politi på Kærshovedgård døgnet rundt, 7 dage om
+ugen, 365 dage om året. Ved at splitte gruppen fra Kærshovedgård
+og flytte nogle af dem til Langeland, skulle vi have seks betjente
+døgnet rundt 365 dage om året på Langeland. Så det kræver mange
+ressourcer bare at lave to centre. Hvis vi så skal lave fem, så er
+det virkelig mange ressourcer, vi kommer til at bruge fra vores
+politistyrkes side på det. Og det er bare politiets ressourcer. Så er
+der økonomi og mange andre ting oveni. Og i øvrigt hvad angår de
+fem kommuner i regionerne, som vil få placeret sådan 25-30, er jeg
+heller ikke sikker på, at der vil komme jubelbrøl alle steder. Men
+altså, hatten af for et konstruktivt forslag fra Hjørring, som så er fra
+hele byrådet, i hvert fald fra et flertal i byrådet, må jeg nok hellere
+sige her.";Kl. 14:07
+63845;title_name;":
+Hr. Peder Hvelplund.";Henrik Dam Kristensen
+63877;Time;;Kl. 14:08
+63899;name_party;":
+Jeg tror, det er fornuftigt at sige, at det er et flertal i byrådet, der
+står bag. Men nu er borgmesteren i Hjørring socialdemokrat og af
+den demokratiske støbning, at han sikrer sig, at der er et flertal bag
+de udmeldinger, han kommer med. Det synes jeg jo er et eksempel
+til efterfølgelse og en god idé. Men jeg kan ikke helt forstå det der
+med, at det skulle skyldes logistik og økonomi. Altså, er det her ikke
+så afgørende, at vi sikrer et sted, hvor der er en opbakning til at
+tage imod de her mennesker, og hvor man også kan sikre, at der –
+selvfølgelige, selv om det er et udrejsecentre – også er en opbakning
+i lokalsamfundet til, at det center skal ligge her? Burde det ikke gøre,
+at man så kan se lidt igennem fingrene med, at der måske kan være
+nogle logistiske og økonomiske udfordringer?";Peder Hvelplund
+64711;Time;;Kl. 14:08
+64746;title_name;":
+Tak! Så får vi svar fra ministeren.";Henrik Dam Kristensen
+64793;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Det er måske mig, der ikke er optimistisk nok, men jeg har svært ved
+at forestille mig, at man får etableret fem steder i Danmark, hvor der
+vil være et lokalsamfund, der tager imod med åbne arme.";Kl. 14:08
+65057;Time;;Kl. 14:09
+65092;title_name;":
+Så er det hr. Rasmus Jarlov.";Henrik Dam Kristensen
+65132;Time;;Kl. 14:09
+65152;name_party;":
+Det er lidt i forlængelse af hr. Carl Valentins indlæg før, hvor jeg
+godt vil spørge til, hvordan det føles som Socialdemokrati at have så
+loyalt et støtteparti, som selv i den ene situation, hvor man tør sætte
+sig op mod regeringen, fordi man ellers bliver lynchet af den eneste
+borgmester, man har i sit bagland, og hvor regeringen er i gang med
+at træffe nogle beslutninger, som er åbenlyst hovedløse, så alligevel
+føler sig kaldet til nærmest at undskylde for det her nede i salen, så
+der ikke er nogen i regeringen, der tror, at SF nu er ved at sætte sig
+op imod regeringen. Det må være rart for regeringen at have sådan
+et støtteparti, som man ved aldrig nogen sinde går imod regeringen –
+eller hvordan?";Rasmus Jarlov
+65873;Time;;Kl. 14:09
+65908;title_name;":
+Ministeren.";Henrik Dam Kristensen
+65931;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jeg hører ikke, at der er nogen, der har undskyldt for sig selv her
+i Folketingssalen. Men det, jeg har bemærket i den udlændingepoliti‐
+ske debat ikke kun i den her folketingssamling, men også før valget,
+er, at vi lynhurtigt ender i skyttegrave alle sammen. Fronten går lige
+her ned gennem salen. Og det er ikke gavnligt for dansk udlændinge‐
+politik på lang sigt. Jeg tror på, at vi skal blive bedre til en gang
+imellem at tage en dyb indånding og så lige prøve at lytte til, hvad
+de andre siger. Jeg hører ikke nogen sige, at de udvisningsdømte
+bare kan flytte ind i deres kollektiv. Jeg synes, det lynhurtigt bliver
+giftigt og ukonstruktiv, når vi diskuterer de her ting. Og det er nogle
+svære spørgsmål, så jeg går og drømmer om, at vi en dag ender et
+sted, hvor vi kan have en helt almindelig lavpraktisk politisk debat
+
+Torsdag den 24. juni 2021 (B 298)
+
+med hinanden om, hvilken udlændingepolitik vi skal have, uden at vi
+har behov for hele tiden at skyde hinanden ting i skoene.";Kl. 14:09
+66989;Time;;Kl. 14:10
+67024;title_name;":
+Rasmus Jarlov.";Henrik Dam Kristensen
+67050;Time;;Kl. 14:10
+67070;name_party;":
+Da vi foreslog Lindholm, var der en partileder, der svømmede ud
+til øen i tørdragt for at lave politiske markeringer. Man kan ikke
+ligefrem sige, at den kritik, der kommer nu, skulle være mere grøfte‐
+gravende, end den var dengang, hvor det blev brugt i en valgkamp,
+og hvor retorikken var oppe i et helt andet toneleje, end det, vi har
+nu. Vi kritiserer meget konkret, at der ikke er konsistens i det, man
+foreslår, fordi venstrefløjen og Socialdemokraterne har bundet sig
+fast til at være imod et projekt, som giver mening, og nu foreslår
+nogle projekter, som ikke giver mening, ved at lægge dem andre
+steder end på Lindholm.
+
+13
+
+Så er det rigtigt, at i og med der kun findes dårlige løsninger på
+selve placeringsopgaven, mener jeg også, den politiske opmærksom‐
+hed først og fremmest må rette sig mod at få bragt antallet af afviste
+asylansøgere i udsendelsesposition ned. Det er jo det, der er den
+egentlige løsning. Alt andet er jo lappeløsninger. Der er det bare, jeg
+i al ydmyghed siger, at det ikke går så ringe endda for tiden. Det gør
+det faktisk ikke.
+Det er rigtigt, at nogle udrejser frivilligt, andre udrejser ledsaget.
+Der kan være politibetjente eller folk fra andre danske myndigheder
+med om bord, men der er faktisk slået hul igennem til nogle lande,
+og det går langsomt, og det er møjsommeligt. Og lige som vi tror,
+der skal et fly i luften med x antal mennesker, får jeg nogle gange
+alligevel at vide, at det ikke er lykkedes. Men så prøver vi igen.
+For med hver eneste person, vi får om bord på flyet, spredes det
+rygte om tvangsudsendelse som ringe i vandet hos andre med samme
+nationalitet og i samme situation, der så siger: Ah, i stedet for at
+blive sendt hjem med tvang, tager jeg måske alligevel posen med
+penge fra det danske samfund.";Rasmus Jarlov
+68845;Time;;Kl. 14:13
+68856;Time;;Kl. 14:11
+68891;title_name;":
+Tak. Fru Rosa Lund, værsgo.";Henrik Dam Kristensen
+68955;title_name;":
+Tak. Så får vi svar fra ministeren. Værsgo.";Henrik Dam Kristensen
+69011;Time;;Kl. 14:13
+69022;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jeg er også ked af, hvis det fremstår, som om jeg anklager den
+ene fløj mere end den anden. Jeg var heller ikke tilhænger af en
+svømmetur nede i Stege Bugt. Jeg tror heller ikke, det er gavnligt
+for diskussionerne i dansk politik om udlændingeområdet. Vi var
+ikke tilhængere af etableringen af et udrejsecenter på Lindholm i
+Vordingborg Kommune, fordi vores vurdering var, at det mere var af
+navn end af gavn, at det var en øde ø, for der skulle ligge en færge
+i pendulfart ind til Sydsjælland, og derfor skulle der gå busser ud til
+resten af Sjælland. Derfor faldt det forslag fra set fra vores side på
+økonomien.";Kl. 14:11
+69705;Time;;Kl. 14:11
+69740;title_name;":
+Tak for det. Så er det fru Rosa Lund, Enhedslisten.";Henrik Dam Kristensen
+69809;name_party;":
+Den politiske opgave er jo så også at se, om det, vi gør i dag, er rig‐
+tigt, om det fungerer. Og Kærshovedgård er jo indrettet med de her
+såkaldte motivationsfremmende foranstaltninger, som den tidligere
+regering stod i spidsen for. Det går jo bl.a. ud på, at man frihedsbe‐
+røver mennesker med meldepligt og opholdspligt, hvilket også har
+været en del af debatten i dag. I 2012 sagde Rigspolitiet: Det virker
+ikke som motivationsfremmende foranstaltning. De bekræftede det
+igen i 2018. Jeg vil derfor gerne spørge udlændingeministeren: Hvad
+siger Rigspolitiet i dag?";Rosa Lund
+70389;Time;;Kl. 14:14
+70424;title_name;":
+Tak. Så er det ministeren.";Henrik Dam Kristensen
+70462;Time;;Kl. 14:14
+70473;Time;;Kl. 14:11
+70489;name_party;":
+Tak for det. Det er jo altid en fornøjelse at høre hr. Morten Messer‐
+schmidts udlægning af Enhedslistens politik, for den er altså forkert.
+Jeg vil gerne spørge udlændinge- og integrationsministeren om det,
+at når det nu er sådan, at hver gang der bliver foreslået en placering
+af et udrejsecenter, er der nogle, der er utilfredse med det. Tyder det
+så ikke lidt på, at der er noget galt med konstruktionen? Lige meget
+hvad for diskussion vi har om placeringen, vil det jo blive sådan en
+diskussion, hvor man siger: Ikke i min valgkreds, ikke i min bagha‐
+ve. Det er nok, fordi der er noget i vejen med konstruktionen. Så
+jeg vil gerne spørge ministeren: Kan ministeren komme med et andet
+eksempel, hvor det har givet mening at samle mange kriminelle på et
+sted?";Rosa Lund
+71264;Time;;Kl. 14:12
+71299;title_name;":
+Ministeren.
+
+Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Hvad Rigspolitiet siger i dag, vil jeg meget gerne indhente oplysnin‐
+ger fra justitsministeren om. Men jeg vil også godt sige, at der også
+er en årsag til, at vi har de her centre. Der er også en forebyggende
+årsag til det. I andre europæiske lande siger man: Du får hermed
+afslag på asyl: du har værsgo at forlade landet. Og hvis ikke de gør
+det, bor folk under broerne og tager ufaglært arbejde som illegal ar‐
+bejdskraft alle mulige steder. Sådan skal det ikke være i Danmark. Vi
+skal ikke have sådan en illegal underklasse i Danmark. Det betyder,
+at vi skal have styr på, hvor de her mennesker er henne, de skal have
+tre måltider mad og en seng, og vi skal ikke have dem til at stå og
+vaske op i baglokalet i et eller andet pizzeria for 40 kr. i timen sort.
+Og derfor har vi det her system, som jeg synes har mange funktioner.";Henrik Dam Kristensen
+72212;Time;;Kl. 14:15
+72247;title_name;":
+Tak for det. Så er det hr. Hans Kristian Skibby, Dansk Folkeparti.";Henrik Dam Kristensen
+72325;Time;;Kl. 14:15
+72336;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jeg vil starte med at sige, at vi faktisk ikke kun har et udrejsecenter.
+Vi har flere. Men det er rigtigt, at dem, der er dømt til udvisning,
+og som ikke har børn, bor et sted, nemlig på Kærshovedgård i
+Ikast-Brande Kommune.";Kl. 14:12
+72646;name_party;":
+Tak, hr. formand. Jeg tænker lidt over den vending, som ministeren
+brugte, som vi hører for gud ved hvilken gang her i Folketinget.
+Vi hører den også mange gange fra ministerens egen ordfører på
+udlændingeområdet, hr. Rasmus Stoklund, som siger, at hvis man
+valgte Lindholmmodellen, hvilket vi jo var nogle partier, som frygte‐
+
+14
+
+Torsdag den 24. juni 2021 (FM )
+
+lig gerne ville, ville der skulle sejle en færge i pendulfart. Det der
+»pendulfart« bliver ligesom sådan en grammofonplade hos Socialde‐
+mokraterne at bruge i den her argumentation for, at man skulle vælge
+Lindholm fra. Der vil jeg gerne have ministeren til at redegøre for
+den sejladsplan, der henvises til. Vil ministeren venligst fortælle,
+hvad sejladsplanen er i forhold til den pendulfart?";Hans Kristian Skibby
+73419;Time;;Kl. 14:15
+73454;title_name;":
+Ministeren.
+
+på TV 2 Nyhederne og sagde, at man da godt kunne tage nogle af
+de mennesker, der skulle placeres på et udrejsecenter. Derfor vil jeg
+høre, om det ikke, når det bliver foreslået af regeringens eget parti,
+så kunne være noget af det, der indgik i regeringens overvejelser,
+nemlig at vi gentænker vores udrejsecenterstruktur og måske får
+nogle flere udrejsecentre med nogle færre personer, der bor der, så
+det ikke hele tiden bliver det her med bynavne, vi diskuterer, men
+den helt grundlæggende struktur på området.";Henrik Dam Kristensen
+73992;Time;;Kl. 14:18
+74003;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jeg kan huske, at den færge hed Virus, og jeg er ret sikker på, at den
+nu er solgt. Jeg kender ikke den konkrete sejladsplan i hovedet, men
+det, jeg kan huske, er, at der dengang blev stillet et folketingsspørgs‐
+mål til den daværende minister om, hvad det egentlig skulle koste
+og sådan noget. Og noget af det, jeg kan huske der stod i det svar,
+var, at i og med de her mennesker ikke har nogen arbejdstilladelse i
+Danmark og ikke tjener nogen penge, så kunne man sagtens ende i
+en situation, hvor vi skulle ligge og sejle folk gratis frem og tilbage.
+Så synes jeg måske, det bliver lige lovlig festligt.";Kl. 14:16
+74677;Time;;Kl. 14:16
+74712;title_name;":
+Ministeren.";Henrik Dam Kristensen
+74735;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jeg har bare lige en enkelt lille korrektion: Det er ikke et forslag fra
+ministerens eget parti, men et forslag fra en borgmester fra ministe‐
+rens eget parti. Og vi er heldigvis ikke Scientology, så folk kan mene
+og sige, hvad de vil, men vi er ikke enige. Der er nogle logistiske
+udfordringer med det i forhold til at kunne overholde opholds- og
+meldepligten, og der er også nogle økonomiske udfordringer med
+det. I øvrigt er jeg nervøs for, at der bare ville være mange lokalsam‐
+fund, der ville synes, det var træls, i stedet for få.";Kl. 14:18
+75341;Time;;Kl. 14:18
+75376;title_name;":
+Hr. Hans Kristian Skibby.";Henrik Dam Kristensen
+75413;Time;;Kl. 14:16
+75440;name_party;":
+Det var der ikke meget svar på. I min optik går sådan et pendul
+rimelig hurtigt, det går ikke langsomt. Når regeringen står gang på
+gang og siger, at det har noget med et pendul at gøre, i forhold til at
+der skal være mange sejladsture, så må man da også kunne redegøre
+for, hvorfra man har den vildfarelse, at der skal sejle en færge i
+pendulfart imellem Lindholm og fastlandet, men det gør man ikke.
+Så vil jeg gerne spørge ministeren: Hvorfor har regeringen valgt at
+bruge de 759 mio. kr. til alt muligt andet end det, der var tiltænkt
+i forhold til den finanslov, der blev vedtaget i forhold til at sikre
+finansieringen af Lindholm?";Hans Kristian Skibby
+76088;Time;;Kl. 14:17
+76123;title_name;":
+Kristian Hegaard.";Henrik Dam Kristensen
+76152;Time;;Kl. 14:18
+76175;name_party;":
+Men når nu vi har haft en noget unuanceret debat generelt med
+bynavne osv. og der så er en borgmester, der repræsenterer det parti,
+som regeringen også har, der byder ind, så tyder det på, at det måske
+er i den retning, man skal gå – når der endda er en borgmester,
+der byder ind. Det kunne være, at det så også var noget, andre
+borgmestre ville byde ind på. Kunne det ikke være, at vi skulle bruge
+det her momentum, der er nu, og den debat, der har været, til at
+gentænke den struktur, der er, og til måske også at se på, om man
+kan gøre noget i forhold til frivillig fodlænke, og om vi kan gøre
+noget i forhold til flere udrejsecentre, færre personer osv.?";Kristian Hegaard
+76845;Time;;Kl. 14:19
+76880;title_name;":
+Tak. Så er det ministeren. Værsgo.";Henrik Dam Kristensen
+76926;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jeg var udlændingeordfører, da den daværende regering sammen
+med Dansk Folkeparti besluttede sig for, at der skulle ligge et ud‐
+rejsecenter på Lindholm, så jeg fulgte de folketingsspørgsmål, der
+dengang blev stillet. Jeg kan huske, at et af dem beskriver, hvor
+ofte den færge skal sejle: jeg kan simpelt hen ikke huske, præcis
+hvad der står i det svar, men det kan vi jo finde frem, det må stå på
+Folketingets hjemmeside. Men hvis hr. Hans Kristian Skibby tror, at
+der nu kommer argumentation ned i hans hat, vil jeg nok prøve at
+indstille mine forventninger lidt anderledes, for det er en færge, der
+skulle sejle frem og tilbage mellem Lindholm og Sydsjælland.";Kl. 14:17
+77657;Time;;Kl. 14:17
+77692;title_name;":
+Ministeren, værsgo.";Henrik Dam Kristensen
+77723;Time;"Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Jamen noget af det, spørgeren siger, synes jeg egentlig er relevant at
+begynde at overveje: Kan vi gøre mere for at sikre et system, som
+punkt 1 får folk til at rejse ud og punkt 2 faktisk også er realiserbart?
+Jeg bemærker også bare, at af de mange, mange henvendelser, jeg
+har fået fra folk, der kommer med forslag til, hvor man kunne
+placere sådan et udrejsecenter, har jeg altså ikke fået nogen fra en
+borgmester, der siger: Kom bare med det til os. Det eneste, jeg
+har hørt, er fra det flertal i Hjørring byråd, som har udtalt sig i
+en spørgeskemaundersøgelse, og hvor de var de eneste, der vendte
+tilbage.";Kl. 14:19
+78403;Time;;Kl. 14:20
+78438;title_name;":
+Tak for det. Så er det hr. Kristian Hegaard, Radikale Venstre.";Henrik Dam Kristensen
+78512;Time;;Kl. 14:17
+78535;name_party;":
+Tak for det, og tak til ministeren for at gå op på talerstolen. For
+et par uger siden stod en borgmester fra regeringens eget parti,
+Socialdemokraterne, frem – borgmesteren fra Hjørring Kommune –";Kristian Hegaard
+78767;title_name;":
+Tak til ministeren. Der er ikke flere, der har bedt om ordet.
+Lige om et øjeblik skal vi stemme.
+
+Torsdag den 24. juni 2021 (B 298)";Henrik Dam Kristensen
+78912;Time;;Kl. 14:22
+78923;Time;"Meddelelser fra formanden
+
+Meddelelser fra formanden";Kl. 14:20
+79012;title_name;":
+Men før vi skal det, vil jeg gerne sige, at nu er vi ved enden af en
+lang og hektisk folketingsperiode med rekordmange behandlinger og
+også lange behandlinger her i Folketingssalen. Vi har også måttet
+tage ekstra arbejdsdage i brug for at kunne komme igennem det
+sammenpressede program, som Folketinget har haft.
+Også denne folketingssamling har stået i coronaens skygge, men
+nu står Danmark heldigvis et andet sted. Og i min optik har Fol‐
+ketinget vist sit værd ved at bringe Danmark igennem endnu en
+udfordrende periode. Viljen til at bøje sig mod hinanden og finde
+fælles løsninger har været til stor gavn for hele landet, og vi har
+formået at slå ring omkring det danske samfund for at redde liv og
+arbejdspladser.
+Jeg vil gerne takke alle for et konstruktivt samarbejde, og jeg ser
+frem til, at vi kan genoptage den nye samling under mere normale
+former. Jeg glæder mig til, når der igen er skoleklasser derude i
+Vandrehallen, som kommer på besøg og oplever os på tætteste hold,
+og fulde huse til konferencer og høringer. Det tror jeg kan blive
+dagligdagen, når vi mødes igen.
+Men før vi kommer så langt, skal der nydes en velfortjent som‐
+merpause. Min opfordring vil være – ja, det er tæt på at være en
+tjenstlig ordre: Sæt telefonen på lydløs, tag en pause fra digital støj
+og opdateringer på sociale medier. Husk på, at også jeres følgere
+har brug for en god ferie. (Munterhed). Jeg vil gerne ønske jer alle
+sammen en god og varm sommer sammen med familie og venner.
+Og så vil jeg bede jer om at stemme om det beslutningsforslag,
+som vi lige har debatteret.";Henrik Dam Kristensen
+80616;title_name;":
+Der er ikke mere at foretage i dette møde.
+
+Det sidste punkt på dagsordenen er:
+8) 1. (eneste) behandling af beslutningsforslag nr. B 298:
+Forslag til folketingsbeslutning om stop for Udrejsecenter Hol‐
+megaard på Langeland.
+Af Morten Dahlin (V), Pia Kjærsgaard (DF), Marcus Knuth (KF),
+Pernille Vermund (NB), Henrik Dahl (LA) og Inger Støjberg (UFG).
+(Fremsættelse 21.05.2021. Betænkning 15.06.2021).";Henrik Dam Kristensen
+81029;Time;Afstemning;Kl. 14:22
+81075;title_name;":
+Der kan stemmes.
+Afstemningen slutter.
+For stemte 50 (V, DF, SF, KF, NB, LA og Orla Østerby (UFG)),
+imod stemte 37 (S, EL, Sikandar Siddique (UFG) og Susanne Zim‐
+mer (UFG)), hverken for eller imod stemte 8 (RV og Simon Emil
+Ammitzbøll-Bille (UFG)).
+Beslutningsforslaget er vedtaget og bliver nu sendt til udlændingeog integrationsministeren.
+
+15
+
+Det næste møde i Folketingssalen er torsdag den 9. september 2021,
+kl. 9.00.
+Skulle det blive nødvendigt at indkalde Folketinget til yderligere
+møder, vil meddelelse om tidspunkt og dagsorden blive tilsendt med‐
+lemmerne skriftligt.
+Mødet er hævet. (Kl. 14:23).";Henrik Dam Kristensen

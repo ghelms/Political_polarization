@@ -1,0 +1,84 @@
+split;reason;text;value
+0;;"Onsdag den 20. maj 2020 (D)
+
+1
+
+for grundskyld, tilpasninger vedrørende tilbagebetalingsordningen
+og beregningsgrundlaget for grundskyld m.v.)).
+
+114. møde
+
+Titlerne på de anmeldte sager vil fremgå af www.folketingstiden‐
+de.dk (jf. ovenfor).";
+277;Time;;kl. 10.00
+288;Time;"Dagsorden
+Samtykke til behandling
+1) Eventuelt: 2. behandling af lovforslag nr. L 190:
+Forslag til lov om ændring af lov om sygedagpenge. (Midlertidig pe‐
+riode med ret til sygedagpenge for lønmodtagere, der er i øget risiko
+ved smitte med covid-19, og for lønmodtagere, der er pårørende til
+personer, der er i øget risiko ved smitte med covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 19.05.2020. 1. behandling 19.05.2020. Betænkning
+19.05.2020).";Kl. 10:02
+774;Time;Meddelelser fra formanden;Kl. 10:01
+834;title_name;":
+Mødet er åbnet.
+Til dagsordenen onsdag den 20. maj 2020 er der følgende anmeldel‐
+ser:";Christian Juhl
+956;title_name;":
+Det punkt, som er opført under nr. 1 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde. Hvis ikke nogen af jer gør
+indsigelse, betragter jeg samtykket som givet.
+Det er givet.
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 190:
+Forslag til lov om ændring af lov om sygedagpenge. (Midlertidig
+periode med ret til sygedagpenge for lønmodtagere, der er i
+øget risiko ved smitte med covid-19, og for lønmodtagere, der
+er pårørende til personer, der er i øget risiko ved smitte med
+covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 19.05.2020. 1. behandling 19.05.2020. Betænkning
+19.05.2020).";Christian Juhl
+1625;Time;"Sundheds- og ældreministeren (Magnus Heunicke):
+Lovforslag nr. L 191 (Forslag til lov om ændring af sundhedsloven.
+(Frivillige indkvarteringsfaciliteter)).";Kl. 10:02
+1816;title_name;":
+Lovforslag nr. L 192 (Forslag til lov om ændring af kriminallov
+for Grønland og retsplejelov for Grønland. (Foranstaltninger til at
+forebygge og inddæmme smitte med covid-19 m.v.)).
+Social- og indenrigsministeren (Astrid Krag):
+Lovforslag nr. L 193 (Forslag til lov om ændring af lov om social
+service og lov om socialtilsyn. (Indførelse af ret til overvågning
+og støtte i forbindelse hermed om natten for unge, der modtager
+hjælp efter § 95, stk. 3, i lov om social service i form af et kontant
+tilskud)).";Nick Hækkerup
+2358;title_name;":
+Lovforslag nr. L 194 (Forslag til lov om ændring af ejendomsvur‐
+deringsloven og forskellige andre love. (Lempelse af ejendomsbe‐
+skatningen, videreførelse af den midlertidige indefrysningsordning
+
+Forhandling";Morten Bødskov
+2602;title_name;":
+Der er ikke stillet ændringsforslag.
+Er der nogen af jer, der ønsker at udtale sig?
+Ønsker ministeren at udtale sig? Det gør han ikke.
+Da det ikke er tilfældet, at nogen ønsker at udtale sig, er forhand‐
+lingerne sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ikke nogen af jer gør indsigelse,
+betragter jeg det som vedtaget.
+Det er vedtaget.
+
+2
+
+Onsdag den 20. maj 2020 (FM )";Christian Juhl
+3055;Time;Meddelelser fra formanden;Kl. 10:03
+3115;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i dag om 10 minutter. Vi starter
+altså på næste møde kl. 10.15, og det er med tredje behandling af L
+190.
+Mødet er hævet. (Kl. 10:03).";Christian Juhl

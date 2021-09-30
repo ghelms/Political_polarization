@@ -1,0 +1,93 @@
+split;reason;text;value
+0;;"Tirsdag den 12. januar 2021 (D)
+
+1
+
+Trine Torp (SF) m.fl.:
+Beslutningsforslag nr. B 114 (Forslag til folketingsbeslutning om
+ophævelse af krav om forældrebetaling ved anbringelse af børn og
+unge).
+
+44. møde";
+244;Time;"Jens Henrik Thulesen Dahl (DF) m.fl.:
+
+Dagsorden
+
+Beslutningsforslag nr. B 115 (Forslag til folketingsbeslutning om
+afskaffelse af kandidatreglen og lige adgang til uddannelse).
+
+1) Meddelelser fra formanden";kl. 13.00
+464;Time;"Sikandar Siddique (UFG), Uffe Elbæk (UFG) og Susanne Zimmer
+(UFG):
+Beslutningsforslag nr. B 117 (Forslag til folketingsbeslutning om
+anonymisering af jobansøgninger til offentlige stillinger).";Kl. 13:00
+692;title_name;":
+Mødet er åbnet.
+Velkommen til alle efter juleferien. Jeg håber, at I er friske og velop‐
+lagte til nogle lange dage her i den kommende tid. Men vi starter
+stille og roligt. Det eneste punkt på dagsordenen er meddelelser fra
+formanden.
+
+Karina Lorentzen Dehnhardt (SF) m.fl.:
+Beslutningsforslag nr. B 118 (Forslag til folketingsbeslutning om
+lovhjemmel til, at landdistrikts- og økommuner kan drive bosæt‐
+ningshuse).";Christian Juhl
+1157;name_party;":
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden";Eva Kjer Hansen
+1234;Time;"Forespørgsel nr. F 35 (Vil ministeren redegøre for, hvad den social‐
+demokratiske regerings vækstmålsætning er, og hvordan regeringen
+vil kompensere for, at de initiativer, regeringen har gennemført siden
+folketingsvalget i 2019, gør Danmark 12 mia. kr. fattigere?).";Kl. 13:00
+1536;title_name;":
+Til Folketingets dagsorden tirsdag den 12. januar 2021 skal jeg med‐
+dele, at medlem af Folketinget Lars Løkke Rasmussen har meddelt
+mig, at han er udtrådt af Venstres folketingsgruppe pr. 1. januar
+2021. Han bliver dog i Folketinget, så han står herefter uden for
+grupperne.";Christian Juhl
+1847;title_name;":
+Skriftlige meddelelser fra formanden
+
+Til Folketingets dagsorden tirsdag den 12. januar 2021 er der følgen‐
+de anmeldelser:
+
+Fra statsministeren har jeg modtaget følgende skrivelse af 5. januar
+2021:
+
+Beskæftigelsesministeren (Ane Halsboe-Jørgensen, fg.):
+
+»Folketingets formand
+
+Lovforslag nr. L 135 (Forslag til lov om ændring af lov om ar‐
+bejdsløshedsforsikring m.v., lov om sygedagpenge og lov om aktiv
+socialpolitik. (Suspension af dagpengeforbrug og suspension af Gdage ved hjemsendelser og arbejdsfordeling, forlængelse af retten til
+sygedagpenge og yderligere forlængelse af 12-månedersperioden i
+225-timersreglen som følge af covid-19)).
+
+Efter min indstilling er det ved kongelig resolution af 2. januar 2021
+bestemt, at ledelsen af de under Beskæftigelsesministeriet hørende
+forretninger fra den 2. januar 2021 til og med den 15. januar 2021
+overdrages til uddannelses- og forskningsminister Ane Halsboe-Jør‐
+gensen.
+
+Bruno Jerup (EL) m.fl.:
+Beslutningsforslag nr. B 113 (Forslag til folketingsbeslutning om
+demokratisering af ledelsesformen for Det Kongelige Danske Kunst‐
+akademi).
+
+Titlerne på de anmeldte sager vil fremgå af www.folketingstiden‐
+de.dk (jf. ovenfor).";Christian Juhl
+3041;Time;"Jeg beder formanden underrette Folketinget herom.
+Sign.: Mette Frederiksen
+
+2
+
+Tirsdag den 12. januar 2021 (FM )
+
+/Carsten Madsen«";Kl. 13:02
+3185;Time;;Kl. 13:02
+3219;title_name;":
+Der er ikke mere at foretage i dette møde. Næste møde afholdes i
+dag kl. 13.15.
+Mødet er hævet. (Kl. 13:02).";Christian Juhl

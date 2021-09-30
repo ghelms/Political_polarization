@@ -1,0 +1,147 @@
+split;reason;text;value
+0;;"Mandag den 17. august 2020 (D)
+
+1
+
+Jeg beder formanden underrette Folketinget herom.
+Sign. Mette Frederiksen
+/Carsten Madsen«].
+
+141. møde";
+175;Time;"Dagsorden
+1) 2. behandling af lovforslag nr. L 207:
+Forslag til lov om ændring af lov om forvaltning og administration
+af tilgodehavende feriemidler, SU-loven og lov om Arbejdsmarke‐
+dets Tillægspension. (Førtidig udbetaling af feriemidler og udvidelse
+af Arbejdsmarkedets Tillægspensions opgavevaretagelse).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 11.08.2020. 1. behandling 12.08.2020. Betænkning
+14.08.2020. Ændringsforslag nr. 12-14 af 14.08.2020 uden for be‐
+tænkningen af Lars Boje Mathiesen (NB)).
+2) 2. behandling af lovforslag nr. L 208:
+Forslag til lov om engangstilskud til modtagere af forsørgelsesydel‐
+ser.
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 11.08.2020. 1. behandling 12.08.2020. Betænkning
+14.08.2020).";kl. 13.00
+954;Time;Meddelelser fra formanden;Kl. 13:00
+1013;title_name;":
+Mødet er åbnet.
+Fra statsministeren har jeg modtaget brev om, at det efter statsmini‐
+sterens indstilling ved kongelig resolution den 11. august 2020 blev
+bestemt, at ledelsen af de under Udlændinge- og Integrationsministe‐
+riet hørende forretninger fra og med den 17. august 2020 til og med
+den 27. september 2020 overdrages til boligminister Kaare Dybvad
+Bek.
+Meddelelsen vil fremgå af www.folketingstidende.dk (jf. nedenfor).
+[»Folketingets formand
+Efter min indstilling er det ved kongelig resolution af 11. august
+2020 bestemt,
+at ledelsen af de under Udlændinge- og Integrationsministeriet høre‐
+nde forretninger fra og med den 17. august 2020 til og med den 27.
+september 2020 overdrages til boligminister Kaare Dybvad Bek.
+
+Det første punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 207:
+Forslag til lov om ændring af lov om forvaltning og administra‐
+tion af tilgodehavende feriemidler, SU-loven og lov om Arbejds‐
+markedets Tillægspension. (Førtidig udbetaling af feriemidler
+og udvidelse af Arbejdsmarkedets Tillægspensions opgavevare‐
+tagelse).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 11.08.2020. 1. behandling 12.08.2020. Betænkning
+14.08.2020. Ændringsforslag nr. 12-14 af 14.08.2020 uden for be‐
+tænkningen af Lars Boje Mathiesen (NB)).";Trine Torp
+2313;Time;Forhandling;Kl. 13:00
+2358;title_name;":
+Der er stillet ændringsforslag, og hr. Lars Boje Mathiesen har bedt
+om ordet. Værsgo.";Trine Torp
+2455;Time;(Ordfører);Kl. 13:01
+2492;name_party;":
+Tak for det. Der var ingen tvivl om, at vi i Nye Borgerlige gerne
+havde set, at alle 5 uger af de her feriepenge kom tilbage til borger‐
+ne, det er borgernes penge, og vi havde også gerne set, at de var
+skattefri. Det er der ikke et flertal for. Vi havde et forslag, som
+blev stemt ned i udvalget, og derfor stiller vi som resultat af den
+afstemning selvfølgelig et ændringsforslag, således at vi laver en
+flad beskatning på de 38 pct. af feriepengene, således at der i hvert
+fald ikke er nogen, der skal miste noget, på grund af at de kommer
+ind over topskattegrænsen. Så det er derfor, vi stiller forslaget her.";Lars Boje Mathiesen
+3117;Time;;Kl. 13:01
+3150;title_name;":
+Tak for det. Der er ikke nogen, der har bedt om en kort bemærkning.
+Jeg skal høre, om der er flere, der ønsker at udtale sig.
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.
+
+2
+
+Mandag den 17. august 2020 (L 208)";Trine Torp
+3406;Time;;Kl. 13:03
+3417;Time;"Afstemning
+
+Afstemning";Kl. 13:01
+3474;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1 og 2, tiltrådt af udval‐
+get?
+De er vedtaget.";Trine Torp
+3597;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1-3, tiltrådt af udvalget?
+De er vedtaget.
+
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 3 af
+et mindretal (DF), tiltrådt af et mindretal (NB), som forkastet.
+Det er forkastet.
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 4 af
+et mindretal (NB), tiltrådt af et mindretal (DF og LA), som forkastet.
+Det er forkastet.
+Herefter er ændringsforslag nr. 5, stillet og tiltrådt af de samme
+mindretal, bortfaldet.
+
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 4 af
+et mindretal (NB), tiltrådt af et mindretal (DF) som forkastet.
+Det er forkastet.
+Ønskes afstemning om ændringsforslag nr. 5, tiltrådt af udvalget?
+Det er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 6 af
+et mindretal (NB), tiltrådt af et mindretal (DF), som forkastet.
+Det er forkastet.
+Ønskes afstemning om ændringsforslag nr. 7-10, tiltrådt af udvalget?
+De er vedtaget.
+Hvis ikke afstemning begæres, betragter jeg ændringsforslag nr. 14
+uden for betænkningen af Lars Boje Mathiesen (NB) som forkastet.
+Det er forkastet.
+Herefter er ændringsforslag nr. 12 og 13 uden for betænkningen,
+stillet af Lars Boje Mathiesen (NB), bortfaldet.
+Ønskes afstemning om ændringsforslag nr. 11, tiltrådt af udvalget?
+Det er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+2) 2. behandling af lovforslag nr. L 208:
+Forslag til lov om engangstilskud til modtagere af forsørgelses‐
+ydelser.
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 11.08.2020. 1. behandling 12.08.2020. Betænkning
+14.08.2020).";Trine Torp
+5539;Time;Forhandling;Kl. 13:03
+5584;title_name;":
+Der er stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.";Trine Torp
+5734;Time;Meddelelser fra formanden;Kl. 13:04
+5793;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i dag, mandag den 17. august
+2020, kl. 13.15, hvor vi har tredje behandling af L 207 og L 208 på
+dagsordenen.
+Mødet er hævet. (Kl. 13:04).";Trine Torp

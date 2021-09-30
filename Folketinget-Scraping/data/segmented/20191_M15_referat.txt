@@ -1,0 +1,249 @@
+split;reason;text;value
+0;;"Tirsdag den 5. november 2019 (D)
+
+15. møde";
+81;Time;"Dagsorden
+1) Fortsættelse af forespørgsel nr. F 3 [afstemning]:
+Forespørgsel til udenrigsministeren om en reform af EU-samarbejdet i lyset af brexit.
+Af Morten Messerschmidt (DF) og Søren Espersen (DF).
+(Anmeldelse 02.10.2019. Fremme 08.10.2019. Forhandling
+31.10.2019. Forslag til vedtagelse nr. V 4 af Lars Aslan Rasmussen
+(S), Jan E. Jørgensen (V), Jens Rohde (RV) og Balder Mørk Andersen (SF). Forslag til vedtagelse nr. V 5 af Victoria Velasquez (EL).
+Forslag til vedtagelse nr. V 6 af Morten Messerschmidt (DF)).
+2) Fortsættelse af forespørgsel nr. F 4 [afstemning]:
+Forespørgsel til udenrigsministeren om Tyrkiet som kandidat til
+at blive medlem af EU.
+Af Morten Messerschmidt (DF) og Søren Espersen (DF).
+(Anmeldelse 02.10.2019. Fremme 08.10.2019. Forhandling
+31.10.2019. Forslag til vedtagelse nr. V 7 af Lars Aslan Rasmussen
+(S), Jan E. Jørgensen (V), Jens Rohde (RV), Balder Mørk Andersen
+(SF) og Katarina Ammitzbøll (KF). Forslag til vedtagelse nr. V 8 af
+Victoria Velasquez (EL). Forslag til vedtagelse nr. V 9 af Morten
+Messerschmidt (DF)).
+3) Fortsættelse af forespørgsel nr. F 8 [afstemning]:
+Forespørgsel til udenrigsministeren om situationen i det nordøstlige Syrien.
+Af Eva Flyvholm (EL) og Søren Søndergaard (EL).
+(Anmeldelse 11.10.2019. Fremme 22.10.2019. Forhandling
+24.10.2019. Forslag til vedtagelse nr. V 3 af Annette Lind (S), Michael Aastrup Jensen (V), Søren Espersen (DF), Martin Lidegaard
+(RV), Karsten Hønge (SF), Eva Flyvholm (EL), Naser Khader (KF),
+Rasmus Nordqvist (ALT) og Henrik Dahl (LA)).
+4) 3. behandling af lovforslag nr. L 19:
+Forslag til lov om ændring af lov om social pension, lov om højeste,
+mellemste, forhøjet almindelig og almindelig førtidspension m.v. og
+lov om en skattefri seniorpræmie. (Forhøjelse af fradragsbeløb for
+folkepension og førtidspension og forøgelse af skattefri seniorpræmie).
+Af beskæftigelsesministeren (Peter Hummelgaard Thomsen).
+(Fremsættelse 02.10.2019. 1. behandling 08.10.2019. Betænkning
+23.10.2019. 2. behandling 24.10.2019. Lovforslaget optrykt efter 2.
+behandling).
+5) 2. behandling af lovforslag nr. L 26:
+Forslag til lov om ændring af lov om inddrivelse af gæld til det offentlige, lov om retsafgifter og forskellige andre love. (Forenkling af
+
+1
+
+regler om forældelseshåndtering, modregning ved transporter, flere
+skyldnere på samme fordring, eftergivelse og afskrivning, retsafgift
+m.v.).
+Af skatteministeren (Morten Bødskov).
+(Fremsættelse 02.10.2019. 1. behandling 08.10.2019. Betænkning
+31.10.2019).
+6) 1. behandling af beslutningsforslag nr. B 2:
+Forslag til folketingsbeslutning om, at afviste asylbørn skal tildeles
+bedre vilkår i hjem- og udrejsecentre og midlertidig opholdstilladelse senest 18 måneder efter endeligt afslag (borgerforslag).
+Af Peter Skaarup (DF), Sofie Carsten Nielsen (RV), Karsten Hønge
+(SF), Pernille Skipper (EL), Mai Mercado (KF), Rasmus Nordqvist
+(ALT), Pernille Vermund (NB), Ole Birk Olesen (LA) og Aaja
+Chemnitz Larsen (IA).
+(Fremsættelse 02.10.2019).
+7) 1. behandling af lovforslag nr. L 43:
+Forslag til lov om ændring af udlændingeloven. (Afskaffelse af kravet om vellykket integration i sager om familiesammenføring med
+børn og indførelse af en frist på 3 måneder for indgivelse af ansøgning).
+Af udlændinge- og integrationsministeren (Mattias Tesfaye).
+(Fremsættelse 31.10.2019).";kl. 13.00
+3395;Time;Meddelelser fra formanden;Kl. 13:00
+3456;title_name;":
+Mødet er åbnet.
+I dag er der følgende anmeldelser:
+Jens Henrik Thulesen Dahl (DF) m.fl.:
+Beslutningsforslag nr. B 22 (Forslag til folketingsbeslutning om bedre indeklima i skolerne).
+Karina Adsbøl (DF) m.fl.:
+Beslutningsforslag nr. B 23 (Forslag til folketingsbeslutning om
+økonomisk kompensation i forbindelse med klagesager).
+Jens Henrik Thulesen Dahl (DF) og Alex Ahrendtsen (DF):
+Forespørgsel nr. F 17 (Vil regeringen med afsæt i den tidligere regerings plan »Digitalisering med omtanke og udsyn – Mod en ny digitaliseringsstrategi for undervisningsområdet« fra marts 2019 redegøre for, hvad status er på planen, og hvordan regeringen forholder
+sig til en nylig offentliggjort større international undersøgelse, som
+
+2
+
+Tirsdag den 5. november 2019 (F 3)
+
+påpeger, at skoleelever bliver dårligere læsere, når iPads og læringsplatforme erstatter bøger og papir, jf. artiklen »Skærme gør danske
+skoleelever til dårligere læsere« i Politiken, den 28. oktober 2019, og
+artiklen »Eleverne har sværere ved at fordybe sig, når de læser på en
+skærm« i Politiken, den 29. oktober 2019?).
+
+(SF) og Katarina Ammitzbøll (KF). Forslag til vedtagelse nr. V 8 af
+Victoria Velasquez (EL). Forslag til vedtagelse nr. V 9 af Morten
+Messerschmidt (DF)).
+
+Titler på de anmeldte sager vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).
+
+Afstemning
+
+Dagsordenens punkt 6, forslag til folketingsbeslutning om, at afviste
+asylbørn skal tildeles bedre vilkår i hjem- og udrejsecentre og midlertidig opholdstilladelse senest 18 måneder efter endelig afslag, beslutningsforslag nr. B 2, og dagsordenens punkt 7, forslag til ændring af udlændingeloven, udgår af dagsordenen i dag efter anmodning fra udlændinge- og integrationsministeren.";Henrik Dam Kristensen
+5187;Time;;Kl. 13:02
+5222;title_name;":
+Forhandlingen er sluttet, og vi går til afstemning om de stillede forslag til vedtagelse. Der foreligger tre forslag.
+Der stemmes først om forslag til vedtagelse nr. V 7 af Lars Aslan
+Rasmussen (S), Jan E. Jørgensen (V), Jens Rohde (RV), Balder
+Mørk Andersen (SF) og Katarina Ammitzbøll (KF). Der kan stemmes.
+Afstemningen slutter.
+For stemte 85 (S, V, RV, SF og KF), imod stemte 24 (DF, EL, NB
+og LA), hverken for eller imod stemte 3 (ALT).
+
+Det første punkt på dagsordenen er:
+1) Fortsættelse af forespørgsel nr. F 3 [afstemning]:
+Forespørgsel til udenrigsministeren om en reform af EU-samarbejdet i lyset af brexit.
+Af Morten Messerschmidt (DF) og Søren Espersen (DF).
+(Anmeldelse 02.10.2019. Fremme 08.10.2019. Forhandling
+31.10.2019. Forslag til vedtagelse nr. V 4 af Lars Aslan Rasmussen
+(S), Jan E. Jørgensen (V), Jens Rohde (RV) og Balder Mørk Andersen (SF). Forslag til vedtagelse nr. V 5 af Victoria Velasquez (EL).
+Forslag til vedtagelse nr. V 6 af Morten Messerschmidt (DF)).
+
+Forslag til vedtagelse nr. V 7 er vedtaget.
+Hermed er forslag til vedtagelse nr. V 8 af Victoria Velasquez (EL)
+og forslag til vedtagelse nr. V 9 af hr. Morten Messerschmidt (DF)
+bortfaldet.
+Hermed er forespørgslen afsluttet.";Henrik Dam Kristensen
+6449;Time;Afstemning;Kl. 13:01
+6495;title_name;":
+Forhandlingen er sluttet, og vi går til afstemning om de stillede forslag til vedtagelse. Der foreligger tre forslag.
+Der stemmes først om forslag til vedtagelse nr. V 4 af Lars Aslan
+Rasmussen (S), Jan E. Jørgensen (V), Jens Rohde (RV) og Balder
+Mørk Andersen (SF). Der kan stemmes.
+Afstemningen slutter.
+
+Det næste punkt på dagsordenen er:
+3) Fortsættelse af forespørgsel nr. F 8 [afstemning]:
+Forespørgsel til udenrigsministeren om situationen i det nordøstlige Syrien.
+Af Eva Flyvholm (EL) og Søren Søndergaard (EL).
+(Anmeldelse 11.10.2019. Fremme 22.10.2019. Forhandling
+24.10.2019. Forslag til vedtagelse nr. V 3 af Annette Lind (S), Michael Aastrup Jensen (V), Søren Espersen (DF), Martin Lidegaard
+(RV), Karsten Hønge (SF), Eva Flyvholm (EL), Naser Khader (KF),
+Rasmus Nordqvist (ALT) og Henrik Dahl (LA)).";Henrik Dam Kristensen
+7321;Time;"For stemte 88 (S, V, RV, SF, KF, ALT og 2 DF (ved en fejl)), imod
+stemte 20 (DF, EL, NB og LA), hverken for eller imod stemte 0.
+Forslag til vedtagelse nr. V 4 er vedtaget.
+Hermed er forslag til vedtagelse nr. V 5 af Victoria Velasquez (EL)
+og forslag til vedtagelse nr. V 6 af Morten Messerschmidt (DF) bortfaldet.
+Hermed er forespørgslen afsluttet.
+
+Afstemning";Kl. 13:03
+7719;title_name;":
+Der foreligger et forslag. Der stemmes om forslag til vedtagelse nr.
+V 3 af Annette Lind (S), Michael Aastrup Jensen (V), Søren Espersen (DF), Martin Lidegaard (RV), Karsten Hønge (SF), Eva Flyvholm (EL), Naser Khader (KF), Rasmus Nordqvist (ALT) og Henrik Dahl (LA), og der kan stemmes.
+Afstemningen slutter.
+For stemte 109 (S, V, DF, RV, SF, EL, KF, ALT og LA), imod
+stemte 2 (NB), hverken for eller imod stemte 0.
+
+Det næste punkt på dagsordenen er:
+2) Fortsættelse af forespørgsel nr. F 4 [afstemning]:
+Forespørgsel til udenrigsministeren om Tyrkiet som kandidat til
+at blive medlem af EU.
+Af Morten Messerschmidt (DF) og Søren Espersen (DF).
+(Anmeldelse 02.10.2019. Fremme 08.10.2019. Forhandling
+31.10.2019. Forslag til vedtagelse nr. V 7 af Lars Aslan Rasmussen
+(S), Jan E. Jørgensen (V), Jens Rohde (RV), Balder Mørk Andersen
+
+Forslag til vedtagelse nr. V 3 er vedtaget.
+Hermed er forespørgslen afsluttet.
+
+Tirsdag den 5. november 2019 (L 26)
+
+Det næste punkt på dagsordenen er:
+4) 3. behandling af lovforslag nr. L 19:
+Forslag til lov om ændring af lov om social pension, lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension
+m.v. og lov om en skattefri seniorpræmie. (Forhøjelse af fradragsbeløb for folkepension og førtidspension og forøgelse af
+skattefri seniorpræmie).
+Af beskæftigelsesministeren (Peter Hummelgaard Thomsen).
+(Fremsættelse 02.10.2019. 1. behandling 08.10.2019. Betænkning
+23.10.2019. 2. behandling 24.10.2019. Lovforslaget optrykt efter 2.
+behandling).";Henrik Dam Kristensen
+9236;Time;Forhandling;Kl. 13:04
+9283;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Jeg tror, at hr. Karsten Hønge ønsker at udtale sig. Værsgo.
+
+3";Henrik Dam Kristensen
+9424;Time;;Kl. 13:06
+9459;title_name;":
+Tak til hr. Karsten Hønge. Der er ingen korte bemærkninger.
+Er der flere, der ønsker at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+9619;Time;Afstemning;Kl. 13:06
+9665;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stemmes.
+Afstemningen slutter.
+For stemte 102 (S, V, DF, RV, EL, KF, ALT, NB og LA), imod
+stemte 0, hverken for eller imod stemte 9 (SF).
+Lovforslaget er vedtaget og vil blive sendt til statsministeren.";Henrik Dam Kristensen
+9941;Time;(Ordfører);Kl. 13:04
+9972;name_party;":
+Vi har ventet med at give vores stilling til kende til i dag, fordi vi har
+fremsat et ønske om at indtræde i forligskredsen. Den sag er øjensynlig ikke afklaret endnu – SF har i hvert fald ikke fået en positiv
+tilbagemelding om, at vi kunne blive en del af forligskredsen.
+I den situation, at SF var en del af det, ville det jo være indlysende, at vi stemte for alle elementer af, hvad sådan et forlig måtte indeholde. Men det, vi står over for i dag, er det afgrænsede hjørne, der
+handler om to ting, nemlig at hæve bundfradraget og bagefter – ved
+siden af – også give en præmie til de mennesker, der vil arbejde efter
+pensionsalderen.
+Folketinget har jo tidligere taget stilling til en opdeling af lovforslaget og mente ikke, at det var en god idé, for det ligger nemlig sådan for os, at den ene del af det – det med at hæve bundfradraget –
+synes vi faktisk er en god idé, for det er en fair og lige behandling af
+alle lønmodtagere, som har en mulighed for det, og så ligger der i
+øvrigt også et vist opgør med ægtefælleafhængigheden i det. Så den
+del af det kan vi godt lide.
+Så er der den anden del. Se, det er jo altid fristende at tage imod
+gulerødder, som man siger. Her er det jo noget, der skal tilskynde
+folk til at arbejde, og så kunne man vel godt synes, at det var en god
+idé at bruge 180 mio. kr. på det om året – for hvem tager egentlig
+skade af det bortset fra skatteborgerne? Derfor er det, at vi er nået
+frem til at sige, at det kan være en god idé at give en gulerod til pensionister, der arbejder, efter at de kunne være gået på pension, men
+der er ikke for os at se et rimeligt forhold mellem det beløb, man
+bruger, og den marginale beskæftigelseseffekt, der ligger i det.
+Langt hen ad vejen er det jo mennesker, der, som vi kan se ud fra
+svarene på de spørgsmål, jeg også har stillet til beskæftigelsesministeren, og efter diskussionen ved førstebehandlingen, i forvejen ville
+være fortsat med at arbejde. Nu fortsætter de, og efter forslaget her
+får de oven i en skattefri præmie det første år på 42.000 kr.: nu indfører vi så et andet år, hvor de får en skattefri præmie på 25.000 kr.
+Hvis man ser på, hvem det er, man forventer vil bruge ordningen,
+så kan vi se, at gennemsnitslønnen ligger på i omegnen af 44.000 kr.
+om måneden plus en pensionsordning. Så hvem er det, det her er til
+fordel for? Altså, det er først og fremmest til fordel for nogle mennesker, der efter al sandsynlighed ville være fortsat med at arbejde. For
+dem, der fortsætter, er beskæftigelseseffekten marginal, og de øvrige
+tilhører den højere middelklasse. Men det er selvfølgelig godt, at de
+her mennesker arbejder videre – det synes vi også er fint.
+Samlet resultat er, at SF stemmer gult til forslaget.
+
+Det næste punkt på dagsordenen er:
+5) 2. behandling af lovforslag nr. L 26:
+Forslag til lov om ændring af lov om inddrivelse af gæld til det
+offentlige, lov om retsafgifter og forskellige andre love. (Forenkling af regler om forældelseshåndtering, modregning ved transporter, flere skyldnere på samme fordring, eftergivelse og afskrivning, retsafgift m.v.).
+Af skatteministeren (Morten Bødskov).
+(Fremsættelse 02.10.2019. 1. behandling 08.10.2019. Betænkning
+31.10.2019).";Karsten Hønge
+13161;Time;Forhandling;Kl. 13:07
+13208;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Henrik Dam Kristensen
+13509;Time;;Kl. 13:07
+13544;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 6. november, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 13:08).";Henrik Dam Kristensen

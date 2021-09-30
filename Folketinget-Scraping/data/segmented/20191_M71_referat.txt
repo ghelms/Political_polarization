@@ -1,0 +1,28 @@
+split;reason;text;value
+0;;"Torsdag den 12. marts 2020 (D)
+
+71. møde";
+77;Time;"Dagsorden
+1) Meddelelser fra formanden";kl. 10.00
+127;Time;;Kl. 10:00
+162;title_name;":
+Mødet er åbnet.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden";Henrik Dam Kristensen
+255;Time;;Kl. 10:00
+290;title_name;":
+I dag er der følgende anmeldelse:
+Sundheds- og ældreministeren (Magnus Heunicke):
+Lovforslag nr. L 133 (Forslag til lov om ændring af lov om foranstaltninger mod smitsomme og andre overførbare sygdomme. (Udvidelse af foranstaltninger til at forebygge og inddæmme smitte samt
+sikring af kapacitetsmæssige ressourcer m.v.)).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).";Henrik Dam Kristensen
+706;Time;;Kl. 10:00
+741;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i dag kl. 11.00 med førstebehandlingen af det netop fremsatte lovforslag.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 10:01).
+
+1";Henrik Dam Kristensen

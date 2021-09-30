@@ -1,0 +1,137 @@
+split;reason;text;value
+0;;"Tirsdag den 17. marts 2020 (D)
+
+Lovforslag nr. L 137 (Forslag til lov om ændring af momsloven,
+kildeskatteloven, skatteindberetningsloven og lov om afgifter af spil.
+(Modernisering af momsreglerne for grænseoverskridende handel
+med varer og ydelser solgt til forbrugere i EU, digitale salgsregistre‐
+ringssystemer, håndtering af A-skat m.v. i forbindelse med udbeta‐
+ling fra feriegarantiordninger m.v. og udskydelse af ikrafttrædelses‐
+tidspunktet for den digitale logbog m.v.)).
+
+77. møde";
+527;Time;"Dagsorden
+1) Eventuelt: 2. behandling af lovforslag nr. L 134:
+Forslag til lov om midlertidig udskydelse af betalingsfrister for
+indeholdt A-skat og arbejdsmarkedsbidrag, B-skat og foreløbigt ar‐
+bejdsmarkedsbidrag samt midlertidig udskydelse af angivelses- og
+betalingsfrister og forlængelse af afgiftsperioder for moms m.v.
+Af skatteministeren (Morten Bødskov).
+(Fremsættelse 13.03.2020. 1. behandling 13.03.2020. Betænkning
+16.03.2020).
+2) Eventuelt: 2. behandling af lovforslag nr. L 135:
+Forslag til lov om ændring af lov om sygedagpenge. (Udvidet ret for
+arbejdsgiver til refusion og for selvstændige til sygedagpenge som
+følge af covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 13.03.2020. 1. behandling 13.03.2020. Betænkning
+16.03.2020).";kl. 10.00
+1311;Time;Meddelelser fra formanden;Kl. 10:00
+1372;title_name;":
+Mødet er åbnet.
+I dag er der følgende anmeldelser:";Henrik Dam Kristensen
+1460;title_name;":
+Lovforslag nr. L 122 (Forslag til lov om ædle metaller og konflikt‐
+mineraler).
+Beskæftigelsesministeren (Peter Hummelgaard):
+Lovforslag nr. L 136 (Forslag til lov om ændring af lov om aktiv
+socialpolitik, lov om en aktiv beskæftigelsesindsats og forskellige
+andre love. (Justering af retten til ferie med ledighedsydelse, juste‐
+ring af mulighederne for befordringsgodtgørelse og af overgangsbe‐
+stemmelsen for voksenlærlingeordningen m.v.)).";Simon Kollerup
+1939;title_name;":
+
+1";Morten Bødskov
+1979;title_name;":
+Lovforslag nr. L 138 (Forslag til lov om ændring af lov om hjemme‐
+værnet. (Afskaffelse af alderskriteriet for frivillige befalingsmænd)).
+Børne- og undervisningsministeren (Pernille Rosenkrantz-Theil):
+Lovforslag nr. L 139 (Forslag til lov om ændring af lov om friskoler
+og private grundskoler m.v., lov om efterskoler og frie fagskoler og
+lov om private institutioner for gymnasiale uddannelser. (Inddragelse
+af elever i forbindelse med udskrivning)) og
+Lovforslag nr. L 140 (Forslag til lov om midlertidige foranstaltnin‐
+ger på børne- og undervisningsområdet til forebyggelse og afhjælp‐
+ning i forbindelse med COVID-19).
+Titler på de anmelde sager vil fremgå af www.folketingstidende.dk.
+(jf. ovenfor).
+Ministeren for nordisk samarbejde (Mogens Jensen) har meddelt
+mig, at han ønsker i henhold til forretningsordenens § 19, stk. 4, at
+give Folketinget en skriftlig
+Redegørelse om det nordiske samarbejde.
+(Redegørelse nr. R 10).
+Eksemplarer vil blive omdelt, og redegørelsen vil fremgå af
+www.folketingstidende.dk.
+Der er ikke aftalt dato for forhandlingerne.
+Fra medlem af Folketinget Troels Lund Poulsen (V), der har orlov,
+har jeg modtaget meddelelse om, at han fra og med den 26. marts
+2020 atter kan give møde i Tinget.
+Anders G. Christensens hverv som midlertidigt medlem af Folke‐
+tinget ophører fra nævnte dato at regne.
+Fra medlem af Folketinget Sjúrður Skaale (JF), der har orlov, har jeg
+modtaget meddelelse om, at han fra og med den 25. marts 2020 atter
+kan give møde i Tinget.
+Barbara Gaardlykke Apols hverv som midlertidigt medlem af
+Folketinget ophører fra nævnte dato at regne.
+
+2
+
+Tirsdag den 17. marts 2020 (L 134)";Trine Bramsen
+3630;Time;Samtykke til behandling;Kl. 10:01
+3689;title_name;":
+De sager, der er opført under punkt 1 og 2 på dagsordenen, kan
+kun med Tingets samtykke behandles i dette møde. Hvis ingen gør
+indsigelse, betragter jeg samtykket som givet.
+Det er givet.
+
+Det sidste punkt på dagsordenen er:
+2) 2. behandling af lovforslag nr. L 135:
+Forslag til lov om ændring af lov om sygedagpenge. (Udvidet ret
+for arbejdsgiver til refusion og for selvstændige til sygedagpenge
+som følge af covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 13.03.2020. 1. behandling 13.03.2020. Betænkning
+16.03.2020).";Henrik Dam Kristensen
+4247;Time;"Forhandling
+
+Det første punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 134:
+Forslag til lov om midlertidig udskydelse af betalingsfrister for
+indeholdt A-skat og arbejdsmarkedsbidrag, B-skat og foreløb‐
+igt arbejdsmarkedsbidrag samt midlertidig udskydelse af angi‐
+velses- og betalingsfrister og forlængelse af afgiftsperioder for
+moms m.v.
+Af skatteministeren (Morten Bødskov).
+(Fremsættelse 13.03.2020. 1. behandling 13.03.2020. Betænkning
+16.03.2020).";Kl. 10:02
+4753;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Henrik Dam Kristensen
+5054;Time;;Kl. 10:01
+5065;Time;Forhandling;Kl. 10:02
+5113;title_name;":
+Der er ikke mere at foretage i dette møde.";Henrik Dam Kristensen
+5192;title_name;":
+Der er stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.
+
+Folketingets næste møde afholdes i dag, tirsdag den 17. marts 2020,";Henrik Dam Kristensen
+5410;Time;"med tredje behandling af lovforslag nr. L 134 og L 135 og
+efterfølgende første behandling af lovforslag nr. L 140, og der skal
+altså stemmes kl. 10.10.
+Mødet er hævet. (Kl. 10:03).";kl. 10.10
+5602;Time;Afstemning;Kl. 10:02
+5648;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1-7, tiltrådt af udvalget?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Henrik Dam Kristensen

@@ -1,0 +1,61 @@
+split;reason;text;value
+0;;"Tirsdag den 29. september 2020 (D)
+
+1
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 214:
+Forslag til lov om ændring af barselsloven. (Midlertidig ret til
+dagpenge ved pasning af børn som følge af covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 22.09.2020. 1. behandling 24.09.2020. Betænkning
+28.09.2020).
+
+151. møde";
+411;Time;Dagsorden;kl. 13.00
+432;Time;"1) Eventuelt: 2. behandling af lovforslag nr. L 214:
+Forslag til lov om ændring af barselsloven. (Midlertidig ret til dag‐
+penge ved pasning af børn som følge af covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 22.09.2020. 1. behandling 24.09.2020. Betænkning
+28.09.2020).
+
+Forhandling";Kl. 13:00
+776;title_name;":
+Der er stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.";Trine Torp
+925;Time;;Kl. 13:01
+936;Time;"Afstemning
+
+Meddelelser fra formanden";Kl. 13:00
+1007;title_name;":
+Mødet er åbnet.
+Fra medlem af Folketinget Rasmus Jarlov (KF), der har orlov, har
+jeg modtaget meddelelse om, at han fra og med den 1. oktober 2020
+atter kan give møde i Tinget.
+Hanne Bjørn-Klausens (KF) hverv som midlertidigt medlem af
+Folketinget ophører fra nævnte dato at regne.";Trine Torp
+1300;Time;;Kl. 13:00
+1333;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1 og 2, tiltrådt af udval‐
+get?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Samtykke til behandling";Trine Torp
+1654;title_name;":
+Det punkt, som er opført som nr. 1 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde. Hvis ingen gør indsigelse,
+betragter jeg samtykket som givet.
+Det er givet.";Trine Torp
+1846;Time;Meddelelser fra formanden;Kl. 13:01
+1905;title_name;":
+Der er ikke mere at foretage i dette møde.
+Det næste møde afholdes i dag kl. 13.10, hvor vi skal stemme om
+endelig vedtagelse af L 214.
+Mødet er hævet. (Kl. 13:01).";Trine Torp

@@ -1,0 +1,872 @@
+split;reason;text;value
+0;;"Fredag den 27. august 2021 (D)
+
+1
+
+Folketinget Jeppe Bruus som medlem for den resterende del af inde‐
+værende funktionsperiode i stedet for medlem af Folketinget Jesper
+Petersen.
+Den pågældende er herefter valgt.
+
+136. møde";
+260;Time;"Dagsorden
+1) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som ordinært medlem af Folketinget
+for Tommy Ahlers (V).
+2) Spørgsmål om meddelelse af orlov til og indkaldelse af sted‐
+fortræder for medlem af Folketinget Bjørn Brandenborg (S).
+3) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som midlertidigt medlem af Folketin‐
+get for Bjørn Brandenborg (S).
+4) Eventuelt: 2. behandling af lovforslag nr. L 240:
+Forslag til lov om fornyelse af overenskomster og aftaler for syge‐
+plejersker.
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 26.08.2021. 1. behandling 26.08.2021. Betænkning
+26.08.2021. Ændringsforslag nr. 6 af 27.08.2021 uden for betænk‐
+ningen af Jacob Mark (SF)).
+
+Det første punkt på dagsordenen er:
+1) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som ordinært medlem af Folke‐
+tinget for Tommy Ahlers (V).";kl. 10.00
+1193;Time;Forhandling;Kl. 10:01
+1238;title_name;":
+Fra Udvalget til Valgs Prøvelse har jeg modtaget indstilling om,
+at 3. stedfortræder for Venstre i Københavns Storkreds, fru Anne
+Rasmussen, godkendes som ordinært medlem af Folketinget fra og
+med den 12. august 2021, da Tommy Ahlers nedlagde sit mandat
+pr. 11. august 2021. Det bemærkes, at 1. og 2. stedfortræder har
+meddelt, at de ikke ønsker at overtage det ledige mandat.
+Er der nogen, der ønsker ordet? Da det ikke er tilfældet, går vi til
+afstemning.";Trine Torp
+1707;Time;;Kl. 10:01
+1718;Time;Meddelelser fra formanden;Kl. 10:00
+1777;title_name;":
+Mødet er åbnet.
+Socialdemokratiets folketingsgruppe har meddelt mig, at den har
+udpeget medlem af Folketinget Bjørn Brandenborg som medlem af
+Tilsynsrådet vedrørende beskæftigelsen af de indsatte i kriminalfor‐
+sorgens institutioner for den resterende del af indeværende funkti‐
+onsperiode i stedet for Jeppe Bruus.
+Den pågældende er herefter valgt.
+Socialdemokratiets folketingsgruppe har meddelt mig, at den med
+virkning fra den 17. august 2021 har udpeget medlem af Folketinget
+Leif Lahn Jensen som statsrevisor i stedet for medlem af Folketinget
+Jesper Petersen, der blev udpeget som uddannelses- og forsknings‐
+minister den 16. august 2021.
+Den pågældende er herefter valgt.
+Socialdemokratiets folketingsgruppe har meddelt mig, at den til
+Danmarks Nationalbanks repræsentantskab har udpeget medlem af
+
+Afstemning";Trine Torp
+2628;title_name;":
+Der stemmes om udvalgets indstilling, og der kan stemmes.
+Afstemningen er afsluttet.
+For stemte 103 (S, V, DF, SF, RV, EL, KF, NB, LA, ALT, KD, Orla
+Østerby (UFG), Sikandar Siddique (UFG), Simon Emil AmmitzbøllBille (UFG) og Uffe Elbæk (UFG), imod stemte 0, hverken for eller
+imod stemte 0.";Trine Torp
+2931;Time;Samtykke til behandling;Kl. 10:02
+2990;title_name;":
+Det punkt, som er opført som nr. 4 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde.
+
+2
+
+Fredag den 27. august 2021 (UVP )";Henrik Dam Kristensen
+3145;Time;;Kl. 10:05
+3156;Time;"Afstemning
+
+Afstemning";Kl. 10:02
+3213;title_name;":
+Der stemmes om samtykke til behandling af dagsordenens punkt 4.
+Der skal som bekendt tre fjerdedeles flertal til et sådant samtykke.
+Der kan stemmes.
+Jeg hører, at skærmbilledet er spejlvendt. Vi får lige kigget på
+teknikken.
+Afstemningen er afsluttet.";Trine Torp
+3500;title_name;":
+Der stemmes om udvalgets indstilling, og der kan stemmes.
+Afstemningen er afsluttet.
+
+For stemte 87 (S, V, SF, RV, KF, NB, LA, KD, Orla Østerby (UFG)
+og Simon Emil Ammitzbøll-Bille (UFG)), imod stemte 20 (DF, EL,
+Sikandar Siddique (UFG) og Uffe Elbæk (UFG)), hverken for eller
+imod stemte 0.
+Dispensationen er givet.
+
+Det næste punkt på dagsordenen er:
+2) Spørgsmål om meddelelse af orlov til og indkaldelse af sted‐
+fortræder for medlem af Folketinget Bjørn Brandenborg (S).";Trine Torp
+3987;Time;"Udvalgets indstilling er vedtaget enstemmigt med 109 stemmer.
+[For stemte 109 (S, V, DF, SF, RV, EL, KF, NB, LA, KD, Orla
+Østerby (UFG), Sikandar Siddique (UFG) og Simon Emil Ammitz‐
+bøll-Bille (UFG), imod stemte 0, hverken for eller imod stemte 0.]
+
+Det sidste punkt på dagsordenen er:
+4) 2. behandling af lovforslag nr. L 240:
+Forslag til lov om fornyelse af overenskomster og aftaler for
+sygeplejersker.
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 26.08.2021. 1. behandling 26.08.2021. Betænkning
+26.08.2021. Ændringsforslag nr. 6 af 27.08.2021 uden for betænk‐
+ningen af Jacob Mark (SF)).";Kl. 10:04
+4610;Time;;Kl. 10:05
+4643;title_name;":
+Bjørn Brandenborg (S) har søgt om orlov fra den 16. september
+2021, jf. forretningsordenens § 41, stk. 4.
+
+Forhandling
+
+Hvis ingen gør indsigelse, vil jeg betragte det som vedtaget, at der
+meddeles orlov som ansøgt, og at stedfortræderen indkaldes som
+midlertidigt medlem.
+Det er vedtaget.";Trine Torp
+4967;title_name;":
+Der er stillet ændringsforslag.
+
+Det næste punkt på dagsordenen er:
+3) Indstilling fra Udvalget til Valgs Prøvelse:
+Godkendelse af stedfortræder som midlertidigt medlem af Fol‐
+ketinget for Bjørn Brandenborg (S).
+
+Ønsker nogen at udtale sig? Det gør hr. Jacob Mark fra Socialistisk
+Folkeparti. Værsgo.";Trine Torp
+5281;Time;Forhandling;Kl. 10:04
+5326;title_name;":
+Fra Udvalget til Valgs Prøvelse har jeg modtaget indstilling om, at
+2. stedfortræder for Socialdemokratiet i Fyns Storkreds, Alexander
+Grandt, godkendes som midlertidigt medlem af Folketinget fra og
+med den 16. september 2021 i anledning af Bjørn Brandenborgs
+orlov. Det bemærkes, at 1. stedfortræder ikke har mulighed for at
+indtræde under denne orlov.
+Er der nogen, der ønsker ordet?
+Da det ikke er tilfældet, går vi til afstemning.
+
+Jeg skal gøre opmærksom på, at der efter dagsordenens offentliggø‐
+relse er stillet ændringsforslag nr. 6, uden for betænkningen, af Jacob
+Mark (SF), som kun med tingets samtykke kan behandles i dette
+møde. Hvis ingen gør indsigelse, betragter jeg samtykket som givet.
+Det er givet.";Trine Torp
+6057;Time;(Ordfører);Kl. 10:06
+6085;name_party;":
+Tak for det. På skoleområdet var der engang en fantastisk klog
+meningsdanner, der sagde: Træd varsomt, thi her bliver mennesker
+til. Sådan har jeg det i virkeligheden også i forhold til det store vel‐
+færdsområde, hvor vi i fremtiden får brug for alle de her fantastiske
+mennesker til at tage hånd om os på sygehusene, sørge får tryghed
+på fødegangene, passe på vores børn ude i daginstitutionerne og i
+det hele taget sikre, at vi kan gå trygge på arbejde, og at der er et
+sikkerhedsnet for alle mennesker. Min bekymring er, at man med
+det her indgreb ikke træder varsomt, at man kommer til at efterlade
+ikke kun sygeplejerskerne, men også de andre faggrupper, som i
+årtier har oplevet skæve lønninger, uligeløn og svære vilkår som en
+begrænsning for at udleve den drøm, de havde, da de uddannede sig,
+altså at vi med det her indgreb ikke kan tiltrække alle de mennesker i
+fremtiden, og at de bliver afmægtige og siger fra.
+Derfor forsøger vi også at stille en række ændringsforslag, og
+det er derfor, jeg har taget ordet her ved andenbehandlingen for at
+redegøre for dem. Det første ændringsforslag er det vigtigste. Det
+handler om at sikre økonomi til den lønstrukturkomité , der nu skal
+nedsættes for at komme med anbefalinger til, hvordan man kan ska‐
+
+Fredag den 27. august 2021 (L 240)
+
+be mere ligeløn mellem de ansatte i den offentlige sektor i fremtiden.
+Vi er bange for, at hvis man ikke afsætter økonomi, altså hvis der
+ikke ligger en pose penge til fordeling til at rette op på de ulige
+lønninger i fremtiden, bliver det her bare endnu en syltekrukke. Kva‐
+litet koster. Det vil koste noget at rette op på lønningerne, og hvis
+man ikke sætter økonomi af, frygter vi, at der så bare kommer endnu
+en overenskomstforhandling, hvor regionerne og kommunerne reelt
+ikke har mulighed for at ændre på de her urimelige strukturer. Jeg
+håber og opfordrer til, at det flertal, der kunne være muligt, hvis
+f.eks. Socialdemokratiet og Radikale stemte med os – for det gør
+Dansk Folkeparti og Enhedslisten – vil være med på at sætte penge
+af til at rette op på de her ulige lønninger.
+Det andet ændringsforslag er mindre vidtgående, men stadig vig‐
+tigt. Når man nedsætter en lønstrukturkomité, som skal kigge på de
+er ulige lønninger, så er det jo vigtigt, at man tager det seriøst, og at
+man forpligter sig til at tage de anbefalinger op, som kommer fra den
+lønstrukturkomité, men det ligger der ikke noget om i lovforslaget.
+Jo, det er rigtigt, at det skal præsenteres for partierne, men vi stiller
+altså et ændringsforslag om, at man forpligter sig til at indkalde til
+forhandlinger omkring de her anbefalinger.
+Det tredje ændringsforslag er endnu mindre vidtgående. Det
+handler om, at alle Folketingets partier har et ansvar. Det gælder
+ikke kun dem, der stemmer for lovindgrebet, men alle Folketingets
+partier, for vi har alle sammen et ansvar for – og det har vi haft siden
+1969, hvor man lavede tjenestemandsreformen – at få ændret på den
+her ulige lønstruktur, der er i den offentlige sektor. Lige nu lægger
+ministeren kun op til, at invitere dem, der stemmer for indgrebet, og
+det kommer vi formentlig ikke til, idet jeg ikke regner med, at de her
+ændringsforslag bliver imødekommet. Men det mindste, man kunne
+gøre, og det har sygeplejerskerne også opfordret til, er at invitere alle
+partier med. Det synes jeg også er i folkestyrets ånd.
+Til gengæld kommer vi til at trække det ændringsforslag, som er
+blevet stillet uden for betænkningen – det er det ændringsforslag, der
+hedder ændringsforslag nr. 6, uden for betænkningen – tilbage. Det
+er et ændringsforslag, der handler om, at der skal være en deadline
+for lønstrukturkomitéens arbejde. Lønstrukturkomitéen er jo blevet
+nedsat efter henvendelse fra FH, og i FH's brev står der, at man vil
+have en deadline, der hedder maj 2022. Vi har, fordi det står uklart
+i lovforslaget, og fordi vi ikke har kunnet få svar fra ministeren
+i går, stillet det her ændringsforslag uden for betænkningen for at
+sikre den deadline, som FH selv har præsenteret og foreslået. Nu er
+der jo gået noget tid siden maj, hvor FH fremlagde det her, og det,
+som ministeren har lovet, siden vi stillede det her ændringsforslag,
+er umiddelbart efter behandlingen her at oversende et brev, hvor
+man lover, at når den her lønstrukturkomité er nedsat, skal arbejdet
+være færdigt med deadline i udgangen af 2022 næste år: og det
+er vigtigt. Det er vigtigt, fordi det så kommer lidt på afstand af
+de overenskomstforhandlinger. Det er vigtigt, fordi der så er en
+reel mulighed for, at politikerne faktisk kan tage ansvar for de her
+ulige lønstrukturer, inden man bare skubber aben videre til en ny
+overenskomstforhandling. Så det vil jeg gerne sige tak til ministeren
+og flertallet for. Det ændringsforslag trækker vi altså tilbage.";Jacob Mark
+10858;Time;"Jeg tror, det var det. Jeg håber, at flertallet, der vil stemme de her
+regeringsindgreb igennem, vil stemme for de her ændringsforslag,
+fordi jeg tror, det er hammervigtigt, at vi i forhold til alle de mange
+mennesker, der har været på gaden tirsdag efter tirsdag, har kæmpet,
+har kastet bolsjer ind i min have i Holbæk, og hvad de ellers har
+gjort hos os alle sammen for at gøre opmærksom på det vigtige
+budskab om, at der er ulige lønstrukturer i den offentlige sektor,
+efterlader dem med noget håb. Og det mindste, vi kan gøre der,
+er altså at sørge for, at det ikke bliver en syltekrukke, at der er
+økonomi, at vi forpligter os til at arbejde med de her anbefalinger,
+
+3
+
+der kommer, og sørge for, at det er alle partier, der lægger hånden på
+kogepladen.";Kl. 10:11
+11628;Time;;Kl. 10:12
+11661;title_name;":
+Tak for det. Der er nogle korte bemærkninger. Først hr. Alex Va‐
+nopslagh.";Trine Torp
+11747;Time;;Kl. 10:12
+11769;name_party;":
+Tak for det. Jeg vil egentlig bare starte med at erklære mig fuldstæn‐
+dig enig i hr. Jacob Marks udsagn om, at højere løn bidrager til
+lysten til at arbejde, at højere løn er med til at fastholde og motivere
+folk også i den offentlige sektor. Så vi har et fælles ønske om, at der
+skal være gode lønvilkår også i den offentlige sektor.
+Der er jo andre veje til at gøre den udbetalte løn højere end
+via lønstigninger. En anden mulig vej er at sænke skatten. I Liberal
+Alliance har vi foreslået, at de første 7.000 kr., man tjener hver
+måned, skal være skattefrie. Det vil også øge lønnen – i hvert fald
+den udbetalte løn – også for de faggrupper, som hr. Jacob Mark
+omtaler. Vil det være noget, som SF vil støtte, i forhold til at fjerne
+den bombe under velfærdssamfundet, jeg fornemmer der er lige nu?";Alex Vanopslagh
+12582;Time;;Kl. 10:12
+12615;title_name;":
+Hr. Jacob Mark.";Trine Torp
+12642;Time;;Kl. 10:12
+12659;name_party;":
+Det er rigtigt, at det vil ændre den udbetalte løn, men til gengæld vil
+det også koste enormt mange penge, som vi ville skulle finansiere
+herindefra, til skattenedsættelser. Og hvor vil man skulle tage de
+penge? Jo, jeg kan godt komme i tanke om det, for nu har jeg både
+siddet i en kommunalbestyrelse og været herinde i 6 år, og det er
+altid de samme områder, der betaler, det er de samme klassikere:
+Normeringerne i daginstitutionerne har stået for skud i 30 år i for‐
+bindelse med ufinansierede skattenedsættelser: handicapområdet, der
+ikke længere hænger sammen, vores udsatte børne og unge er dem,
+der betaler. Alle de områder, der er uregulerede, men som er så
+vigtige for vores kernevelfærd, er dem, der kommer til at betale for
+de skattenedsættelser, som hr. Alex Vanopslagh vil lave.
+Der mener vi simpelt hen, det er en mere rimelig model, at man
+enten lader nogle finansiere den ligeløn, vi gerne vil have i den of‐
+fentlige sektor – og vi foreslår en formueskat på 0,5 pct. på de største
+formuer – eller at man omprioriterer. F.eks. kunne man spørge sig
+selv, om det i nutiden med det arbejdsmarked, vi har, giver mening
+at have en boligjobordning, som vi bruger rigtig mange penge på.
+Pengene kan findes på andre måder end ved at give skattenedsættel‐
+ser.";Jacob Mark
+13939;Time;;Kl. 10:14
+13972;title_name;":
+Hr. Alex Vanopslagh.";Trine Torp
+14004;Time;;Kl. 10:14
+14026;name_party;":
+Altså, uanset om man skal finde nogle milliarder til lønstigninger i
+det offentlige eller skal finde nogle milliarder til skattelettelser, skal
+pengene finde jo findes lige meget hvad. Men jeg kan forstå, at hvis
+det er til skattelettelser, kan de kun findes ved at skærpe de offentligt
+ansatte, mens hvis vi skal finde penge til højere løn, kan de lige
+pludselig findes ved at omprioritere eller få højere skatter.
+Der må jeg bare sige: Selvfølgelig kan vi også prioritere ander‐
+ledes i den offentlige sektor og sige, at vi gerne vil have færre
+akademikere, vi gerne vil have mindre papirarbejde. Den stigning,
+
+4
+
+Fredag den 27. august 2021 (L 240)
+
+vi har set i antallet af akademikere i kommunerne i de sidste 10 år
+på 44 pct., vil vi have sat en stopper for. Vi vil have færre kolde
+hænder, og så skal vi bruge pengene på lavere skat. Ordføreren har
+selvfølgelig ret i, at det jo vil blive dyrere, fordi man giver lavere
+skattesatser til alle i Danmark og ikke kun de offentligt ansatte, men
+er det et problem, at andre skal nyde den samme glæde, som man
+gerne vil give sygeplejerskerne i form af mere udbetalt løn?";Alex Vanopslagh
+15160;Time;;Kl. 10:14
+15193;title_name;":
+Ordføreren.";Trine Torp
+15216;Time;;Kl. 10:14
+15233;name_party;":
+Hvis man generelt sænker skatten, vil det for det første blive en
+enorm stor regning, som jeg frygter igen vil ramme normeringerne,
+folkeskolerne, vores udsatte børn og unge, handicapområdet. Og du
+vil ikke målrettet gøre en forskel for de mennesker, vi mener der skal
+gøres en forskel for her, nemlig de faggrupper, der på grund af tjene‐
+stemandsreformen årti efter årti er sakket bagud i deres lønninger.
+Det kan man til gengæld gøre, hvis man laver en reform, hvor man
+siger, at nu hæver vi de lønninger for de grupper, der på grund af en
+gammel tjenestemandsreform er sakket bagud år efter år.";Jacob Mark
+15843;Time;;Kl. 10:15
+15876;title_name;":
+Så er der en kort bemærkning fra hr. Jens Rohde.
+
+jo er regering, sætter sig for bordenden og indkalder partierne bredt.
+Og det er jo også det, vi stiller ændringsforslag om her.";Trine Torp
+16066;Time;;Kl. 10:17
+16099;title_name;":
+Hr. Jens Rohde.";Trine Torp
+16126;Time;;Kl. 10:17
+16143;name_party;":
+Men når man stiller et ændringsforslag, er det jo godt lige at bruge
+lidt politisk knofedt og så indkalde de partier, man ved sympatiserer
+med ens holdning, for at se, hvad der skal til, for at de kan stemme
+for. Jeg synes jo sådan set, at SF's forslag er meget sympatisk, og jeg
+vil gerne stemme for. Jeg synes også, det er sympatisk, at man rent
+faktisk er kommet med det forslag om, at der skal afsættes 2 mia.
+kr. Selv om det i den store samlede pulje jo ikke rækker langt, er
+det dog en start. Vi er bare ikke nødvendigvis enige i finansieringen,
+og det bør man jo så forhandle om, således at vi har en chance for
+at stemme for et forslag, som vi synes er sympatisk, men som vi
+mener mangler finansiering, og som jeg i øvrigt kan konstatere ikke
+figurerer på SF's forslag til finanslov. Og derfor vil jeg høre, om det
+kommer til det for det kommende år.";Jens Rohde
+17013;Time;;Kl. 10:18
+17046;title_name;":
+Tak. Ordføreren.";Trine Torp
+17074;Time;;Kl. 10:18
+17085;Time;;Kl. 10:15
+17102;name_party;":
+Tak. Nu bruger hr. Jacob Mark, både i går og i dag, udtrykket tage
+det seriøst. Det vil jeg godt lige trykteste en lille smule med forlov.
+Jeg noterer mig, at hr. Jacob Mark konsekvent undlader at omtale
+KD som dem, der ikke støtter lovforslaget. Det var både i går, og det
+var også i dag – og i øvrigt også Frie Grønne, men fred være med
+det. En ting er, hvem man nævner: en anden ting er – hvis man gerne
+vil have folk med på sine ændringsforslag og man beder andre om
+at forhandle, som man opfordrer regeringen til – hvorfor SF så ikke
+har indkaldt de partier, som er enige med SF i, at det lovindgreb, der
+kommer her, er utilstrækkeligt. Hvorfor har man ikke indkaldt til en
+forhandling om, hvordan man kan finde de penge? For det er jo let
+nok at sige, at vi afsætter 2 mia. kr., men vi er jo ikke nødvendigvis
+enige om, hvordan man finansierer de 2 mia. kr. eller 5 mia. kr.,
+eller hvor mange penge der skal til. Hvorfor gør SF ikke sit politiske
+håndværk? Men det er måske, fordi man har glemt at invitere nogle
+og så kun har forhandlet med andre. Eller hvad er årsagen til det?";Jens Rohde
+18199;Time;;Kl. 10:16
+18232;title_name;":
+Tak. Hr. Jacob Mark.";Trine Torp
+18264;Time;;Kl. 10:16
+18281;name_party;":
+Først vil jeg beklage, at jeg ikke har nævnt Kristendemokraterne og
+Frie Grønne. Det har ikke været i en eller anden ond hensigt. Jeg er
+rigtig glad for, at vi er flere, der stemmer imod det lovindgreb, som
+ikke løser det grundlæggende problem, vi har med ulige løn i den
+offentlige sektor.
+Derudover mener jeg faktisk ikke, at det er vores ansvar alene at
+sørge for, at der kommer forhandlinger bredt blandt partierne. Altså,
+vi bidrager gerne til det, og vi sagde også på talerstolen i går, at vi
+godt ved, at det ikke nødvendigvis er den finansieringskilde, vi peger
+på, som skal finansiere, at man retter op på de her skæve lønninger.
+Men hvis man skal løse det her, kræver det jo, at regeringen, som";Jacob Mark
+19004;name_party;":
+Ja, vi kommer til at have det med i vores finanslovsforslag, at der
+skal sættes penge af til mere ligeløn i den offentlige sektor, bl.a.
+fordi den socialdemokratiske ordfører var så venlig at opfordre os til
+at bringe det ind i finanslovsforhandlingerne.
+I forhold til det der med processen for ændringsforslag tror jeg
+bare at jeg vil sige, at Beskæftigelsesudvalget kl. 23.00 i går aftes
+havde et rigtig fint møde, hvor vi jo faktisk havde lejlighed til at
+drøfte de her ændringsforslag. Og der hørte jeg ikke, at der var
+nogen, der havde brug for at stille spørgsmål til vores finansiering,
+eller som sagde, at der var brug for en forhandling. Jeg synes faktisk,
+det var en fin debat, og jeg tænker, at vi har haft lejlighed til at drøfte
+de ændringsforslag, der ligger.";Jacob Mark
+19789;Time;;Kl. 10:18
+19822;title_name;":
+Tak. Så er det fru Victoria Velasquez.";Trine Torp
+19872;Time;"Victoria Velasquez (EL):
+Tusind tak og tak til ordføreren og også tak til SF for at bakke
+op om det, vi egentlig synes er et beskedent ændringsforslag fra
+Enhedslisten, og som er, at regeringen selvfølgelig burde indkalde til
+forhandlinger, så vi kan sikre en finansiel ramme, så det netop ikke
+bliver varm luft, som ordføreren også siger, eller en syltekrukke.
+Jeg vil gerne følge op på noget, og det er, at beskæftigelsesmini‐
+steren i går til samrådet sagde, at det er en tradition, at man ophøjer
+mæglingsskitsen til lov ved et regeringsindgreb. Jeg vil høre, om
+ordføreren kan bekræfte, at der er præcedens for, at man godt kan
+tilføje forbedringer til et regeringsindgreb, bl.a. var det det, der skete
+i 1998. Kan ordføreren bekræfte det?";Kl. 10:18
+20628;Time;;Kl. 10:19
+20661;title_name;":
+Ordføreren.
+
+Fredag den 27. august 2021 (L 240)";Trine Torp
+20722;Time;;Kl. 10:19
+20739;name_party;":
+Ja, det kan jeg bekræfte. Og egentlig ændrede man i 2013 også den
+såkaldte lov nr. 409: jeg vil sige, det gjorde ikke loven meget bedre,
+men da man lavede lov nr. 409, der regulerede lærernes arbejdstid,
+lavede man også ændringer i sidste øjeblik, så det kan man godt.";Jacob Mark
+21019;Time;"5
+
+ikke er os alle sammen, der sidder i Beskæftigelsesudvalget, og at vi
+fremadrettet husker, at vi selvfølgelig alle sammen skal stå sammen
+for de her faggrupper: sygeplejerskerne, sosu'erne, jordemødrene
+osv. osv.";Kl. 10:19
+21246;Time;;Kl. 10:22
+21279;title_name;":
+Ordføreren.";Trine Torp
+21302;Time;;Kl. 10:22
+21335;title_name;":
+Fru Victoria Velasquez.";Trine Torp
+21370;Time;"Victoria Velasquez (EL):
+Tak til ordføreren for bare at komme med endnu flere eksempler på,
+at vi sagtens kan se tilbage på traditioner, der viser, at man altså godt
+kan putte noget mere på. Man kunne godt sikre, at der skulle være
+en finansiel ramme, sådan at det ikke bare er tomme ord, men at vi
+rent faktisk ved, at der er råd til forbedringer. Men så vil jeg bare
+lige spørge ordføreren: Selv hvis det var, at traditionen sagde, at der
+kun havde været mæglingsskitser, der var blevet ophøjet til lov, er
+ordføreren så ikke enig i, at det er tid til at gøre op med den tradition
+at underbetale kvinder, at det er tid til at gøre op med den tradition,
+der handler om uligeløn?";Kl. 10:19
+22061;Time;;Kl. 10:20
+22094;title_name;":
+Ordføreren.";Trine Torp
+22124;name_party;":
+Det er rigtigt, at vi støtter en hastebehandling. Det er ikke, fordi
+jeg vil være kedelig, men det er ikke usædvanligt, at man støtter
+hastebehandlinger, fordi der er brug for presserende løsninger og
+svar, men ikke støtter det lovforslag, der bliver behandlet. Det er
+ikke første gang, det er sket i Folketingets tid. Det er faktisk sket
+mange gange, og vi mener, at der var brug for et indgreb. Det hørte
+vi også både sygeplejerskerne, Danske Regioner og KL sige.
+Jeg anerkender, at det er dilemmafyldt, og jeg anerkender også
+det standpunkt, som Frie Grønne har taget, men for os var det vig‐
+tigt, at man fik afsluttet den her konflikt nu. Vi er uenige i den måde,
+det bliver afsluttet på. Det er også derfor, vi stiller ændringsforslaget.
+Det er derfor, vi ender med at stemme nej.
+Så vil jeg bare sige, at det er en god pointe omkring, at der er
+nogle partier, der ikke sidder i alle udvalg, og at de selvfølgelig også
+skal inddrages. Det lover jeg at gøre fremadrettet.";Jacob Mark
+23112;Time;;Kl. 10:23
+23123;Time;;Kl. 10:20
+23140;name_party;":
+Jo, det er jeg helt enig i, og jeg er glad for, at vi kæmper den
+kamp sammen. Jeg vil måske bare lige sætte et par ekstra ord på
+det der med at ophøje mæglingsskitsen til lov. For det, der er det
+lidt usædvanlige ved det her forløb, der har været, er jo, at vi alle
+sammen godt har vidst, at det her ikke kun handlede om sygeplejer‐
+skerne. Det er sygeplejerskerne, der har strejket, det er jeg med på,
+men vi har jo alle sammen godt vidst, også fordi de har stået ude
+på Slotspladsen tirsdag efter tirsdag, at det var mange faggrupper,
+der har været ramt af det her, det var mange faggrupper, der ville
+have en løsning. Og regeringen har jo også anerkendt, at der er
+et problem, ellers havde man jo ikke nedsat den lønstrukturkomité.
+Derfor mener jeg også, at usædvanlige problemer, som har stået på i
+50 år, kræver usædvanlige løsninger, og det gør det også her.";Jacob Mark
+24016;Time;;Kl. 10:21
+24049;title_name;":
+Tak. Så er det hr. Sikandar Siddique.";Trine Torp
+24098;Time;;Kl. 10:21
+24123;name_party;":
+Tak til hr. Jacob Mark. Jeg er glad for de toner, vi hører fra SF i
+dag. Vi havde jo en meget lang diskussion i går, hvor Frie Grønne
+gav udtryk for, at vi er utrolig kede af, at Radikale Venstre og SF har
+støttet den her hastebehandling, fordi vi mener, det de facto betyder,
+at man støtter lovindgrebet, men den diskussion havde vi i går.
+Grunden til, at jeg rejser mig op i dag, er, at jeg bare gerne vil
+stemme ind her med KD og sige, at der jo er nogle af os partier,
+som ikke er medlem af Beskæftigelsesudvalget og derfor ikke kan
+deltage i de diskussioner. Derfor havde det være rigtig fint, især
+fordi vi jo i hvert fald i den side af Folketingssalen gerne vil vise
+solidaritet med sygeplejerskerne, at man havde taget alle sammen
+med i det arbejde og havde sendt forslaget forbi.
+Vi kommer til at støtte den del af betænkningen, som ligger fra
+et mindretal i Beskæftigelsesudvalget, og jeg vil bare gerne lige
+bekræfte det, som KD siger, og lige fortælle ordføreren, at det jo";Sikandar Siddique
+25143;title_name;":
+Tak. Så er det hr. Henrik Møller.";Trine Torp
+25188;Time;;Kl. 10:23
+25207;name_party;":
+Tak. Det, der triggede mig en lille smule, var, at der var en diskus‐
+sion om, hvad der var der tradition for, og konflikten i 2013 blev
+nævnt. Men er det ikke korrekt, at der i 2013, hvor det i øvrigt var
+en helt anden form for konflikt, ikke var nogen mæglingsskitse? Det
+var en lockout, vi snakkede om: der lå sådan set ikke noget. Så kan
+hr. Jacob Mark ikke bekræfte, at der ikke var nogen mæglingsskitse i
+2013?";Henrik Møller
+25635;Time;;Kl. 10:23
+25668;title_name;":
+Ordføreren.";Trine Torp
+25691;Time;;Kl. 10:23
+25708;name_party;":
+Man kunne ikke blive enige om noget, så man ophøjede primært
+bare det, som KL gerne ville have, til lov – det er rigtigt – og
+så lavede man nogle få forbedringer til sidst. Det er rigtigt, så det
+var forkert at sige, at der var en mæglingsskitse. Men det, som KL
+ville – altså det, som Finansministeriet og regeringen ville – var så
+bare det, man ophøjede med nogle få ændringer. Det viser jo, at
+regeringen, hvis man vil, kan lave få ændringer eller store ændringer,
+når der er brug for det. Men ordføreren har ret.";Jacob Mark
+26236;Time;;Kl. 10:24
+26269;title_name;":
+Tak for det. Der er ikke flere korte bemærkninger. Tak til hr. Jacob
+Mark. Og så har hr. Bent Bøgsted bedt om ordet også. Værsgo, hr.
+Bent Bøgsted fra Dansk Folkeparti.
+
+6
+
+Fredag den 27. august 2021 (L 240)";Trine Torp
+26490;Time;(Ordfører);Kl. 10:24
+26520;name_party;":
+Tak for det, formand. I dag er sådan lidt af en særlig dag, for netop i
+dag har regeringen jo med et stort flertal besluttet, at sygeplejersker‐
+nes strejke skal bringes til ophør, så de kan komme i arbejde igen
+i morgen tidlig. Det er der mange delte meninger om. Jeg skal lige
+sige fra starten af, at i Dansk Folkeparti synes vi, det er godt, at
+patienterne igen kan få den behandling, som de har behov for, og
+som de har krav på. Når det så er sagt, synes vi også, det er forkert
+af regeringen at tromle hen over sygeplejerskerne på den måde, som
+det er sket, for sygeplejerskerne har ikke på nogen måde mødt nogen
+særlig velvillighed fra regeringens side af, og heller ikke fra de
+partier, som støtter regeringen i den beslutning, at man skal stoppe
+strejken ved et regeringsindgreb. Det virker, som om man har ventet
+på, at sygeplejerskerne måske var ved at have tømt strejkekassen, og
+at nu var der gået lang tid nok, og så bliver det begrundet med, at der
+er nogle kritiske funktioner, og at nu er det ved at ramme hårdt – jo,
+det er det selvfølgelig, men det er den måde, sygeplejerskerne kan
+gøre sig gældende på og gøre opmærksom på, at der er noget galt.
+Det har der bare ikke været lydhørhed over for fra regeringens side.
+Man har bare tromlet hen over sygeplejerskerne.
+Det er også derfor, at vi i Dansk Folkeparti ikke kan støtte rege‐
+ringens indgreb. Vi ville gerne have set på, hvordan vi kunne have
+bragt det til ophør på en god måde med forhandlinger med sygeple‐
+jerskerne om, hvordan vi kunne sikre, at de kunne blive tildelt nogle
+flere ressourcer. Vi mener absolut, at sygeplejerskerne er meget mere
+værd, end de får. Der er også andre løngrupper i det offentlige, vi
+synes er meget mere værd end det, de får på nuværende tidspunkt.
+Men nu har regeringen jo så sagt nej, at nu skal det stoppe, og at
+nu skal vi ikke have mere strejke, og så bringer man det til ophør.
+Samtidig vil man nedsætte en lønkomité, en lønstrukturkomité, til
+at se på forholdene. Den putter man så ind i loven om ophør af
+strejken og om fornyelse af sygeplejerskernes overenskomst, og så
+siger man: Hov, det er kun de partier, der stemmer for et indgreb,
+der får lov at være med til at se kommissoriet og til at forhandle om,
+hvad der så skal ske efterfølgende. Det synes vi er vildt forkert, for
+de to ting kunne godt have været adskilt. De behøver ikke at høre
+sammen.
+Vi synes så afgjort, at det er nødvendigt at få set mere på,
+hvordan strukturen i overenskomstsystemet skal være for offentligt
+ansatte, for vi har nogle særlige grupper, der ikke har strejkeret, og
+som ikke bare kan gå ud at strejke og blokere, og de kan heller ikke
+lockoutes. Så det er en helt særlig gruppe for sig selv, og en meget
+stor gruppe, skal vi lige sige. Det er dem, der driver det offentlige
+Danmark, og som har nogle særlige regler. De kan ikke bare gå ud at
+sige, at nu laver vi ikke mere: alle strejker. Det kan man ikke. Der er
+et beredskabsgrundlag, der skal være i orden, og der skal ikke være
+flere strejkende, end man lige kan tage ud, uden at det hele går i stå.
+Derfor er vi også i Dansk Folkeparti kommet frem til, at det er
+nødvendigt, at der tilføres noget mere til regeringens lønstrukturko‐
+mité, og derfor har vi et ændringsforslag, som vi selvfølgelig håber
+der er flere, der vil stemme ja til, end dem, der har tilkendegivet det
+– og tak til Enhedslisten, SF, Frie Grønne og Alternativet, der har
+støttet det her forslag. Men det, det går ud på, er, at med bestemmel‐
+sen pålægges regeringen senest den 1. januar 2022 at udarbejde for‐
+slag til justering af, hvordan konflikter på det offentlige arbejdsmar‐
+ked fremover kan håndteres. Forslaget til justeringer kan tage højde
+for de særlige vilkår, som kendetegner flere lønmodtagergruppers
+muligheder i en konfliktsituation på det offentlige arbejdsmarked,
+hvor flere arbejdsgrupper, f.eks. ansatte i sundhedsvæsenet, politiet
+og kriminalforsorgen, bl.a. på grund af behovet for opretholdelse
+af samfundskritiske funktioner, ikke kan anvende strejkevåbnet i en
+konfliktsituation på samme måde, som lønmodtagergrupper på det
+
+private arbejdsmarked, og regeringen pålægges i forlængelse heraf
+at præsentere Folketinget for forslag til, hvordan trepartssamarbejdet
+på det offentlige arbejdsmarked kan justeres, med henblik på at
+afspejle de særlige vilkår, som gør sig gældende på denne del af det
+danske arbejdsmarked.";Bent Bøgsted
+30902;Time;"Vi har så fået noget kritik af, at det godt nok var hurtigt, det
+skulle være med den 1. januar 2022. Jamen lønstrukturkomitéen går
+i gang her i efteråret, og den skal være rimelig hurtigt færdig, og så
+kan det ikke hjælpe noget, at vi siger, at det først er om et år, det
+her skal ind. Det skal ind fra starten af. Det skal ind, når lønstruktur‐
+komitéen bliver nedsat: så skal det her jo med, hvis vi ellers kan få
+flertal for det, som vi håber på, for det er fornuftige ting, vi rejser
+her, og det burde regeringen også tage til sig og sige, at det indhold,
+der er i det ændringsforslag, egentlig er meget fornuftigt, at det da
+er noget af det, som lønstrukturkomitéen skal se på, og at det skal
+indgå i kommissoriet. Men det kommer det ikke til, for flertallet,
+der er for indgrebet, er imod de ændringsforslag, som kommer fra
+Dansk Folkeparti, og de er imod de ændringsforslag, der kommer fra
+Enhedslisten og fra SF. Så der er ikke noget af det her, der kommer
+med. Det er man egentlig ligeglad med.
+Partierne, der ikke har stemt for et indgreb, kommer som sagt
+heller ikke til at være med til at forhandle om kommissoriet og heller
+ikke til at forhandle om, hvad der så skal ske efterfølgende. Det har
+regeringen en gang for alle sørget for. En ting er, at Dansk Folkeparti
+er sat uden for døren her, men noget andet er, at to af støttepartierne
+søreme også er sat uden for døren, eftertrykkeligt. Jeg fatter ikke,
+at de to støttepartier vil finde sig i det fra regeringens side af. Det
+må jo kunne få konsekvenser. Hvis de skal bakke regeringen op
+i tykt og tyndt, skal regeringen da ikke tryne støttepartierne. Det
+gør de her, men det er jo støttepartierne selv, der får lov at afgøre,
+hvordan de vil tackle den situation. Dansk Folkeparti kan ikke sige
+til regeringen, at vi ikke støtter dem mere, for vi er ikke støtteparti
+for regeringen, så det er de nok ligeglade med i den forbindelse.
+Men jeg vil lige sige, at vi støtter ændringsforslaget fra Enhedsli‐
+sten, og vi støtter ændringsforslagene fra SF, bortset fra den med de
+2 mia. kr. Den er lidt tricky, så den stemmer vi gult til. Men de andre
+støtter vi, også det uden for betænkningen. Det siger Dansk Folke‐
+parti også ja til, for det er et fornuftigt forslag, og det ligger fuldt
+i tråd med Dansk Folkepartis eget forslag og Enhedslistens forslag.
+I Enhedslistens er der en masse med økonomien, men der står ikke
+noget om økonomien. Der står, at man skal samles til forhandlinger
+om økonomien i det, og det er en anden ting: så kan man jo sige,
+hvis der er noget økonomisk, man ikke bryder sig om. Men ellers
+er det gode forslag, som der var mange flere der burde støtte, men
+nej, siger regeringen: Vi er ligeglade med de ændringsforslag, selv
+om de er nok så fornuftige, vi er ligeglade med, om vi tryner vores
+støttepartier, og vi er ligeglade med at tryne Dansk Folkeparti. Det
+kan vi så godt forstå at regeringen nok er totalt ligeglad med, altså
+hvad Dansk Folkeparti siger på nuværende tidspunkt, eftersom vi jo
+ikke er støtteparti.
+Jeg tror, at regeringen kommer til at fortryde det her, for det
+her indgreb, sådan som jeg har forstået det, vil også betyde, at
+sygeplejerskerne siger, at de arbejder efter reglerne. Den fleksibilitet,
+der er i sundhedssektoren, og den fleksibilitet, der kan være andre
+steder, falder til jorden med det her indgreb, fordi regeringen ikke
+har været lydhør over for sygeplejerskernes indsigelser. De argumen‐
+ter, de har haft for at komme videre, har man været ligeglade med.
+Jeg ved godt, at der er noget økonomi i det, men altså, økonomien
+er bestemt af regeringen. Hvis regionerne skal kunne yde mere til
+sygeplejerskerne, skal man jo øge det, som regionerne har at arbejde
+med, og det har man så ikke. Jeg spurgte i går til åbent samråd til de
+der 1.000 sygeplejersker, hvor de var henne, om de var kommet, og
+hvor pengene var, der skulle bruges til det, og det fik jeg ikke noget
+
+Fredag den 27. august 2021 (L 240)
+
+ærligt svar på. Jeg tror, at ministeren ikke lige kunne svare på det,
+men det kan jo være, det kommer senere.
+Alt i alt kan Dansk Folkeparti selvfølgelig ikke støtte det her
+indgreb, men som sagt støtter vi ændringsforslagene, som jeg har
+beskrevet heroppefra. Tak.";Kl. 10:29
+35111;Time;;Kl. 10:33
+35144;title_name;":
+Tak for det. Der er en kort bemærkning. Hr. Jens Rohde.";Trine Torp
+35211;Time;;Kl. 10:33
+35228;name_party;":
+Det er også lidt med henblik på lige at trykteste nogle af tingene. Jeg
+er i øvrigt meget enig med hr. Bent Bøgsted i spørgsmålet om den
+der strejkeret, om man egentlig kan tale om, at den er til stede. Det
+mest absurde under den her konflikt har jo været, at man adskillige
+steder har skruet nødberedskabet op, dikteret et højere nødberedskab
+end normalberedskabet over for sygeplejerskerne. Altså, det er da
+kafkask om noget. Og så er strejkeretten og konfliktretten jo reelt
+forsvundet. Så det har hr. Bent Bøgsted jo fuldstændig ret i.
+Men vi var lidt inde på det i går: Det er jo fint nok at stille nogle
+ændringsforslag, som har nogle positive hensigter, og regeringen
+skal komme med nogle forslag – og det vil vi gerne støtte – til, hvor‐
+dan man kan sikre en ordentlig strejkeret, men hvordan er det lige ret
+beset Dansk Folkeparti forestiller sig at man skal være bedre stillet
+i fremtiden set fra sygeplejerskernes side, når man skal forhandle
+med den samme, som man egentlig også har forhandlet med nu,
+nemlig finansministeren og Regionernes Lønnings- og Takstnævn,
+fordi Dansk Folkeparti vil afskaffe regionerne?";Jens Rohde
+36364;Time;;Kl. 10:34
+36397;title_name;":
+Ordføreren.";Trine Torp
+36420;Time;;Kl. 10:34
+36439;name_party;":
+Jeg vil først sige, at jeg er enig med hr. Jens Rohde i det her med
+nødberedskabet. Det gør, at man lige trækker nogle væk derfra, så
+der ikke er så mange, der kan strejke. Det er sådan set det, man gør
+der.
+Når det så er sagt, vil jeg sige om det sidste, hr. Jens Rohde siger
+om forhandlinger, at det jo er det, der ligger i den nye struktur, som
+vi gerne ser man skal have på plads. Det er der, Dansk Folkepartis
+bidrag til strukturen i overenskomstforhandlingssystemet er. Det skal
+man se på i den lønstrukturkomité. Det er der, man skal se på det.
+Hvordan skal en ny struktur være kontra det, der er i dag, så det
+bliver en bedre måde at forhandle på?
+Jeg ved, at hr. Jens Rohde så vil sige noget om økonomien i
+regionerne, og i går talte Jens Rohde om, at de ikke havde skatteud‐
+skrivning længere. Men det er der, hvor regeringen jo, hvis vi skal
+have et bedre sundhedsvæsen, hvis vi skal have flere sygeplejersker
+– og der bliver flere ældre, der er plejekrævende – så må føre flere
+penge til regionerne til at betale det. Det er Dansk Folkeparti villige
+til at forhandle om.";Bent Bøgsted
+37533;Time;;Kl. 10:36
+37566;title_name;":
+Hr. Jens Rohde.";Trine Torp
+37593;Time;;Kl. 10:36
+37610;name_party;":
+Jeg er jo enig i, at regionerne på en eller anden måde er blevet sådan
+et eller andet midt imellem. De er hverken fugl eller fisk: de er
+noget, som vi bruger herinde til at legitimere vores beslutninger, og
+så kunne man da måske lige så godt afskaffe dem.
+
+7
+
+Jeg synes, man skal gå den anden vej og decentralisere og så sør‐
+ge for, at man ude regionalt kan få lov til at planlægge og afstemme
+forventninger og indsatser med borgerne, og derfor give regionerne
+skatteudskrivningsretten tilbage. Det er fuldstændig rigtigt. For så
+får de noget muskelstyrke og de får noget manøvredygtighed under
+forhandlingerne. Hvorfor vil Dansk Folkeparti ikke være med til at
+decentralisere det her, for det vil pr. definition gøre sygeplejerskerne
+og parterne stærkere, når de forhandler, i stedet for at det er os, der
+sidder på det hele?";Jens Rohde
+38449;Time;;Kl. 10:36
+38482;title_name;":
+Tak! Så er det hr. Bent Bøgsted.";Trine Torp
+38526;Time;;Kl. 10:36
+38545;name_party;":
+Det er, fordi Dansk Folkeparti mener, at regionerne ikke skulle være
+der. Det skulle styres et andet sted fra. Men det er fair nok, at
+Kristendemokraterne har et ønske om at indføre skatteudskrivning
+til regionerne igen. Det er Kristendemokraternes politik, og det er
+helt i orden. Det accepterer jeg. Jeg respekterer de holdninger, som
+hr. Jens Rohde har. Han er en mand af mange ord og står ved det,
+han siger. Det respekterer jeg. Men Dansk Folkeparti har en anden
+holdning.";Bent Bøgsted
+39034;Time;;Kl. 10:37
+39067;title_name;":
+Tak. Der er ikke flere korte bemærkninger. Tak til hr. Bent Bøgsted
+fra Dansk Folkeparti. Og så har fru Jette Gottlieb bedt om ordet. Fru
+Jette Gottlieb fra Enhedslisten, værsgo.";Trine Torp
+39257;Time;(Privatist);Kl. 10:37
+39290;name_party;":
+Enhedslisten er fortsat dybt skuffet over regeringens ageren i den her
+sag. At lave et lovindgreb på baggrund af en mæglingsskitse, som
+Dansk Sygeplejeråds medlemmer to gange har afvist, er at negligere
+et problem, som sygeplejerskerne med stor styrke har påpeget i langt
+mere end 25 år, og som regeringen nu – nu – har erkendt eksisterer.
+Det eneste helt sikre resultat af det her indgreb er jo, at regeringen
+har statsautoriseret, at der kommer til at gå mindst 3 år, før man
+påbegynder en løsning på problemet, ...";Jette Gottlieb
+39819;Time;;Kl. 10:38
+39852;title_name;":
+Lige et øjeblik. Vi skal lige have lidt ro i salen.
+Værsgo.";Trine Torp
+39923;Time;(Privatist);Kl. 10:38
+39956;name_party;":
+... og problemet omfatter jo en meget stor del af faggrupperne inden
+for det offentlige område, så det er ikke kun sygeplejerskerne, vi
+snakker om. Vi snakker på rigtig manges vegne, at det her er et
+problem, der skal løses.
+Men der er jo en anden vej, og derfor stemmer Enhedslisten
+ja til SF's og Dansk Folkepartis ændringsforslag, og vores eget
+ændringsforslag rummer et tilbud om denne anden vej. Vi mener,
+at det er afgørende, at Folketinget forpligter sig til at handle på
+det her spørgsmål om ligeløn. Enhedslistens forslag sætter ikke en
+konkret ramme, men forpligter Folketinget til at forstå, at det også er
+Folketingets ansvar at sikre en finansiering. Det er helt nødvendigt
+for, at vi ikke svigter ligelønskampen, og at løsningen ikke bliver
+udskudt i endnu flere år.
+
+8
+
+Fredag den 27. august 2021 (FM )
+
+I gårsdagens lange behandling fik Enhedslisten en slags indrøm‐
+melse fra regeringen, nemlig at regeringen ikke vil præsentere arbej‐
+det med lønstrukturkomitéen som udgiftsneutralt. Det løfte holder vi
+regeringen op på, fordi det jo er indlysende, at det kræver penge at
+gennemføre spørgsmålet om ligeløn.
+Man plejer ofte at sige, at slaget er tabt, men nu er der tid til at
+vinde et nyt. I den her sag vil vi ikke engang anerkende, at slaget er
+tabt, for det er virkelig lykkedes sygeplejerskerne at sætte dagsorden
+i den her sag, og de sætter dagsorden på manges vegne, og derfor
+kan man sige, at det her er et løfte om, at den her kamp kommer
+til at fortsætte. Og vi vil sige til dem, der har været meget aktive
+også uden for murene her: Bliv ved med at kæmpe for det. Vi står
+sammen med jer, og vi er sikre på, at vi når til et resultat, måske
+senere end før, det er der ikke noget at gøre ved.";Jette Gottlieb
+41687;Time;;Kl. 10:40
+41720;title_name;":
+Tak for det. Der er ikke nogen korte bemærkninger. Tak til fru Jette
+Gottlieb. Så vidt jeg kan se, er der ikke flere, der har bedt om ordet.
+Ønsker flere at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.";Trine Torp
+41978;Time;Afstemning;Kl. 10:40
+42022;title_name;":
+Først vil jeg minde om, at hr. Jacob Mark fra Socialistisk Folkeparti
+har meddelt, at han trækker ændringsforslag nr. 6 uden for betænk‐
+ningen.
+Ønsker nogen at optage dette ændringsforslag?
+Da det ikke er tilfældet, er ændringsforslag nr. 6 bortfaldet.
+
+Ændringsforslaget forkastet.
+Der stemmes om ændringsforslag nr. 4 af et mindretal (SF), tiltrådt
+af et mindretal (EL og ALT). Der kan stemmes.
+Afstemningen er afsluttet.
+For stemte 20 (SF, EL, KD, Sikandar Siddique (UFG) og Uffe Elbæk
+(UFG)), imod stemte 77 (S, V, RV, KF, NB, LA, Orla Østerby (UFG)
+og Simon Emil Ammitzbøll-Bille (UFG)), hverken for eller imod
+stemte 9 (DF).
+Ændringsforslaget er forkastet.
+Der stemmes om ændringsforslag nr. 5 af et mindretal (SF), tiltrådt
+af et mindretal (EL, DF, NB og ALT). Der kan stemmes.
+Afstemningen er afsluttet.
+For stemte 31 (DF, SF, EL, NB, KD, Sikandar Siddique (UFG) og
+Uffe Elbæk (UFG)), imod stemte 75 (S, V, RV, KF, LA, Orla Østerby
+(UFG) og Simon Emil Ammitzbøll-Bille (UFG)), hverken for eller
+imod stemte 0.
+Ændringsforslaget er forkastet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter dette
+som vedtaget.
+Det er vedtaget.";Trine Torp
+43255;Time;"Der stemmes om ændringsforslag nr. 1 af et mindretal (DF), tiltrådt
+af et mindretal (EL, SF og ALT). Der kan stemmes.
+Afstemningen er afsluttet. Det ser også ud, som om skærmen nu
+vender den rigtige vej.
+
+Meddelelser fra formanden
+
+For stemte 28 (DF, SF, EL, KD, Sikandar Siddique (UFG) og Uffe
+Elbæk (UFG)), imod stemte 77 (S, V, RV, KF, NB, LA, Orla Østerby
+(UFG) og Simon Emil Ammitzbøll-Bille (UFG)), hverken for eller
+imod stemte 0.
+
+Næste møde afholdes i dag kl. 11.00 med tredje behandling af L 240.
+Mødet er hævet. (Kl. 10:44).
+
+Ændringsforslaget er forkastet.
+Der stemmes om ændringsforslag nr. 2 af et mindretal (EL), tiltrådt
+af et mindretal (DF, SF og ALT). Der kan stemmes.
+Afstemningen er afsluttet.
+For stemte 29 (DF, SF, EL, KD, Sikandar Siddique (UFG) og Uffe
+Elbæk (UFG)), imod stemte 76 (S, V, RV, KF, NB, LA, Orla Østerby
+(UFG) og Simon Emil Ammitzbøll-Bille (UFG)), hverken for eller
+imod stemte 0.
+Ændringsforslaget er forkastet.
+Der stemmes om ændringsforslag nr. 3 af et mindretal (SF), tiltrådt
+af et mindretal (DF, EL og ALT). Der kan stemmes.
+Afstemningen er afsluttet.
+For stemte 29 (DF, SF, EL, KD, Sikandar Siddique (UFG) og Uffe
+Elbæk (UFG)), imod stemte 76 (S, V, RV, KF, NB, LA, Orla Østerby
+(UFG) og Simon Emil Ammitzbøll-Bille (UFG)), hverken for eller
+imod stemte 0.";Kl. 10:44
+44592;title_name;":
+Der er ikke mere at foretage i dette møde.";Trine Torp

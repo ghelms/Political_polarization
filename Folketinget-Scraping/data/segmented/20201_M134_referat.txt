@@ -1,0 +1,493 @@
+split;reason;text;value
+0;;"Torsdag den 26. august 2021 (D)
+
+1
+
+Fra statsministeren har jeg modtaget meddelelse om den af 16. au‐
+gust 2021 gennemførte regeringsrokade.
+
+134. møde
+
+Meddelelserne vil blive optrykt i Folketingstidende (jf. nedenfor).";
+259;Time;"[»Folketingets formand
+
+Dagsorden
+
+Efter min indstilling er det ved kongelig resolution af 16. juni 2021
+bestemt,
+
+1) Meddelelser fra formanden";kl. 11.00
+415;Time;;Kl. 11:00
+460;title_name;":
+Mødet er åbnet.
+
+at ressortansvaret for alle opgaver, kontrakter og serviceaftaler ved‐
+rørende basal it-drift af interne datacentre, netværk, servere og stor‐
+age, drift af operativsystemer, standard it-arbejdsplads, servicedesk
+og brugeradministration, informationssikkerhedsopgaver vedrørende
+foranstående samt kontrakter og leverandørstyringsopgaver vedrø‐
+rende outsourcet it-drift, der vedrører Det Kongelige Teater, i hen‐
+hold til nærmere aftale mellem kulturministeren og finansministeren
+overføres fra kulturministeren til finansministeren pr. 16. juni 2021.
+Jeg beder formanden underrette Folketinget herom.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden";Rasmus Helveg Petersen
+1156;Time;;Kl. 11:00
+1201;title_name;":
+I dag er der følgende anmeldelse:
+Beskæftigelsesministeren (Peter Hummelgaard):
+Lovforslag nr. L 240 (Forslag til lov om fornyelse af overenskomster
+og aftaler for sygeplejersker).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).
+Fra statsministeren har jeg modtaget breve om,
+at det efter statsministerens indstilling ved kongelig resolution af 16.
+juni 2021 blev bestemt, at ressortansvaret for forskellige it-opgaver,
+der vedrører Det Kongelige Teater, overføres fra kulturministeren til
+finansministeren,
+at det efter statsministerens indstilling ved kongelig resolution af 29.
+juni 2021 blev bestemt, at ressortansvaret for forskellige opgaver,
+herunder kantine og mødeforplejning m.v., der vedrører Danmarks
+Evalueringsinstitut, overføres fra børne- og undervisningsministeren
+til transportministeren, og
+at det efter statsministerens indstilling ved kongelig resolution af 29.
+juni 2021 blev bestemt, at ressortansvaret for forskellige opgaver,
+der vedrører lønadministration og bogholderi, overføres fra en lang
+række ministerier til finansministeren.
+
+Mette Frederiksen
+/Carsten Madsen«].
+[»Folketingets formand
+Efter min indstilling er det ved kongelig resolution af 29. juni 2021
+bestemt,
+at ressortansvaret for alle opgaver under den fælles statslige faci‐
+lity managementløsning, herunder opgaver vedrørende kantine og
+mødeforplejning, renhold, intern service, indvendigt vedligehold,
+vagt, sikkerhed, udendørsarealer og affaldshåndtering samt facility
+managementledelse i form af indkøb, udbud, leverandør- og kon‐
+traktstyring, der vedrører Danmarks Evalueringsinstitut, overføres
+fra børne- og undervisningsministeren til transportministeren pr. 1.
+august 2021.
+Jeg beder formanden underrette Folketinget herom.
+Mette Frederiksen
+/Carsten Madsen«].
+[»Folketingets formand
+Efter min indstilling er det ved kongelig resolution af 29. juni 2021
+bestemt,
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører statsministerens område, i
+henhold til nærmere aftale mellem statsministeren og finansministe‐
+ren henhører under finansministeren pr. 1. juli 2021, og
+
+2
+
+Torsdag den 26. august 2021 (FM )
+
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører Rigsombudsmanden på Færøerne, i hen‐
+hold til nærmere aftale mellem statsministeren og finansministeren
+henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med fe‐
+rie og fravær, administrationen af løn- og uddannelsesrelaterede re‐
+fusioner samt lønsupport, der vedrører udenrigsministerens område
+med undtagelse af de opgaver, der varetages i Udenrigsministeriets
+udetjeneste, i henhold til nærmere aftale mellem udenrigsministeren
+og finansministeren henhører under finansministeren pr. 1. juli 2021,
+og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af
+dokumentation til brug for perioderegnskab, afstemning af likvidi‐
+tetskonti, anlægsadministration, regnskabsmæssig registrering af til‐
+skud i Navision Stat, vedligeholdelse af registreringsramme i regn‐
+skabssystemet, bogføring af rejseafregning, udarbejdelse af standard
+ledelsesinformation til understøttelse af institutionernes styringsbe‐
+hov samt ressortansvaret for alle opgaver vedrørende support på
+standard Navision Stat, der vedrører udenrigsministerens område
+med undtagelse af de opgaver, der varetages i Udenrigsministeriets
+udetjeneste, i henhold til nærmere aftale mellem udenrigsministeren
+og finansministeren henhører under finansministeren pr. 1. juli 2021,
+og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører justitsministerens område
+med undtagelse af kriminalforsorgen og Politi og Anklagemyndig‐
+hed, i henhold til nærmere aftale mellem justitsministeren og finans‐
+ministeren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af
+dokumentation til brug for perioderegnskab, afstemning af likvidi‐
+tetskonti, anlægsadministration, regnskabsmæssig registrering af til‐
+skud i Navision Stat, vedligeholdelse af registreringsramme i regn‐
+skabssystemet, bogføring af rejseafregning, udarbejdelse af standard
+ledelsesinformation til understøttelse af institutionernes styringsbe‐
+hov samt ressortansvaret for alle opgaver vedrørende support på
+standard Navision Stat, der vedrører justitsministerens område med
+undtagelse af kriminalforsorgen, Domstolsstyrelsen og Politi og An‐
+klagemyndighed, i henhold til nærmere aftale mellem justitsministe‐
+ren og finansministeren henhører under finansministeren pr. 1. juli
+2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører social- og ældreministerens
+område med undtagelse af løn- og uddannelsesrelaterede refusioner
+for Kofoeds Skole, i henhold til nærmere aftale mellem social- og
+ældreministeren og finansministeren henhører under finansministe‐
+ren pr. 1. juli 2021, og
+
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører social- og ældreministerens område med
+undtagelse af Kofoeds Skole, i henhold til nærmere aftale mellem
+social- og ældreministeren og finansministeren henhører under fi‐
+nansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører skatteministerens område,
+i henhold til nærmere aftale mellem skatteministeren og finansmini‐
+steren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører Medarbejder- og Kompetencestyrelsen
+og Kompetencesekretariatet, i henhold til nærmere aftale mellem
+skatteministeren og finansministeren henhører under finansministe‐
+ren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører klima-, energi- og forsy‐
+ningsministerens område, i henhold til nærmere aftale mellem kli‐
+ma-, energi- og forsyningsministeren og finansministeren henhører
+under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører klima-, energi- og forsyningsministerens
+område, i henhold til nærmere aftale mellem klima-, energi- og
+forsyningsministeren og finansministeren henhører under finansmi‐
+nisteren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører sundhedsministerens om‐
+råde, i henhold til nærmere aftale mellem sundhedsministeren og
+finansministeren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+
+Torsdag den 26. august 2021 (FM )
+
+3
+
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører sundhedsministerens område, i henhold
+til nærmere aftale mellem sundhedsministeren og finansministeren
+henhører under finansministeren pr. 1. juli 2021, og
+
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører børne- og undervisningsministerens om‐
+råde med undtagelse af Sorø Akademis Skole, i henhold til nærmere
+aftale mellem børne- og undervisningsministeren og finansministe‐
+ren henhører under finansministeren pr. 1. juli 2021, og
+
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører transportministerens områ‐
+de med undtagelse af Banedanmark, Havarikommissionen for Vej‐
+trafikulykker og Vejdirektoratet, i henhold til nærmere aftale mellem
+transportministeren og finansministeren henhører under finansmini‐
+steren pr. 1. juli 2021, og
+
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører uddannelses- og forsknings‐
+ministerens område, i henhold til nærmere aftale mellem uddannel‐
+ses- og forskningsministeren og finansministeren henhører under
+finansministeren pr. 1. juli 2021, og
+
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører transportministerens område med undta‐
+gelse af Banedanmark, Havarikommissionen for Vejtrafikulykker og
+Vejdirektoratet, i henhold til nærmere aftale mellem transportmini‐
+steren og finansministeren henhører under finansministeren pr. 1. juli
+2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører ministeren for fødevarer,
+landbrug og fiskeris område, i henhold til nærmere aftale mellem
+ministeren for fødevarer, landbrug og fiskeri og finansministeren
+henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører ministeren for fødevarer, landbrug og
+fiskeris område, i henhold til nærmere aftale mellem ministeren for
+fødevarer, landbrug og fiskeri og finansministeren henhører under
+finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører børne- og undervisningsmi‐
+nisterens område med undtagelse af Sorø Akademis Skole, i henhold
+til nærmere aftale mellem børne- og undervisningsministeren og
+finansministeren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører uddannelses- og forskningsministerens
+område, i henhold til nærmere aftale mellem uddannelses- og forsk‐
+ningsministeren og finansministeren henhører under finansministe‐
+ren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører erhvervsministerens områ‐
+de, i henhold til nærmere aftale mellem erhvervsministeren og fi‐
+nansministeren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører erhvervsministerens område, i henhold
+til nærmere aftale mellem erhvervsministeren og finansministeren
+henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører udlændinge- og integrati‐
+onsministerens område, i henhold til nærmere aftale mellem udlæn‐
+dinge- og integrationsministeren og finansministeren henhører under
+finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører udlændinge- og integrationsministerens
+
+4
+
+Torsdag den 26. august 2021 (FM )
+
+område, i henhold til nærmere aftale mellem udlændinge- og integra‐
+tionsministeren og finansministeren henhører under finansministeren
+pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører beskæftigelsesministerens
+og ministeren for ligestillings område, i henhold til nærmere aftale
+mellem beskæftigelsesministeren og ministeren for ligestilling og
+finansministeren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører beskæftigelsesministerens og ministeren
+for ligestillings område, i henhold til nærmere aftale mellem beskæf‐
+tigelsesministeren og ministeren for ligestilling og finansministeren
+henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører indenrigs- og boligministe‐
+rens område, i henhold til nærmere aftale mellem indenrigs- og bo‐
+ligministeren og finansministeren henhører under finansministeren
+pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører indenrigs- og boligministerens område, i
+henhold til nærmere aftale mellem indenrigs- og boligministeren og
+finansministeren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører miljøministerens område, i
+henhold til nærmere aftale mellem miljøministeren og finansministe‐
+ren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører miljøministerens område, i henhold til
+nærmere aftale mellem miljøministeren og finansministeren henhø‐
+rer under finansministeren pr. 1. juli 2021, og
+
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører kulturministerens område,
+i henhold til nærmere aftale mellem kulturministeren og finansmini‐
+steren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører kulturministerens område, i henhold til
+nærmere aftale mellem kulturministeren og finansministeren henhø‐
+rer under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører kirkeministerens område, i
+henhold til nærmere aftale mellem kirkeministeren og finansministe‐
+ren henhører under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører kirkeministerens område, i henhold til
+nærmere aftale mellem kirkeministeren og finansministeren henhø‐
+rer under finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende lønadministration,
+herunder lønudbetalinger og korrektioner, opgaver forbundet med
+ferie og fravær, administrationen af løn- og uddannelsesrelaterede
+refusioner samt lønsupport, der vedrører kriminalforsorgen, i hen‐
+hold til nærmere aftale mellem justitsministeren og finansministeren
+overføres fra justitsministeren til finansministeren pr. 1. juli 2021, og
+at ressortansvaret for alle opgaver vedrørende bogholderi og regn‐
+skab, herunder kreditor og debitoradministration, udarbejdelse af do‐
+kumentation til brug for perioderegnskab, afstemning af likviditets‐
+konti, anlægsadministration, regnskabsmæssig registrering af tilskud
+i Navision Stat, vedligeholdelse af registreringsramme i regnskabs‐
+systemet, bogføring af rejseafregning, udarbejdelse af standard le‐
+delsesinformation til understøttelse af institutionernes styringsbehov
+samt ressortansvaret for alle opgaver vedrørende support på standard
+Navision Stat, der vedrører kriminalforsorgen, i henhold til nærmere
+aftale mellem justitsministeren og finansministeren overføres fra ju‐
+stitsministeren til finansministeren pr. 1. juli 2021.
+Jeg beder formanden underrette Folketinget herom.
+Mette Frederiksen
+/Carsten Madsen«].
+[Folketingets formand
+
+Torsdag den 26. august 2021 (FM )
+
+Efter min indstilling er det ved kongelig resolution af 16. august
+2021 besluttet
+at afskedige i nåde kulturminister og kirkeminister Joy Mogensen
+fra den hende hidtil betroede ministerstilling,
+at fritage uddannelses- og forskningsminister Ane Halsboe-Jørgen‐
+sen for denne stilling og udnævne hende til kulturminister og kirke‐
+minister og
+at udnævne medlem af Folketinget Jesper Petersen til uddannelsesog forskningsminister.
+Jeg tillader mig at anmode formanden om at underrette Folketinget
+herom.
+Mette Frederiksen
+/Carsten Madsen«].
+Epidemiudvalget har afgivet:
+Beretning om at hæve alderen for fritagelse for coronapas den 18.
+juni 2021.
+(Beretning nr. 32) og
+Beretning om udfasning af restriktioner den 23. juni 2021.
+(Beretning nr. 33).
+Børne- og Undervisningsudvalget har afgivet:
+Beretning om Steinerskolernes mulighed for at udbyde en gymnasial
+uddannelse på 11. og 12. skoleår med merit for noget hf-undervis‐
+ning på 10. skoleår den 24. juni 2021.
+(Beretning nr. 34).
+Klima-, Energi- og Forsyningsudvalget har afgivet:
+Beretning om solcellestrategi og -planlægning som en del af energi‐
+planlægningen den 30. juni 2021.
+(Beretning nr. 35).
+Beretningerne vil fremgå af www.folketingstidende.dk.";Rasmus Helveg Petersen
+27441;Time;;Kl. 11:01
+27486;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i dag kl. 13.00 med første behand‐
+ling af det netop fremsatte lovforslag.
+Mødet er hævet. (Kl. 11:02).
+
+5";Rasmus Helveg Petersen

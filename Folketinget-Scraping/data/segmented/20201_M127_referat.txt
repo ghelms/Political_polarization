@@ -1,0 +1,75 @@
+split;reason;text;value
+0;;"Torsdag den 3. juni 2021 (D)
+
+1
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 236:
+Forslag til lov om ændring af lov om specialpædagogisk støtte
+ved videregående uddannelser. (Midlertidig fravigelse af visse
+betingelser for at modtage specialpædagogisk støtte).
+Af uddannelses- og forskningsministeren (Ane Halsboe-Jørgensen).
+(Fremsættelse 25.05.2021. 1. behandling 26.05.2021. Betænkning
+01.06.2021).
+
+127. møde";
+476;Time;"Dagsorden
+1) 2. behandling af lovforslag nr. L 236:
+Forslag til lov om ændring af lov om specialpædagogisk støtte ved
+videregående uddannelser. (Midlertidig fravigelse af visse betingel‐
+ser for at modtage specialpædagogisk støtte).
+Af uddannelses- og forskningsministeren (Ane Halsboe-Jørgensen).
+(Fremsættelse 25.05.2021. 1. behandling 26.05.2021. Betænkning
+01.06.2021).";kl. 10.00
+861;Time;Forhandling;Kl. 10:01
+908;title_name;":
+Der er stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.";Henrik Dam Kristensen
+1057;Time;;Kl. 10:01
+1068;Time;"Meddelelser fra formanden
+
+Afstemning";Kl. 10:00
+1142;title_name;":
+Mødet er åbnet.";Henrik Dam Kristensen
+1194;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1, tiltrådt af udvalget?
+Det er vedtaget.
+
+Fra medlem af Folketinget Anne Sophie Callesen, Radikale Venstre,
+der har orlov, har jeg modtaget meddelelse om, at hun fra og med
+den 15. juni 2021 atter kan give møde i Tinget.
+Henrik Vinthers hverv som midlertidigt medlem af Folketinget
+ophører fra nævnte dato at regne.
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+dette som vedtaget.
+Det er vedtaget.
+
+Fra medlem af Folketinget Henning Hyllested, Enhedslisten, der har
+orlov, har jeg modtaget meddelelse om, at han fra og med den 9. juni
+2021 atter kan give møde i Tinget.
+Rasmus Vestergaard Madsens hverv som midlertidigt medlem af
+Folketinget ophører fra nævnte dato at regne.
+
+Meddelelser fra formanden
+
+Fra medlem af Folketinget Lisbeth Bech-Nielsen, SF, der har orlov,
+har jeg modtaget meddelelse om, at hun fra og med den 2. august
+2021 atter kan give møde i Tinget.
+Theresa Berg Andersens hverv som midlertidigt medlem af Fol‐
+ketinget ophører fra nævnte dato at regne.";Henrik Dam Kristensen
+2339;title_name;":
+Der er så ikke mere at foretage i dette møde. Vi er nødt til at holde
+en pause, og det er af tekniske årsager, fordi der skal stilles om på
+forskellige ting. Der vil være et nyt møde i dag kl. 10.15.
+Mødet er hævet. (Kl. 10:03).
+
+Fra medlem af Folketinget Anne Paulin, Socialdemokratiet, der har
+orlov, har jeg modtaget meddelelse om, at hun fra og med den 1.
+september 2021 atter kan give møde i Tinget.
+Karin Gaardsteds hverv som midlertidigt medlem af Folketinget
+ophører fra nævnte dato at regne.";Henrik Dam Kristensen
+2852;Time;;Kl. 10:01

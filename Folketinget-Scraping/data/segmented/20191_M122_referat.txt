@@ -1,0 +1,63 @@
+split;reason;text;value
+0;;"Torsdag den 4. juni 2020 (D)
+
+1
+
+kompensationsordninger, som administreres af Erhvervsstyrel‐
+sen, og indførelse af særlig tavshedspligt).
+Af erhvervsministeren (Simon Kollerup).
+(Fremsættelse 26.05.2020. 1. behandling 28.05.2020. Betænkning
+02.06.2020).
+
+122. møde";
+300;Time;;kl. 10.00
+311;Time;"Dagsorden
+Forhandling
+1) 2. behandling af lovforslag nr. L 198:
+Forslag til lov om ændring af lov om erhvervsfremme. (Etablering af
+en whistleblowerordning for de erhvervsrettede covid-19-kompensa‐
+tionsordninger, som administreres af Erhvervsstyrelsen, og indførel‐
+se af særlig tavshedspligt).
+Af erhvervsministeren (Simon Kollerup).
+(Fremsættelse 26.05.2020. 1. behandling 28.05.2020. Betænkning
+02.06.2020).";Kl. 10:00
+759;title_name;":
+Der er stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.";Henrik Dam Kristensen
+908;Time;Afstemning;Kl. 10:01
+930;Time;;Kl. 10:00
+965;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1, tiltrådt af udvalget?
+Det er vedtaget.
+
+Meddelelser fra formanden";Henrik Dam Kristensen
+1110;title_name;":
+Mødet er åbnet.
+Medlemmer af Folketinget Katarina Ammitzbøll (KF), Britt Bager
+(V), Jens Henrik Thulesen Dahl (DF), Henrik Dahl (LA) og Peter
+Seier Christensen (NB) m.fl. har meddelt mig, at de ønsker at tage
+følgende forslag tilbage:
+Forslag til folketingsbeslutning om suspendering af virksomheders
+betaling til AUB-ordningen i 2020.
+(Beslutningsforslag nr. B 170).
+Ønsker nogen at optage dette beslutningsforslag?
+Da det ikke er tilfældet, er beslutningsforslaget bortfaldet, og
+punkt 29 på dagens dagsorden udgår som følge heraf.
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 198:
+Forslag til lov om ændring af lov om erhvervsfremme. (Etable‐
+ring af en whistleblowerordning for de erhvervsrettede covid-19-
+
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Og hvis ingen gør indsigelse, betragter
+jeg det som vedtaget.
+Det er vedtaget.";Henrik Dam Kristensen
+2038;Time;Meddelelser fra formanden;Kl. 10:01
+2099;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i dag, torsdag den 4. juni 2020, kl.
+10.15.
+Mødet er hævet. (Kl. 10:01).";Henrik Dam Kristensen

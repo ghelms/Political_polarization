@@ -1,0 +1,31 @@
+split;reason;text;value
+0;;"Tirsdag den 14. april 2020 (D)
+
+92. møde";
+77;Time;"Dagsorden
+1) Meddelelser fra formanden";kl. 13.00
+127;Time;;Kl. 13:00
+164;title_name;":
+Mødet er åbnet.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden af";Karen Ellemann
+260;Time;;Kl. 13:00
+297;title_name;":
+I dag er der følgende anmeldelse:
+Beskæftigelsesministeren (Peter Hummelgaard):
+Lovforslag nr. L 169 (Forslag til lov om ændring af lov om aktiv so‐
+cialpolitik. (Forlængelse af 12 måneders perioden i 225-timersreglen
+som følge af covid-19)).
+Titlen på den anmeldte sag vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).";Karen Ellemann
+633;Time;;Kl. 13:00
+670;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes på torsdag den 16. april 2020, kl.
+10.00.
+Jeg henviser til den dagsorden, der vil fremgå af Folketingets
+hjemmeside.
+Mødet er hævet. (Kl. 13:00).
+
+1";Karen Ellemann

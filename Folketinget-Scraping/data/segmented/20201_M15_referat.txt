@@ -1,0 +1,147 @@
+split;reason;text;value
+0;;"Torsdag den 12. november 2020 (D)
+
+1
+
+ditter m.v. i forbindelse med covid-19. (Genåbning af låneord‐
+ning vedrørende moms og lønsumsafgift som følge af covid-19).
+Af skatteministeren (Morten Bødskov).
+(Fremsættelse 04.11.2020. 1. behandling 06.11.2020. Betænkning
+11.11.2020).
+
+15. møde";
+326;Time;;kl. 10.00
+337;Time;"Dagsorden
+Forhandling
+1) Eventuelt: 2. behandling af lovforslag nr. L 75:
+Forslag til lov om ændring af lov om midlertidig udskydelse af
+angivelses- og betalingsfrister m.v. på skatteområdet i forbindelse
+med covid-19 og lov om rentefrie lån svarende til angivet moms
+og lønsumsafgift og fremrykket udbetaling af skattekreditter m.v.
+i forbindelse med covid-19. (Genåbning af låneordning vedrørende
+moms og lønsumsafgift som følge af covid-19).
+Af skatteministeren (Morten Bødskov).
+(Fremsættelse 04.11.2020. 1. behandling 06.11.2020. Betænkning
+11.11.2020).";Kl. 10:00
+908;Time;;Kl. 10:00
+943;title_name;":
+Mødet er åbnet.";Henrik Dam Kristensen
+970;Time;Samtykke til behandling;Kl. 10:00
+1029;title_name;":
+Det punkt, som er opført som nr. 1 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde. Hvis ingen gør indsigelse,
+betragter jeg samtykket som givet.
+Det er givet.";Henrik Dam Kristensen
+1245;title_name;":
+Der er stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.";Henrik Dam Kristensen
+1394;Time;Afstemning;Kl. 10:00
+1440;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1, tiltrådt af et flertal
+(udvalget med undtagelse af Simon Emil Ammitzbøll-Bille (UFG))?
+Det er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Og hvis ingen gør indsigelse, betragter
+jeg det som vedtaget.
+Det er vedtaget.";Henrik Dam Kristensen
+1775;Time;Meddelelser fra formanden;Kl. 10:01
+1836;title_name;":
+I dag er der følgende anmeldelser:";Henrik Dam Kristensen
+1906;title_name;":
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 75:
+Forslag til lov om ændring af lov om midlertidig udskydelse af
+angivelses- og betalingsfrister m.v. på skatteområdet i forbindel‐
+se med covid-19 og lov om rentefrie lån svarende til angivet
+moms og lønsumsafgift og fremrykket udbetaling af skattekre‐
+
+Lovforslag nr. L 90 (Forslag til lov om ændring af lov om afgift af
+elektricitet, lov om afgift af naturgas og bygas m.v., lov om afgift
+af stenkul, brunkul og koks m.v., lov om energiafgift af mineraloli‐
+eprodukter m.v. og forskellige andre love. (Udmøntning af dele af
+Klimaaftalen for energi og industri m.v. 2020 m.v.)).
+Udlændinge- og integrationsministeren (Mattias Tesfaye):
+Lovforslag nr. L 92 (Forslag til lov om ændring af udlændingeloven.
+(Styrket kontrol af udenlandsk arbejdskraft m.v.)) og
+Lovforslag nr. L 93 (Forslag til lov om ændring af udlændingeloven.
+(Gebyr på ansøgninger om Working Holiday-tilladelser og indførelse
+
+2
+
+Torsdag den 12. november 2020 (FM )
+
+af afvisningshjemmel hvis en kvote på antallet af Working Holidaytilladelser udnyttes m.v.)).
+Miljøministeren (Lea Wermelin):
+Lovforslag nr. L 94 (Forslag til lov om Den Danske Klimaskov‐
+fond),
+Lovforslag nr. L 95 (Forslag til lov om ændring af lov om kemika‐
+lier, lov om miljøbeskyttelse og lov om gødning og jordforbedrings‐
+midler m.v. (Supplerende bestemmelser til markedsovervågnings‐
+forordningen samt offentliggørelsesordning og registreringsordning
+samt andre justeringer af tilsyns- og håndhævelsesbestemmelser i
+lov om kemikalier)) og
+Lovforslag nr. L 96 (Forslag til lov om ændring af miljøskadeloven
+og lov om miljøbeskyttelse og forskellige andre love. (Ændring af
+handlepligten for den ansvarlige for en miljøskade, indførelse af
+godtgørelsesordning samt ændring af definitionen af arter og natur‐
+typer)).
+Klima-, energi- og forsyningsministeren (Dan Jørgensen):
+Lovforslag nr. L 97 (Forslag til lov om ændring af biobrændstoflo‐
+ven. (Ændring af krav om anvendelse af bæredygtige og avancerede
+biobrændstoffer i brændstof til landtransport m.v.)),
+Lovforslag nr. L 98 (Forslag til lov om ændring af lov om betalings‐
+regler for spildevandsforsyningsselskaber m.v., lov om miljøbeskyt‐
+telse, vandsektorloven, lov om vandløb og lov om vandforsyning
+m.v. (Spildevandsforsyningsselskabers klimatilpasning, vandselska‐
+bernes foreninger til fremme af vandsektorens effektivitet og kvalitet
+m.v.)) og
+Lovforslag nr. L 99 (Forslag til lov om ændring af lov om Ener‐
+ginet, lov om elforsyning og lov om naturgasforsyning. (Ændring
+af formålsbestemmelsen for Energinet, ny transparent proces for
+Energinets investeringer og ny fremsynet økonomisk regulering af
+Energinet m.v.)).";Morten Bødskov
+4643;title_name;":
+Lovforslag nr. L 100 (Forslag til lov om ændring af lov om tilgæn‐
+gelighed af offentlige organers websteder og mobilapplikationer. (Ju‐
+stering af undtagelse for tredjepartsindhold på offentlige organers
+websteder og mobilapplikationer)).
+Sundheds- og ældreministeren (Magnus Heunicke):
+Lovforslag nr. L 101 (Forslag til lov om ændring af sundhedsloven.
+(Mulighed for generelt informeret samtykke til mindre behandlinger
+af varigt inhabile patienter)).
+Beskæftigelsesministeren (Peter Hummelgaard):
+Lovforslag nr. L 102 (Forslag til lov om arbejdsgiveres adgang til at
+pålægge lønmodtagere test for covid-19 m.v.).
+Susanne Zimmer (UFG), Uffe Elbæk (UFG) og Sikandar Siddique
+(UFG):
+Beslutningsforslag nr. B 81 (Forslag til folketingsbeslutning om eta‐
+blering af en naturnationalpark i Han Herred) og
+Beslutningsforslag nr. B 83 (Forslag til folketingsbeslutning om be‐
+grænsning af fyrværkeri).
+
+Morten Dahlin (V) m.fl.:
+Beslutningsforslag nr. B 82 (Forslag til folketingsbeslutning om fra‐
+kendelse af statsborgerskab for narkokriminalitet).
+Carsten Kissmeyer (V) m.fl.:
+Beslutningsforslag nr. B 84 (Forslag til folketingsbeslutning om styr‐
+ket retssikkerhed ved ekspropriation m.v.).
+Eva Kjer Hansen (V) m.fl.:
+Beslutningsforslag nr. B 85 (Forslag til folketingsbeslutning om ud‐
+arbejdelse af en ny Tysklandsstrategi).";Nicolai Wammen
+6013;name_party;":
+Forespørgsel nr. F 18 (Vil regeringen redegøre for beslutningspro‐
+cessen bag den landsdækkende aflivning af mink, herunder den
+manglende lovhjemmel, og redegøre for regeringens inddragelse af
+internationale erfaringer og eksperter og for, om det i lyset af de
+videoklip, der florerer på nettet, er dyreetisk forsvarligt, at Fødevare‐
+styrelsen fortsætter med at aflive mink?).
+Titler på de anmeldte sager vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i dag kl. 10.15.
+Der vil der for første gang være afstemninger efter en ny metode,
+så jeg beder om, at man kommer i god tid.
+Mødet er hævet. (Kl. 10:02).";Lise Bech

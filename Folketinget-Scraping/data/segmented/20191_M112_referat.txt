@@ -1,0 +1,323 @@
+split;reason;text;value
+0;;"Tirsdag den 19. maj 2020 (D)
+
+112. møde";
+74;Time;"Dagsorden
+1) Spørgsmål om fremme af forespørgsel nr. F 64:
+Forespørgsel til udlændinge- og integrationsministeren om at de
+muslimske parallelsamfund har ignoreret de af myndighederne
+fastsatte afstandskrav i forbindelse med covid-19.
+Af Pia Kjærsgaard (DF) og Peter Skaarup (DF).
+(Anmeldelse 15.05.2020).
+2) 3. behandling af lovforslag nr. L 107:
+Forslag til lov om ændring af SU-loven, lov om statens voksenud‐
+dannelsesstøtte, lov om befordringsrabat til studerende ved videregå‐
+ende uddannelser og lov om befordringsrabat til uddannelsessøgende
+i ungdomsuddannelser m.v. (SU til adgangskurser på institutioner
+for erhvervsrettet uddannelse, indfrielse af tidligere studielån ved
+optagelse af nyt studielån, udlandsstipendium til ikketrindelte uddan‐
+nelser på kandidatniveau, hjemmel til at fastsætte regler om fælles
+dataansvar m.v.).
+Af uddannelses- og forskningsministeren (Ane Halsboe-Jørgensen).
+(Fremsættelse 05.02.2020. 1. behandling 18.02.2020. Betænkning
+12.05.2020. 2. behandling 14.05.2020. Lovforslaget optrykt efter 2.
+behandling).
+3) 3. behandling af lovforslag nr. L 99:
+Forslag til lov om tillægsbevilling for finansåret 2019.
+Af finansministeren (Morten Bødskov fg.).
+(Fremsættelse 30.01.2020. 1. behandling 06.02.2020. Betænkning
+20.02.2020. 2. behandling 27.02.2020).
+4) 2. (sidste) behandling af beslutningsforslag nr. B 168:
+Forslag til folketingsbeslutning i henhold til grundlovens § 47 med
+hensyn til statsregnskabet for finansåret 2018.
+(Betænkning og indstilling 07.05.2020. Anmeldelse (i salen)
+12.05.2020. 1. behandling 13.05.2020).
+5) 2. (sidste) behandling af beslutningsforslag nr. B 15:
+Forslag til folketingsbeslutning om et stop for import af kød og soja
+produceret som følge af afskovning i Brasilien.
+Af Søren Egge Rasmussen (EL) m.fl.
+(Fremsættelse 25.10.2019. 1. behandling 12.12.2019. Betænkning
+06.05.2020).
+6) 2. (sidste) behandling af beslutningsforslag nr. B 54:
+Forslag til folketingsbeslutning om øjeblikkeligt ophør med salg af
+Roundup og andre bekæmpelsesmidler til privat brug i haver og på
+offentlige fællesarealer (borgerforslag).
+
+1
+
+Af Peter Skaarup (DF), Sofie Carsten Nielsen (RV), Karsten Hønge
+(SF), Pernille Skipper (EL), Mai Mercado (KF), Rasmus Nordqvist
+(ALT), Pernille Vermund (NB), Ole Birk Olesen (LA) og Aaja
+Chemnitz Larsen (IA).
+(Fremsættelse 04.12.2019. 1. behandling 14.01.2020. Betænkning
+13.05.2020).
+7) 2. behandling af lovforslag nr. L 114:
+Forslag til lov om ændring af lov om fremme af vedvarende energi,
+lov om elforsyning, ligningsloven og personskatteloven. (Afholdelse
+af udbud af pristillæg i 2020-2024, ændring af værditabsordning,
+ophævelse af køberetsordning og oprettelse af salgsoptionsordning,
+VE-bonusordning, grøn puljeordning m.v.).
+Af klima-, energi- og forsyningsministeren (Dan Jørgensen).
+(Fremsættelse 26.02.2020. 1. behandling 23.04.2020. Betænkning
+14.05.2020).
+8) 2. behandling af lovforslag nr. L 116:
+Forslag til lov om ændring af lov om fremme af besparelser i
+energiforbruget, lov om fremme af energibesparelser i bygninger,
+afskrivningsloven og ligningsloven samt ophævelse af en række love
+under Klima-, Energi- og Forsyningsministeriets område. (Tilskud til
+energibesparelser og energieffektiviseringer m.v.).
+Af klima-, energi- og forsyningsministeren (Dan Jørgensen).
+(Fremsættelse 26.02.2020. 1. behandling 23.04.2020. Betænkning
+14.05.2020).";kl. 13.00
+3438;Time;Meddelelser fra formanden;Kl. 13:01
+3499;title_name;":
+Mødet er åbnet.
+I dag er der følgende anmeldelse:
+Beskæftigelsesministeren (Peter Hummelgaard):
+Lovforslag nr. L 190 (Forslag til lov om ændring af lov om sygedag‐
+penge (Midlertidig periode med ret til sygedagpenge for lønmodta‐
+gere, der er i øget risiko ved smitte med covid-19, og for lønmodta‐
+gere, der er pårørende til personer, der er i øget risiko ved smitte
+med covid-19)).
+Titlen på den anmeldte sag vil fremgå af folketingstidende.dk (jf.
+ovenfor).
+
+2
+
+Tirsdag den 19. maj 2020 (L 107)
+
+Det første punkt på dagsordenen er:
+1) Spørgsmål om fremme af forespørgsel nr. F 64:
+Forespørgsel til udlændinge- og integrationsministeren om at de
+muslimske parallelsamfund har ignoreret de af myndighederne
+fastsatte afstandskrav i forbindelse med covid-19.
+Af Pia Kjærsgaard (DF) og Peter Skaarup (DF).
+(Anmeldelse 15.05.2020).
+
+Det næste punkt på dagsordenen er:
+3) 3. behandling af lovforslag nr. L 99:
+Forslag til lov om tillægsbevilling for finansåret 2019.
+Af finansministeren (Morten Bødskov fg.).
+(Fremsættelse 30.01.2020. 1. behandling 06.02.2020. Betænkning
+20.02.2020. 2. behandling 27.02.2020).";Henrik Dam Kristensen
+4619;Time;;Kl. 13:07
+4630;Time;;Kl. 13:02
+4665;title_name;":
+Hvis ingen gør indsigelse mod fremme af denne forespørgsel, be‐
+tragter jeg Tingets samtykke som givet.
+Det er givet.
+
+Forhandling";Henrik Dam Kristensen
+4831;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+4956;Time;"Det næste punkt på dagsordenen er:
+2) 3. behandling af lovforslag nr. L 107:
+Forslag til lov om ændring af SU-loven, lov om statens voksen‐
+uddannelsesstøtte, lov om befordringsrabat til studerende ved
+videregående uddannelser og lov om befordringsrabat til uddan‐
+nelsessøgende i ungdomsuddannelser m.v. (SU til adgangskurser
+på institutioner for erhvervsrettet uddannelse, indfrielse af tidli‐
+gere studielån ved optagelse af nyt studielån, udlandsstipendium
+til ikketrindelte uddannelser på kandidatniveau, hjemmel til at
+fastsætte regler om fælles dataansvar m.v.).
+Af uddannelses- og forskningsministeren (Ane Halsboe-Jørgensen).
+(Fremsættelse 05.02.2020. 1. behandling 18.02.2020. Betænkning
+12.05.2020. 2. behandling 14.05.2020. Lovforslaget optrykt efter 2.
+behandling).";Kl. 13:07
+5746;Time;Afstemning;Kl. 13:02
+5792;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stem‐
+mes.
+(Afstemningen foregik på den i forretningsordenen § 35, stk. 2, 1.
+pkt., foreskrevne måde, men efter formandens beslutning således, at
+medlemmerne kom ind i Folketingssalen i små grupper ad gangen
+for at afgive deres stemme).
+Afstemningen slutter.
+For stemte 95 (S, V, DF, RV, SF, EL, KF, LA, ALT og Susanne
+Zimmer (UFG)), imod stemte 3 (NB), hverken for eller imod stemte
+0.
+Lovforslaget er vedtaget og vil nu blive sendt til statsministeren.
+
+Forhandling";Henrik Dam Kristensen
+6356;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+6481;Time;Afstemning;Kl. 13:02
+6527;title_name;":
+Der stemmes om lovforslagets endelige vedtagelse, og der kan stem‐
+mes. Værsgo.
+(Afstemningen foregik på den i forretningsordenens § 35, stk. 2, 1.
+pkt., foreskrevne måde, men efter formandens beslutning således, at
+medlemmerne kom ind i Folketingssalen i små grupper ad gangen
+for at afgive deres stemme).
+Afstemningen slutter.
+For stemte 95 (S, V, DF, RV, SF, EL, KF, NB, LA, ALT og Susanne
+Zimmer (UFG)), imod stemte 0, hverken for eller imod stemte 0.
+Lovforslaget er enstemmigt vedtaget og bliver nu sendt til statsmini‐
+steren.
+
+Det næste punkt på dagsordenen er:
+4) 2. (sidste) behandling af beslutningsforslag nr. B 168:
+Forslag til folketingsbeslutning i henhold til grundlovens § 47
+med hensyn til statsregnskabet for finansåret 2018.
+(Betænkning og indstilling 07.05.2020. Anmeldelse (i salen)
+12.05.2020. 1. behandling 13.05.2020).";Henrik Dam Kristensen
+7382;Time;Forhandling;Kl. 13:11
+7429;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.";Henrik Dam Kristensen
+7554;Time;Afstemning;Kl. 13:12
+7600;title_name;":
+Der stemmes om forslagets endelige vedtagelse, og der kan stem‐
+mes.
+Afstemningen slutter.
+
+Tirsdag den 19. maj 2020 (B 15)
+
+(Afstemningen foregik på den i forretningsordenen § 35, stk.2, 1.pkt.,
+foreskrevne måde, men efter formandens beslutning således, at med‐
+lemmerne kom ind i Folketingssalen i små grupper ad gangen for at
+afgive deres stemme).
+
+3
+
+(ALT), Pernille Vermund (NB), Ole Birk Olesen (LA) og Aaja
+Chemnitz Larsen (IA).
+(Fremsættelse 04.12.2019. 1. behandling 14.01.2020. Betænkning
+13.05.2020).";Henrik Dam Kristensen
+8124;Time;"For stemte 97 (S, V, DF, RV, SF, EL, KF, NB, LA, ALT og Susanne
+Zimmer (UFG)), imod stemte 0, hverken for eller imod stemte 0.
+Forslaget til folketingsbeslutning er enstemmigt vedtaget og bliver
+sendt til finansministeren.
+
+Det næste punkt på dagsordenen er:
+5) 2. (sidste) behandling af beslutningsforslag nr. B 15:
+Forslag til folketingsbeslutning om et stop for import af kød og
+soja produceret som følge af afskovning i Brasilien.
+Af Søren Egge Rasmussen (EL) m.fl.
+(Fremsættelse 25.10.2019. 1. behandling 12.12.2019. Betænkning
+06.05.2020).";Kl. 13:20
+8681;Time;Forhandling;Kl. 13:16
+8728;title_name;":
+Forhandlingen drejer sig i første omgang om det stillede ændrings‐
+forslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen om ændringsforslaget
+sluttet, og vi går til afstemning.";Henrik Dam Kristensen
+8942;Time;Afstemning;Kl. 13:21
+8988;title_name;":
+Hvis der ikke begæres afstemning, betragter jeg ændringsforslag nr.
+1 af et mindretal (SF, RV, EL og Susanne Zimmer (UFG)) som
+forkastet.
+Det er forkastet.
+
+Forhandling";Henrik Dam Kristensen
+9169;Time;;Kl. 13:21
+9204;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, går vi til afstemning.
+
+Forhandling";Henrik Dam Kristensen
+9343;Time;;Kl. 13:16
+9378;title_name;":
+Forhandlingen drejer sig herefter om forslaget som helhed.
+Ønsker nogen at udtale sig om forslaget?
+Da det ikke er tilfældet, går vi til afstemning.
+
+Afstemning";Henrik Dam Kristensen
+9574;title_name;":
+Der stemmes om forslagets endelige vedtagelse, og der kan stem‐
+mes. Det er beslutningsforslag nr. B 15 af hr. Søren Egge Rasmussen
+(EL) m.fl., der stemmes om.
+Afstemningen slutter.
+(Afstemningen foregik på den i forretningsordenen § 35, stk.2, 1.pkt.,
+foreskrevne måde, men efter formandens beslutning således, at med‐
+lemmerne kom ind i Folketingssalen i små grupper ad gangen for at
+afgive deres stemme).
+For stemte 10 (EL, ALT og Susanne Zimmer (UFG), 1 (S) (ved en
+fejl) og 1 (V) (ved en fejl)), imod stemte 85 (S, V, DF, RV, SF, KF,
+NB og LA), hverken for eller imod stemte 0.
+Forslaget til folketingsbeslutning er forkastet.";Henrik Dam Kristensen
+10218;Time;Afstemning;Kl. 13:21
+10264;title_name;":
+Der stemmes om forslagets endelige vedtagelse, og der kan stem‐
+mes.
+Afstemningen slutter.
+(Afstemningen foregik på den i forretningsordenen § 35, stk. 2, 1.
+pkt., foreskrevne måde, men efter formandens beslutning således, at
+medlemmerne kom ind i Folketingssalen i små grupper ad gangen
+for at afgive deres stemme).
+For stemte 26 (RV, SF, EL, ALT og Susanne Zimmer (UFG)), imod
+stemte 72 (S, V, DF, KF, NB og LA), hverken for eller imod stemte
+0.
+Forslaget til folketingsbeslutning er forkastet.
+
+Det næste punkt på dagsordenen er:
+6) 2. (sidste) behandling af beslutningsforslag nr. B 54:
+Forslag til folketingsbeslutning om øjeblikkeligt ophør med salg
+af Roundup og andre bekæmpelsesmidler til privat brug i haver
+og på offentlige fællesarealer (borgerforslag).
+Af Peter Skaarup (DF), Sofie Carsten Nielsen (RV), Karsten Hønge
+(SF), Pernille Skipper (EL), Mai Mercado (KF), Rasmus Nordqvist
+
+Det næste punkt på dagsordenen er:
+7) 2. behandling af lovforslag nr. L 114:
+Forslag til lov om ændring af lov om fremme af vedvarende
+energi, lov om elforsyning, ligningsloven og personskatteloven.
+(Afholdelse af udbud af pristillæg i 2020-2024, ændring af vær‐
+
+4
+
+Tirsdag den 19. maj 2020 (L 116)
+
+ditabsordning, ophævelse af køberetsordning og oprettelse af
+salgsoptionsordning, VE-bonusordning, grøn puljeordning m.v.).
+Af klima-, energi- og forsyningsministeren (Dan Jørgensen).
+(Fremsættelse 26.02.2020. 1. behandling 23.04.2020. Betænkning
+14.05.2020).";Henrik Dam Kristensen
+11733;Time;Forhandling;Kl. 13:25
+11780;title_name;":
+Der er stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.";Henrik Dam Kristensen
+11929;Time;Afstemning;Kl. 13:25
+11975;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1-4, tiltrådt af udvalget?
+De er vedtaget.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+8) 2. behandling af lovforslag nr. L 116:
+Forslag til lov om ændring af lov om fremme af besparelser
+i energiforbruget, lov om fremme af energibesparelser i bygnin‐
+ger, afskrivningsloven og ligningsloven samt ophævelse af en
+række love under Klima-, Energi- og Forsyningsministeriets
+område. (Tilskud til energibesparelser og energieffektiviseringer
+m.v.).
+Af klima-, energi- og forsyningsministeren (Dan Jørgensen).
+(Fremsættelse 26.02.2020. 1. behandling 23.04.2020. Betænkning
+14.05.2020).";Henrik Dam Kristensen
+12773;Time;Forhandling;Kl. 13:26
+12820;title_name;":
+Der er ikke stillet ændringsforslag.
+Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Henrik Dam Kristensen
+13121;Time;Meddelelser fra formanden;Kl. 13:26
+13182;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde – og vi er nødt til lige at have en kort pause
+af tekniske årsager – starter kl. 13.30.
+Mødet er hævet. (Kl. 13:26).";Henrik Dam Kristensen

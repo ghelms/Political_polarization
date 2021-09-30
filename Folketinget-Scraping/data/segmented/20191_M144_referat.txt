@@ -1,0 +1,38 @@
+split;reason;text;value
+0;;"Fredag den 4. september 2020 (D)
+
+Mødet er hævet. (Kl. 13:00).
+
+144. møde";
+112;Time;"Dagsorden
+1) Meddelelser fra formanden";kl. 13.00
+162;Time;;Kl. 13:00
+199;title_name;":
+Mødet er åbnet.
+
+Det eneste punkt på dagsordenen er:
+1) Meddelelser fra formanden";Karen Ellemann
+292;Time;;Kl. 13:00
+329;title_name;":
+I dag er der følgende anmeldelser:
+Beskæftigelsesministeren (Peter Hummelgaard):
+Lovforslag nr. L 212 (Forslag til lov om adgang til iværksættelse af
+midlertidig arbejdsfordeling som led i håndteringen af covid-19) og
+Lovforslag nr. L 213 (Forslag til lov om ændring af lov om ar‐
+bejdsløshedsforsikring m.v., lov om sygedagpenge og barselsloven.
+(Midlertidig dagpengeret, højere dagpengemaksimum, beregning på
+grundlag af ikke-medlemsperioder, suspension af dagpengeforbrug
+og bedre uddannelsesmuligheder til personer omfattet af en arbejds‐
+fordelingsordning samt fast arbejdsgiverbidrag m.v.)).
+Titler på de anmeldte sager vil fremgå af www.folketingstidende.dk
+(jf. ovenfor).";Karen Ellemann
+1021;Time;;Kl. 13:00
+1058;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes mandag den 7. september 2020,
+kl. 10.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjem‐
+meside. Og så skal jeg i øvrigt henvise til ugeplanen, der fremgår af
+Folketingets hjemmeside.
+
+1";Karen Ellemann

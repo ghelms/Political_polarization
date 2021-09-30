@@ -18,7 +18,7 @@ import glob
 
 
 out_file = "data/parsed_data.csv"
-debug = False
+debug = True
 
 # load some prepared data of the folketing members and some titles
 # and build a regular expression to match speakers
@@ -36,6 +36,7 @@ for name in ft.iloc[:, 0]:
 allnames = set(ft.iloc[:, 0])
 allnames.update(extranames)
 
+# Creating regular expressions that can match all the names in the list
 members = "(?:" + '|'.join([re.escape(i) for i in allnames]) + ")"
 parties = "(?:" + '|'.join([re.escape(str(i)) for i in set(ft.iloc[:, 1])]) + ")"
 with open("folketing_titler.txt") as f:
@@ -64,6 +65,7 @@ class Rule:
     def find(self, txt):
         return self.regex.match(txt)
 
+
 rules = [
     # match time
     Rule("(?:(?:(?:man|tirs|ons|tors|fre|lør|søn)dag "\
@@ -82,22 +84,21 @@ rules = [
 
 
 def show(i):
-    # print a rule and its matche easily
+    # print a rule and its matches easily
     print(data.reason[i] + "\n" + data.text[i])
 
 
 data_cols = ['split', 'reason', 'text']
 file_list = glob.glob("data/txt/*.txt")
 
-print(str(sys.argv)))
-#file_list = sys.argv[1:]
+file_list = sys.argv[1:]
 
 fl = len(file_list)
 
 
 # for filename in ["data/txt/20111_M14_helemoedet.txt"]:
 for i, filename in enumerate(file_list):
-    # print("[segmenting] " + str(i+1) + " / " + str(fl) + " " + filename)
+    print("[segmenting] " + str(i+1) + " / " + str(fl) + " " + filename)
     # prepare the output data frame
     data = pd.DataFrame([], columns=data_cols)
 

@@ -1,0 +1,1819 @@
+split;reason;text;value
+0;;"Tirsdag den 11. maj 2021 (D)
+
+1
+
+Det første punkt på dagsordenen er:
+1) Spørgetime med statsministeren.";
+113;Time;113. møde;Kl. 13:00
+159;Time;"Dagsorden
+1) Spørgetime med statsministeren.
+2) 2. behandling af lovforslag nr. L 218:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring m.v.
+og lov om sygedagpenge. (Forlængelse af suspension af dagpenge‐
+forbrug, 4-månedersperioden ved opgørelse af karens og forbrug af
+supplerende dagpenge, mulighed for fravalg af årsopgørelsen for
+2020 ved satsberegningen for selvstændige erhvervsdrivende og for‐
+længelse af retten til sygedagpenge som følge af covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 23.04.2021. 1. behandling 04.05.2021. Betænkning
+07.05.2021).
+3) 2. behandling af lovforslag nr. L 219:
+Forslag til lov om ændring af lov om aktiv socialpolitik. (Yderligere
+forlængelse af 12-månedersperioden i 225-timersreglen som følge af
+covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 23.04.2021. 1. behandling 04.05.2021. Betænkning
+07.05.2021).
+4) 2. behandling af lovforslag nr. L 225:
+Forslag til lov om ændring af lov om bemyndigelse til midlertidig
+fravigelse af bestemmelser om fysisk fremmøde ved generalforsam‐
+ling i virksomheders vedtægter eller tilsvarende aftaler i forbindelse
+med covid-19. (Bemyndigelse til midlertidig udskydelse af indsen‐
+delsesfristen for årsrapporter og fravigelse af visse bestemmelser i
+virksomheders vedtægter eller tilsvarende aftaler).
+Af erhvervsministeren (Simon Kollerup).
+(Fremsættelse 29.04.2021. 1. behandling 04.05.2021. Betænkning
+06.05.2021).";kl. 13.00
+1632;Time;;Kl. 13:00
+1667;title_name;":
+Mødet er åbnet.
+Det er som bekendt spørgetimen, og derfor vil jeg starte med at give
+ordet til statsministeren for de indledende bemærkninger. Værsgo til
+statsministeren.";Henrik Dam Kristensen
+1876;title_name;":
+Tak for det. Genåbningen af Danmark går godt, mere end hver fjerde
+dansker er nu påbegyndt vaccinationen, og smitten er stadig under
+kontrol. Vi er nu alle sammen på vej ud af den akutte krise, og nu er
+målet selvfølgelig, at Danmark skal være fuldt og helt normaliseret
+igen. Samtidig med at vi udfaser restriktionerne og får fritvalgsord‐
+ningen på vacciner til at fungere, skal vi stadig udvise rettidig omhu.
+Virussen er her stadig væk, og det samme er mutationerne, og derfor
+vil regeringen som aftalt med partierne bag genåbningsaftalen sætte
+gang i arbejdet med at udarbejde en langsigtet strategi for håndterin‐
+gen af corona i det kommende år. Vi skal stadig håndtere sygdom‐
+men, og vi skal undgå nye store nedlukninger af vores samfund. Det
+er vi heldigvis enige om.
+Det er tid til at se fremad, og det er det også på andre vigtige
+politikområder. Netop nu forhandler vi alle sammen en ny infra‐
+strukturplan, vi skal i gang med forhandlinger om en udfasning af
+hjælpepakker og om en ny sommer- og erhvervspakke, om at sætte
+børnene først og sikre mere tryghed og bedre rettigheder til udsatte
+børn, og snart tager vi også hul på forhandlinger om fagligt efterslæb
+og trivsel for elever og studerende og på de årlige økonomiforhand‐
+linger med både kommuner og regioner. Men det er noget helt femte,
+jeg vil tale om, nemlig klimaet.
+For nylig fik vi tallene fra den nye klimafremskrivning, og de
+viser, at vi med de beslutninger, som vi har truffet, og med det land‐
+brugsudspil, som forhandles netop nu, allerede er næsten halvvejs
+til at nå klimamålene i 2030. For et år siden manglede vi at sænke
+vores udledning af drivhusgasser med ca. 20 mio. t, og med de
+nuværende aftaler og landbrugsudspillet indregnet har vi reduceret
+det til 10 mio. t. Det er sådan set ret godt gået, og det er altså
+på mindre end et år, siden et meget bredt flertal her i salen stemte
+klimaloven som ramme igennem. I fredags gav vi håndslag på et
+nyt ambitiøst 2025-delmål, der betyder, at vi sætter den grønne om‐
+stilling yderligere et gear op. Tak for et godt samarbejde til SF, til
+Radikale Venstre og til Enhedslisten og i øvrigt til alle partier, som
+står bag de mange brede klimaaftaler, vi har indgået i de seneste år,
+og også en tak til dansk erhvervsliv og til fagbevægelsen, som har
+bidraget til klimapartnerskaberne, og til alle jer unge, som har råbt os
+voksne op og krævet den nødvendige klimahandling.
+Vi er i fællesskab på meget kort tid nået langt, også med at
+styrke vores miljø og biodiversitet med 13 nye naturnationalparker,
+mere urørt skov, bedre betingelser for dyr og planter, og det hele
+hænger sammen, og det gør det også med de forhandlinger, vi nu
+er gået i gang med på landbrugsområdet. Jeg håber også her, at vi
+kan finde hinanden i en bred politisk aftale, hvor vi baner vejen for
+de nødvendige klimareduktioner og samtidig sikrer balancen mellem
+klimaet og miljøet, den enkelte landmand og erhvervslivets vilkår,
+sådan at dansk landbrug også i fremtiden kan få lov til at være det,
+som de er, nemlig et grønt udstillingsvindue for resten af verden.
+Jeg mener sådan set, at vi i Danmark er i gang med at vise, at en
+
+2
+
+Tirsdag den 11. maj 2021 (US 57)
+
+grøn omstilling ikke er på bekostning af arbejdspladser, ikke er på
+bekostning af samfundets udvikling, men at den faktisk tværtimod er
+det modsatte, og tak for, at vi gør det. Tak for, at vi med den grønne
+omstilling i Danmark nu skaber vækst og lokale arbejdspladser. Det
+håber jeg at vi vil blive ved med i fællesskab.
+Klimaet og miljøet er et af de områder, hvor Danmark kan gøre
+den absolut største forskel ude i verden, og det giver os i virkelig‐
+heden også et særligt ansvar og – synes jeg – dermed også en
+nødvendighed i at tage de næste skridt, vise rettidig omhu i vores
+fremtidige håndtering af pandemien og med et nødvendigt fokus på
+alle de muligheder, vi har, et mere grønt, et mere retfærdigt og et
+stærkere Danmark.";Mette Frederiksen
+5797;Time;;Kl. 13:04
+5832;title_name;":
+Tak til statsministeren. Så går vi i gang med selve spørgerunden.
+Som sædvanlig er der først 2 minutter og derefter 2 gange 1 minut.
+Først er det hr. Jakob Ellemann-Jensen, Venstre. Værsgo.";Henrik Dam Kristensen
+6033;Time;Spm. nr. US 57;Kl. 13:04
+6075;name_party;":
+Tak for det, formand. Og tak til statsministeren. Jeg vil egentlig
+starte med det, som statsministeren lagde ud med. Vi stod herinde
+fra knap en måneds tid siden, hvor vores gode kollega hr. Alex
+Vanopslagh spurgte statsministeren om, hvorvidt hun, når vi nu
+kommer til den situation, hvor vi alle har fået tilbudt en vaccine,
+så ville garantere, at samtlige restriktioner – altså mundbind, coro‐
+napas og andre ting, som vi tolererer, men som jo er et indgreb
+i den personlige frihed, og som generelt er træls – bortfalder, og
+det svarede statsministeren sådan lidt vævende på. Så da jeg hørte
+statsministerens indledning, gjorde jeg mig forhåbninger om, at det
+egentlig var et klart svar på det.
+Så jeg vil da godt give statsministeren mulighed for at gentage
+det, jeg syntes jeg hørte, nemlig at statsministeren kan garantere, at
+vi, når den sidste danskere har fået tilbudt en vaccine, og vi dermed
+er på den anden side af pandemien, giver slip på alle de indenrigsre‐
+striktioner, som hviler på os, herunder mundbind, coronapas osv.";Jakob Ellemann-Jensen
+7124;Time;;Kl. 13:05
+7159;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+7187;Time;;Kl. 13:06
+7224;title_name;":
+Der har bredt sig en misforståelse, som jeg gerne vil benytte min
+taletid i dag til at mane i jorden, nemlig at jeg skulle vågne om
+morgenen og kigge på Bo og sige: Ih, hvor er det dejligt, at der er
+restriktioner i Danmark. Det har jeg ikke sagt til min husbond en
+eneste gang, og jeg kommer heller aldrig nogen sinde til det. Jeg er
+lige så træt af mundbindet, som jeg tror de fleste andre er, og jeg
+glæder mig til den dag, hvor vi kan kramme hinanden, måske sågar
+herinde i Folketingssalen, hvis vi skulle have lyst til det – altså alt
+med måde: det er på en ordentlig måde, vi skal kramme – hvor vi er
+fri af restriktionerne, og hvor vi får et normalt Danmark tilbage. Og
+det er faktisk også det, der ligger til grund for den politiske aftale, vi
+har lavet med hinanden, om, at restriktionerne bliver færre og færre,
+og at vi går hen imod et normalt Danmark.
+Hvordan det præcis kommer til at se ud, er der jo ikke nogen
+af os der ved, men med den meget, meget høje tilslutning, der er
+til vaccineudrulningen i Danmark, forventer vi jo heldigvis at kunne
+opnå den flokimmunitet, som er så afgørende i forhold til den videre
+håndtering af pandemien, og der forventer jeg da selvfølgelig, at der
+vil være behov for så få restriktioner som overhovedet muligt.";Mette Frederiksen
+8497;Time;;Kl. 13:07
+8532;title_name;":
+Hr. Jakob Ellemann-Jensen, værsgo.";Henrik Dam Kristensen
+8578;Time;;Kl. 13:07
+8605;name_party;":
+Det startede virkelig lovende og udmærket og med nogle fine bil‐
+leder, men det var jo et nej. Statsministeren vil simpelt hen ikke
+garantere, at når den sidste dansker har fået tilbudt en vaccine, skal
+vi ikke længere være underlagt restriktioner. Det synes jeg er ærger‐
+ligt, for det må og skal være sådan i Danmark, at når alle er blevet
+tilbudt vaccinen, så er restriktionerne væk. Så er der ikke brug for et
+afstandskrav, så er der ikke brug for at antalskrav, så er der ikke brug
+for coronapas, og så er der ikke brug for mundbind. Jeg synes, det er
+ærgerligt, at statsministeren ikke vil give den garanti.
+Fortsættende lidt i samme dur, så er en af de ting, som er nød‐
+vendige nogle steder og træls andre steder, coronapasset. Vi har fra
+den blå del af salens side lagt op til, at indføre det, man kan kalde
+en kørekortsmodel, hvor man skal have sit coronapas på sig, og
+man har et personligt ansvar for at sikre, at man har det, således
+at vi ikke lægger det ansvar på piccoloen i biografen eller tjeneren
+på restauranten. Det er der et flertal for i nærværende sal. Bakker
+statsministeren op om en kørekortsmodel for coronapasset?";Jakob Ellemann-Jensen
+9758;Time;;Kl. 13:08
+9793;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+9821;Time;;Kl. 13:08
+9858;title_name;":
+Jeg bakker grundlæggende op om, at vi bliver ved med at have styr
+på situationen. Det er ret vildt. Nu har jeg selv lige deltaget i et
+møde i Det Europæiske Råd her forleden dag og set, hvor langt
+vi i Danmark er med genåbningen i forhold til mange andre lande.
+Briterne er i en særlig situation, fordi man der har kunnet vaccinere
+befolkningen, men rigtig mange lande er stadig væk i nedlukning,
+og mange har også været ramt af en hård tredje bølge: situationen
+i Indien lige nu er jo en katastrofe for os alle sammen. Men her
+i Danmark er vi i gang med en meget, meget stor genåbning, og
+vi har endda kunnet fremrykke, så vi kan genåbne mere, og en af
+grundene til, at vi kan det, er coronapasset. Danskerne lader sig teste
+i et meget, meget stort omfang, og det betyder, at vi har styr på
+situationen.
+Jeg har det jo sådan med coronapasset, at det for mig kun har
+en sammenhæng med pandemien. Det jo noget, vi har indført for at
+kunne åbne vores samfund op og for at kunne undgå at lukke ned,
+som andre har haft behov for at gøre, og derfor skal vi jo kun bruge
+det, så længe det er nødvendigt. Men jeg må samtidig sige, at så vidt
+jeg kan høre og se, også i mit eget dagligliv, så fungerer det faktisk
+godt derude, og det giver en tryghed for os alle sammen.";Mette Frederiksen
+11132;Time;;Kl. 13:09
+11167;title_name;":
+Jakob Ellemann-Jensen, sidste spørgsmål, værsgo.";Henrik Dam Kristensen
+11227;Time;;Kl. 13:09
+11254;name_party;":
+Det var ikke rigtig det, jeg spurgte om, kan man sige. Det, jeg
+spurgte om, var, om statsministeren, ligesom et flertal i Folketinget,
+vil indføre en kørekortmodel for coronapasset: Ja eller nej?
+Jeg medgiver, at for os, der er herinde, er det ikke det store
+problem. Vi går jo bare ned i kælderen og bliver testet. For ganske
+almindelige danskere er det et problem at stå i kø i halvanden time,
+at skulle transportere sig en halv time derhen og at skulle have det
+
+Tirsdag den 11. maj 2021 (US 58)
+
+fornyet hver tredje eller hver anden dag for at kunne leve en normal
+tilværelse. Det her er et problem. Altså, vi bliver nødt til at tage de
+udfordringer alvorligt, selv om vi ikke bliver ramt af dem selv –
+måske især når vi ikke bliver ramt af dem selv. Så vil statsministeren
+rette sig efter et flertal i Folketinget og indføre en kørekortmodel for
+coronapasset: Ja eller nej?";Jakob Ellemann-Jensen
+12145;Time;;Kl. 13:10
+12180;title_name;":
+Statsministeren.
+
+3
+
+de synes er nødvendig i forhold til at bibringe eleverne det, de skal,
+så har vi jo virkelig et problem i et ellers frit samfund.
+Så hvad vil statsministeren, og hvad vil regeringen tage af initia‐
+tiver for at sikre, at de mennesker, der hjælper os med at undervise
+børnene, føler sig frie og kan gøre det, som de selvfølgelig skal?";Henrik Dam Kristensen
+12546;Time;;Kl. 13:13
+12581;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+12609;Time;;Kl. 13:13
+12620;Time;;Kl. 13:10
+12657;title_name;":
+Jamen altså, vi har en aftale, som et politisk flertal står bag, i forhold
+til at bruge coronapas. I den aftale ligger der også, at vi løbende
+forholder os til at diskutere, hvordan coronapasset skal tilpasses den
+måde, som epidemien udvikler sig på, og det gør vi selvfølgelig i
+den kreds.
+I al respekt tror jeg, at Venstres formand overdriver problemerne
+derude. Altså, danskerne er pragmatiske folk. Hvis alternativet til et
+coronapas er, at vi havde fortsat nedlukningen i længere tid, tror jeg
+da, de fleste har det sådan, at man går ned og bliver testet. (Jakob";Mette Frederiksen
+13246;name_party;": Det er jo en falsk præmis). Og jeg vil bare
+sige, at vi har en af verdens højeste testkapaciteter. Vi har et system
+derude, der funker, og vi har tusindvis af mennesker, der går på
+arbejde hver dag for at sørge for, at det her system faktisk fungerer
+og giver trygheden og sørger for, at Danmark kan holde åbent. En
+gang imellem tror jeg, at vi politikere skal passe på med at puste
+nogle problemer op, som almindelige danskere faktisk ikke oplever,
+men hvor de får det til at fungere.";Ellemann-Jensen
+13743;Time;;Kl. 13:11
+13778;title_name;":
+Tak til hr. Jakob Ellemann-Jensen. Og efter lidt rengøring er det hr.
+Kristian Thulesen Dahl, Dansk Folkeparti. Værsgo.";Henrik Dam Kristensen
+13909;Time;Spm. nr. US 58;Kl. 13:11
+13953;name_party;":
+Tak, formand. Det er jo rigtigt nok, at der selvfølgelig er nogle, der
+bor i sådan mere landlige omgivelser i Danmark, som har længere
+til testcenteret end dem, der bor inde i de større byer. Så derfor er
+der nok nogle, der oplever tingene lidt anderledes end det, statsmini‐
+steren lige gav udtryk for. Men det var ikke det, jeg ville bruge min
+taletid på.
+Jeg tror, at mange af os bliver uendelig triste, når vi oplever, at
+der er folk i vort land, som pålægger sig selvcensur, fordi de ligger
+under for trusler, er bange for vold, er bange for den terror, der
+udøves af islamistiske kræfter.
+Her senest har DR kunnet fortælle en historie om en person, de
+vælger at kalde Charlotte. Det hedder hun ikke i den virkelige ver‐
+den, men de kender hende selvfølgelig. Hun må optræde anonymt,
+fordi hun simpelt hen er bange. Hun er bange, fordi hun har bekendt‐
+gjort, at hun i sin undervisning som lærer vil vise Muhammedtegnin‐
+gerne, og det har medført så stærke trusler, at vurderingen har været,
+at hun hellere må prøve at gå under jorden og leve mere privat og
+stille og dermed pålægge sig selvcensur.
+Det, jeg godt kunne tænke mig at høre statsministerens holdning
+til i dag, er, hvordan i alverden vi bedst muligt imødegår den måske
+tiltagende selvcensur, der finder sted. Og her er det jo i særlig grad
+alvorligt, når det handler om vores undervisningsmiljøer. Hvis ikke
+lærere i den danske folkeskole, på ungdomsuddannelser og på vide‐
+regående uddannelser føler sig frie til at drage den lærdom ind, som";Kristian Thulesen Dahl
+15502;title_name;":
+Her har vi fat i noget, der er rigtig vigtigt, og som er et rigtigt pro‐
+blem. Og når vi taler om krænkelse af frihedsrettigheder, fortjener
+Charlotte og alle andre jo langt større opmærksomhed, end hvad der
+gælder i forbindelse med de frihedsudfordringer, der lige blev rejst
+af Venstre. For det her er jo et rigtigt indgreb i friheden – et rigtigt
+indgreb i friheden! – og noget, som vi ikke kan acceptere.
+Jeg vil ikke foregive, at jeg har alle svarene i dag. Men det, jeg
+vil sige, er, at det er et knæfald for alt det forkerte, når vi begynder
+at censurere os selv, og det er ligegyldigt, hvor censuren er – om
+det er i avisens spalter, om det er i vores tale, om det er i lærerens
+undervisning, eller om det er i noget fjerde. Al form for censur
+er dødsensfarlig og imod vores demokrati og imod vores danske
+værdier.
+Jeg er bange for, at det her ikke alene begrænser sig til at være
+et spørgsmål om Muhammedtegningerne, for det, jeg hører, er, at
+censuren også har fat i seksualundervisningen, altså at der er elever
+og studerende, der ikke vil deltage i seksualundervisningen, og som
+allerede nu tilkendegiver, at det vil de heller ikke tilvejebringe den
+dag, hvor de måtte være skolelærere eller pædagoger. Jeg hører fra
+f.eks. dansklærere, at censuren er kommet ind i danskundervisnin‐
+gen, at der er hæderkronede romaner og noveller, man ikke længere
+kan bruge f.eks. i gymnasieskolen, fordi der er elever, der føler sig
+stødt over nøgenhed eller scener, hvor der indgår seksuelle aktivite‐
+ter. Jeg hører om censuren i forhold til homoseksualitet, jøder og
+andre – og det går ikke.
+Med hensyn til hvordan vi løser det her, tør jeg ikke give alle
+svarene, men jeg føler mig helt overbevist om, at hvis ikke vi finder
+svarene i fællesskab, så går vi på kompromis med noget af det
+allerallervigtigste i vores samfund, nemlig ytringsfriheden, og det
+må vi ikke gøre.";Mette Frederiksen
+17387;Time;;Kl. 13:15
+17422;title_name;":
+Hr. Kristian Thulesen Dahl.";Henrik Dam Kristensen
+17461;Time;;Kl. 13:15
+17490;name_party;":
+Jeg er fuldstændig enig, og det vidner jo også om, at vi står over
+for et sådan meget bredt funderet problem i det danske samfund,
+som sikkert også kræver en række forskellige initiativer. Men hvis
+vi nu starter med det konkrete problem, som nu igen igen er blevet
+rejst, altså omkring Muhammedtegningerne, som man som lærer
+ikke føler sig fri til at kunne inddrage i undervisningen, og hvis
+vi nu koncentrerer os om det og ser på, hvordan vi så kan løse
+den opgave og sikre, at lærerne dog føler sig frie til at inddrage
+Muhammedtegningerne i undervisningen, så kunne det jo være med
+det forslag, vi har fra Dansk Folkepartis side, om, at man simpelt
+hen lader det indgå i pensum og lader det være en del af en pligt for
+læreren at fremvise bl.a. Muhammedtegningerne. For det vil jo gøre,
+at det er ikke den enkelte lærer, som man kan true til at lade være,
+fordi man ved, at det er en del af en pligt i det danske samfund.
+Det, som det for mig at se handler om, er i virkeligheden, hvordan
+vi kan tage risikoen, åget, så meget af lærerens skuldre som muligt
+
+4
+
+Tirsdag den 11. maj 2021 (US 59)
+
+og placere på vores alle sammens skuldre, så vi bærer det her som
+samfund i fællesskab i stedet for at overlade det til den enkelte lærer
+at stå i den her utrygge situation.";Kristian Thulesen Dahl
+18774;Time;;Kl. 13:16
+18809;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+18837;Time;;Kl. 13:16
+18874;title_name;":
+Jeg forstår godt forslaget, og jeg vil heller ikke fuldstændig afvise
+det. Jeg er grundlæggende imod det, forstået på den måde at jeg
+grundlæggende er imod, at vi skal detailstyre, ligesom jeg faktisk
+også er imod, at vi lovgiver om et håndtryk i forbindelse med ind‐
+fødsret, men alligevel mener, at vi skal gøre det, fordi det er mig så
+meget imod, at der kommer folk hertil udefra, som ikke vil trykke en
+borgmester i hånden, fordi hun er kvinde. Derfor bliver vi så nødt til
+at lovgive.
+Jeg er instinktivt også imod, at vi skal sidde og lovgive i detail‐
+spørgsmål i forhold til undervisning. Omvendt må jeg jo også bare
+erkende fuldstændig åbent og ærligt, at vi, hvis ikke vi tager affære
+som samfund, så lægger ansvaret på den enkelte undervisers skulder,
+og vi kunne se i går i Danmarks Radio, hvad konsekvensen så er,
+nemlig at en helt almindelig underviser i Danmark må gå under
+jorden, må gemme sig væk, for at have stået op for det, som er det
+mest naturlige i Danmark, nemlig ytringsfriheden. Så vi har jo at
+gøre med et dilemma, og jeg er ikke klar til at konkludere på det. Jeg
+tror, at vi skal have en samtale imellem partierne her om, hvordan
+vi håndterer det. Vi skal bare vide, at spøgelset er en del af vores
+samfund i dag. Der er censur i det danske uddannelsessystem, og det
+må vi ikke acceptere at der er.";Mette Frederiksen
+20214;Time;;Kl. 13:17
+20249;title_name;":
+Hr. Kristian Thulesen Dahl for det sidste spørgsmål. Værsgo.";Henrik Dam Kristensen
+20321;Time;;Kl. 13:17
+20350;name_party;":
+Jeg er også grundlæggende tilhænger af frihed og også af at tilret‐
+telægge undervisningen, som man synes er rigtigt, og vi uddanner
+mange dygtige lærere i vores uddannelsessektor lige præcis for at
+tage ansvar for, hvordan man formidler bedst muligt til eleverne.
+Men det her handler jo i virkeligheden om et hensyn til lærerne, altså
+at vi sikrer, at læreren ikke står i den her meget, meget vanskelige
+situation, hvor man på den ene side skal afveje hensynet til det, som
+man egentlig synes er rigtigt at undervise børnene i forhold til –
+det kunne være Muhammedtegningerne, som vi her diskuterer – og
+man på den anden side må se i øjnene, at man også kan risikere
+nogle ganske dramatiske følger. Og hvad vælger man så? Ja, så
+vælger man nok at lade være, og hvis vi skal modgå det, bliver
+vi, som statministeren også er inde på, somme tider nødt til at tage
+nogle initiativer, som måske bryder lidt med vores normale måde at
+håndtere det på.
+Så mit sidste spørgsmål til statsministeren er, om regeringen vil
+sørge for, at der bliver indkaldt til drøftelser, bl.a. også om det her
+er en mulighed, vi bliver nødt til at tage i anvendelse, altså at man
+simpelt hen skriver noget ind i pensum og gør det til en pligt for
+den enkelte lærer for at have en sikkerhed for, at den enkelte lærer
+ikke står alene tilbage med det her meget, meget store ansvar, tager
+initiativ til sådan nogle drøftelser, så vi kan få sat noget i verden, så
+der rent faktisk sker noget i forhold til det her store problem.";Kristian Thulesen Dahl
+21859;Time;;Kl. 13:18
+21894;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+21923;Time;;Kl. 13:18
+21960;title_name;":
+Ja, det vil jeg gerne tage initiativ til, og jeg synes, vi skal se på
+det hele vejen rundt. For når jeg f.eks. hører fra lærere, at man
+går lidt uden om abortspørgsmålet, fordi det kan provokere nogle
+elever, som er imod fri abort, at hæderkronede danske forfattere,
+som jeg sagde det før, som har fulgt os andre i årtier, ikke længere
+kan bruges i gymnasieskolen, fordi der er, hvad nogle elever kalder
+for heftige sexscener, eller der er tale om sex uden for ægteskabet
+eller før ægteskabet eller andre ting, og det derfor måtte provokere
+på grund af religion, så er vi jo allerede ude over et sted, hvor vi
+ikke må være som samfund. For vi vil have en skole og vi vil have
+et uddannelsessystem, hvor man læser det hele, og hvor der ikke er
+danske forfattere, der bliver censureret bort, hvor der ikke er emner,
+som man ikke kan diskutere, fordi nogle har en religion, hvor de
+så fortolker det i den retning, og det så skal gå ud over andre i en
+undervisningssituation eller dem selv. Så man kan sige, at skredet er
+sket, og det har vi et ansvar for at få gjort op med. Så ja, jeg vil
+gerne indkalde til drøftelser om den brede censurdiskussion.";Mette Frederiksen
+23119;Time;;Kl. 13:19
+23154;title_name;":
+Tak til hr. Kristian Thulesen Dahl, og efter lidt rengøring går vi vide‐
+re. Jeg skal lige sige, at det er sådan, at displayet med tiden dernede
+ikke virker, men indtil nu har de to spørgere klaret det fuldstændig
+eksemplarisk. Det er jeg sikker på at de kommende spørgere også
+gør. Ellers rejser jeg mig.
+Værsgo til fru Pia Olsen Dyhr, SF.";Henrik Dam Kristensen
+23506;Time;Spm. nr. US 59;Kl. 13:20
+23542;name_party;":
+Det er vigtigt at huske, hvor man kommer fra, og vi – regeringen,
+SF, Det Radikale Venstre og Enhedslisten – blev båret ind ved sidste
+folketingsvalg af de unge klimaaktivister og af alle de danskere, der
+ønskede en ambitiøs grøn politik. Derfor vil jeg faktisk bare gerne
+starte med at sige tak for et rigtig godt samarbejde om at levere
+herinde og derfor også få et ambitiøst delmål i 2025. Vi sendte i
+fællesskab hockeystaven på genbrugspladsen. Det var nødvendigt,
+og det kræver, at vi nu sætter farten op, og her kommer SF til at
+holde regeringen i ørerne – det er vist ikke nogen overraskelse – og
+vi kommer til at gøre det hver eneste dag.
+Det er heller ikke nogen hemmelighed, at jeg også er stolt over,
+hvordan vi i fællesskab har håndteret corona. Vi har håndteret det
+klogt. Når man kigger på landene omkring os, lukker de ned, og vi
+åbner op. Jeg ved godt, det er sjovere for medierne, når man er sur
+og finder hår i suppen, men jeg tror nu, at vi engang om rigtig mange
+år vil se tilbage på den her tid og klappe hinanden på skuldrene og
+sige: Det gik egentlig ganske godt i Danmark. Men det kræver jo
+så også, at vi står sammen om at få alle ud af corona og ud på den
+anden side – ikke kun nogle, men alle sammen. Og nogle af vores
+forslag er vi jo i gang med, og i dag skal vi bl.a. vedtage, at man kan
+få 110 pct.s dagpenge efter videreuddannelse helt frem til og med
+2022. Det er rigtig godt.
+Vi åbner mere op, men vi skal så også sørge for de børn, der
+er. Mange af børnene klarer sig godt, men der er også nogle, der
+mistrives. Der er nogle, der er ensomme, og nogle af dem kommer
+tilbage i deres klasse og føler sig som fremmede, fordi de skal til
+at opdyrke sociale kompetencer. Her hører vi så også, at børnene og
+medlemmerne siver fra de forskellige foreninger. Derfor synes jeg,
+det er ærgerligt, at regeringen ikke har prioriteret børn og unge i sin
+sommerpakke. Det er noget af det, vi går til forhandlingerne med,
+og jeg vil egentlig også gerne spørge statsministeren, om regeringen
+
+Tirsdag den 11. maj 2021 (US 59)
+
+sammen med SF vil være med til at sikre, at alle de der børn og unge
+kan komme på sommerlejr, at flere børn og unge kan komme tilbage
+i foreningslivet, og at vi i det hele taget får etableret grobund for det
+gode børne- og ungeliv.";Pia Olsen Dyhr
+25831;Time;;Kl. 13:22
+25866;title_name;":
+Statsministeren.
+
+5
+
+på. Jeg vil egentlig gerne spørge, om statsministeren vil være villig
+til at gå fra at sige, at det er spændende og noget, man gerne vil
+kigge på, til at gå aktivt ind i kampen sammen med den amerikanske
+præsident, altså for at presse på i WTO for, at man faktisk laver det
+her hul i patenterne, så vi virkelig kan få vaccinerne op at køre, så vi
+alle sammen kan komme tættere på et normalt liv igen.";Henrik Dam Kristensen
+26299;Time;;Kl. 13:25
+26310;Time;;Kl. 13:22
+26347;title_name;":
+Altså, man skal jo aldrig nogen sinde være bange for at erkende sine
+fejl eller turde at træde ind der, hvor man har ladet sig overbevise.
+Socialdemokratiet gik ikke til valg på en 70-procentsmålsætning i
+2030. Det er jer tre partiers fortjeneste, at det er grundlaget for
+forståelsespapiret og efterfølgende for nu 2 års politik, og jeg må jo
+bare sige tak. Jeg er dybt taknemlig for, at I skubbede os derhen.
+Det gør, at vi er et af de mest klimaambitiøse lande i verden, og at
+resten af verden kigger til Danmark. Det er jeres fortjeneste, i øvrigt
+sammen med alle dem, som fru Pia Olsen Dyhr siger var med til at
+skabe grundlaget for, at det seneste valg blev et klimavalg.
+Når jeg i min indledning i dag også siger, at nu begynder vi at
+være der, hvor vi viser, at det ikke er på bekostning af arbejdspladser
+og vækst, er det jo også en indrømmelse, kan man sige, fra min
+side, for det er noget af det, jeg har været bange for. Altså, jeg har
+oprigtig været bange for, at man gik så højt op på klimastigen, at
+de nederste trin begyndte at knække af, og man ikke havde det der
+blik i fællesskab for arbejdspladserne, for balancerne, for land og by
+og for den sociale sammenhængskraft, for så synes jeg ikke, det er
+værd at gå så højt. Jeg må så også bare sige, nu vi begynder at gøre
+resultaterne op her efter 2 år, at det ikke har været på bekostning af
+alt det, jeg også mener skal kendetegne Danmark. Vi har faktisk vist
+i fællesskab, at man kan begge dele. Så langt så godt.
+Skal vi have et stærkere børnefokus i sommerpakken? Det vil vi
+meget gerne være med til at diskutere. Jeg er ikke i tvivl om, at der
+er nogen børn, der har behov for en særlig hjælp. Jeg vil generelt
+advare imod, at vi herinde, og det hører jeg heller ikke fru Pia Olsen
+Dyhr gør, men jeg synes, der har været tendens til det tidligere,
+italesætter alle børn og unge som værende ofre for den her pandemi,
+for det mener jeg ikke er rigtigt. Jeg mener faktisk tværtimod, at vi
+har set en børne- og ungegeneration, der har rejst sig og har taget
+ansvaret for at hjælpe samfundet igennem en krise. Det bør man
+ranke ryggen af, ikke det modsatte.";Mette Frederiksen
+28483;Time;;Kl. 13:24
+28518;title_name;":
+Fru Pia Olsen Dyhr.";Henrik Dam Kristensen
+28549;Time;;Kl. 13:24
+28570;name_party;":
+Jeg tror, der er mange børn og unge, der føler, at de har holdt for,
+men de glæder sig også i de her tider, hvor de vender tilbage til
+skolen. Jeg mødte flere i går, der decideret gik hen og klappede
+mig på skulderen og sagde: Tusind tak, fordi I har været med til at
+gøre vores hverdag mere normal. Og det sker jo, fordi vi faktisk har
+passet på hinanden, og det har de unge også været gode til.
+Men en anden ting i forhold til corona er jo hele spørgsmålet om
+vacciner. Der må man jo sige, at vi står med nogle udfordringer, men
+en af de positive nyheder, jeg synes der er kommet, er, at den ameri‐
+kanske præsident har været ude at sige: Lad os nu også kigge på
+det her spørgsmål om patenter. Og han har foreslået en midlertidig
+ophævelse af patenterne via WTO: der har man en mulighed for en
+såkaldt voucher.
+Jeg så, at statsministeren var ude at sige, at det da var interessant
+og spændende, og at det da var noget, regeringen gerne ville se";Pia Olsen Dyhr
+29553;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+29581;Time;;Kl. 13:25
+29618;title_name;":
+Altså, jeg har det jo helt principielt sådan, at når en amerikansk
+præsident kommer med et forslag, så vil jeg som udgangspunkt altid
+være imødekommende, og det gælder selvfølgelig i særdeleshed nu,
+hvor vi ser et USA, der virkelig træder ind på den globale scene og
+i forhold til det multilaterale verdenssamfund igen tager et meget,
+meget stort ansvar.
+I mine øjne er den største udfordring på vaccineområdet kapa‐
+citetsspørgsmålet og i virkeligheden hverken patent- eller licens‐
+spørgsmålet. Der kan simpelt hen ikke produceres vacciner nok i
+forhold til det, vi har behov for, og jeg er ikke sikker på, at det i
+virkeligheden er patenterne, der kommer til at afgøre det: det er i
+mine øjne, at vi får bygget – helt banalt – flere vaccinefabrikker,
+så der produceres flere vacciner. Og her mener jeg jo, at Europa
+skal gå foran. Jeg er glad for det arbejde, Kommissionen har sat i
+gang med Thierry Breton i spidsen, altså hvor man nu ligesom har
+samlet landene for at sikre, at kapaciteten kan sættes op. Og som
+spørgeren ved, håber vi jo også på fra dansk side at kunne fremme
+produktionen i vores eget land. Så i mine øjne handler det altså først
+og fremmest om at få kapaciteten op.";Mette Frederiksen
+30820;Time;;Kl. 13:26
+30855;title_name;":
+Fru Pia Olsen Dyhr for sidste spørgsmål. Værsgo.";Henrik Dam Kristensen
+30915;Time;;Kl. 13:26
+30936;name_party;":
+Jeg hører så også, at statsministeren ikke har noget problem med, at
+amerikanerne går foran, men jeg synes, at vi skal gå mere aktivt ind i
+kampen.
+Jeg lagde ud med en masse ros både for håndteringen af kli‐
+maområdet og for coronahåndteringen, men jeg vil egentlig slutte
+med en opsang, ikke kun til statsministeren og regeringen, men i
+virkeligheden også til de blå partier. Der sidder 19 danske børn i 2
+lejre i Syrien, og lige om lidt skal vi tage stilling til, om børnene skal
+hjem. Vi taler altså om 19 danske børn. Jeg ved godt, at mange gerne
+vil gøre det her til udlændingepolitik, men det er det ikke. Og jo, de
+burde slet ikke være taget af sted – det er decideret dumt, at de er
+taget af sted: jeg er på alle mulige måder imod, at de er taget af sted
+– men jeg synes, at vi her i virkeligheden bør tænke os en lille smule
+om og få det til at handle om sund fornuft og finde en løsning på det
+her problem.
+Kurderne har bedt os om at tage vores egne statsborgere hjem. Vi
+– og det gør jeg også – insisterer på, at vi kan sende kriminelle hjem
+til deres hjemlande, for det vil Danmark gerne kunne gøre, og så skal
+vi selvfølgelig også tage vores egne statsborgere hjem. Så igen vil
+jeg spørge statsministeren: Kan vi ikke finde en løsning på det her?";Pia Olsen Dyhr
+32207;Time;;Kl. 13:27
+32242;title_name;":
+Tak. Statsministeren, værsgo.
+
+6
+
+Tirsdag den 11. maj 2021 (US 60)";Henrik Dam Kristensen
+32322;Time;;Kl. 13:27
+32359;title_name;":
+Jeg tror egentlig, vi alle sammen virkelig har ondt af de børn, og at
+alle godt kan se, at det ikke er et godt sted at vokse op. Det er jo
+også bevæggrunden for, at vi er mange partier, der har været enige
+om at nedsætte en taskforce, som slutter sit arbejde i næste uge for at
+afdække, hvad der måtte være af muligheder for at hjælpe børnene. I
+og med at den taskforce nu snart har tilvejebragt sit arbejde, vil jeg
+egentlig gerne afvente deres anbefalinger, før jeg siger yderligere.";Mette Frederiksen
+32856;Time;;Kl. 13:28
+32891;title_name;":
+Tak til fru Pia Olsen Dyhr. Efter lidt rengøring er det fru Sofie
+Carsten Nielsen, Radikale Venstre. Værsgo.";Henrik Dam Kristensen
+33011;Time;Spm. nr. US 60;Kl. 13:28
+33054;name_party;":
+Tak, og tak i øvrigt for kvitteringen med hensyn til det europæiske
+spor på vacciner her. Det har jeg også efterlyst, og nu hørte jeg en
+klar tilkendegivelse af, at den danske satsning også skal tænkes ind i
+et europæisk spor. Tak for det. Det var jeg rigtig glad for.
+Jeg hører også tit statsministeren slå på, at vi skal investere os ud
+af krisen. Det er jeg faktisk rigtig enig i. Men jeg kan bare indimel‐
+lem blive ret meget i tvivl om, om det også gælder klimakrisen, for
+der går det lidt mindre velvilligt, synes jeg, når det kommer til at
+investere. Der bliver nogle gange sat modsætninger op, og nu hører
+jeg faktisk statsministeren komme i møde her, at det måske ikke
+længere er enten rød eller grøn, arbejdspladser eller klima, bilejere
+eller klima, og nogle gange har det også været opstillet, som om det
+er velfærd eller klima, så mit ærinde er egentlig at inspirere til at
+tænke lidt nyt her, lidt mere både-og, for det kan være, og det har vi
+jo bevist, både job og klima. Det kan også være både kød og planter
+og både landbrugsjob og CO2-reduktioner. Hvorfor bruger vi ikke de
+landbrugsforhandlinger, som jo er i gang nu og igen i dag, til at få sat
+fart på væksten og få, ja, plantejob til at spire? Altså, plantebaseret
+kan faktisk blive lige så stort som smør og bacon for dansk eksport.
+Der kommer til at være en gigantefterspørgsel på det. Det kan give
+nye virksomheder, flere job og den velstand, som jo netop skal være
+det, vi skal bruge til at investere i bæredygtig velfærd: skoler, børn,
+der trives, omsorg for ældre og muligheder til flere.
+Vi har i Radikale Venstre spillet ud med investeringer på godt 4
+mia. kr. i et mere plantebaseret landbrug, og det er jo lidt et stykke
+fra regeringens ambitioner. Så derfor er mit spørgsmål: Er statsmini‐
+steren klar til virkelig også at investere i klimakrisen og klar til at
+investere ikke millioner, men milliarder – det er en prioritering: det
+er jeg med på – i et plantebaseret landbrug?";Sofie Carsten Nielsen
+35027;Time;;Kl. 13:30
+35062;title_name;":
+Tak. Statsministeren, værsgo.";Henrik Dam Kristensen
+35103;Time;;Kl. 13:30
+35140;title_name;":
+Ja, det er jeg sådan set som udgangspunkt, og jeg tror, det er rigtigt,
+at dansk landbrug kan så meget og har så høj troværdighed, at der
+også er et stort potentiale for dansk landbrug i forhold til plantepro‐
+duktion. Jeg tror sådan set også, at det er rigtigt, at det kommer
+der til at være en stor global efterspørgsel på, og derfor kan dansk
+landbrug også lige så godt begynde at bevæge sig den vej. Og det
+er jo noget af det, der kendetegner danske landmænd, nemlig at de
+er gode til at fornemme, hvor der er et marked, ligegyldig hvilken
+produktion der er, og jeg tror, det er rigtigt, at en del af markedet
+
+vil flytte sig i den retning. Kræver det noget investering? Ja, det vil
+det gøre. Det gør den grønne omstilling, og det skal vi selvfølgelig
+have viljen til. Så kan man sige, at når vi sidder ved bordet, og det
+gør vi jo heldigvis sammen i håb om at lave en bred aftale på det
+her område, er det jo en prioritering som med så meget andet, hvor
+meget vi vil bruge pengene her, i forhold til hvad vi også gerne vil
+bruge penge på af andre investeringer, eksempelvis i uddannelse,
+i forskning og i vores velfærdssamfund, som også kræver nogle
+investeringer. De prioriteringer må vi jo så foretage i fællesskab,
+men det er grundlæggende et positivt tilsagn.
+Så vil jeg bare sige i forhold til vacciner, at når jeg selv har været
+optaget af at se, om vi på nogen som helst måde kan understøtte
+en vaccineproduktion i Danmark, og den her markedshøring nu er
+sat i gang, har det jo aldrig været med henblik på at dække det
+danske marked, for vi er jo simpelt hen for lille et marked til, at det
+rigtig ville være interessant, vil jeg tro. Vores mål har egentlig hele
+tiden været, at vi både skal sikre forsyningssikkerhed herhjemme, og
+være, kan man sige, en stærk motor, hvis vi kan det, i forhold til den
+europæiske forsyning, nærområderne og sådan set også globalt. For
+vi er først sikre den dag, hvor alle på jordkloden har fået en vaccine,
+og der er godt nok lang vej endnu, desværre.";Mette Frederiksen
+37149;Time;;Kl. 13:32
+37184;title_name;":
+Sofie Carsten Nielsen. Værsgo.";Henrik Dam Kristensen
+37226;Time;;Kl. 13:32
+37254;name_party;":
+Det sidste er jeg rigtig glad for at få bekræftet. Jeg ser kun en vej
+frem i fællesskab med EU og Europa, for at det her netop kan blive
+den store satsning, også for Danmark.
+Noget af det, der er vigtigt i forhold til landbruget og klimaet, og
+når man skal investere og også investere i milliardklassen – og tak
+for tilsagnet om i al fald at se positivt på det – er jo sigtbarhed og
+pejlemærker. Vi blev faktisk enige om, da regeringen kom til, at der
+skal være et bindende reduktionsmål for landbruget. Så skulle vi så
+ikke sørge for at give landbruget den sigtbarhed og få det bindende
+reduktionsmål på plads nu som led i forhandlingerne? Så kan man
+også med meget større kraft sende investeringer efter det.";Sofie Carsten Nielsen
+37976;Time;;Kl. 13:33
+38011;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+38039;Time;;Kl. 13:33
+38076;title_name;":
+Jo, altså, vi har hele tiden haft det sådan, at vi har en stor loyalitet
+over for forståelsespapiret, og vi er jo i øvrigt godt i gang med i
+fællesskab at have indfriet ganske mange ting fra det forståelsespapir
+– heldigvis, sådan skal det selvfølgelig også være. Her indgår der
+jo altså et decideret reduktionsmål for landbruget, så det skal vi
+selvfølgelig også levere på i fællesskab. Hvornår vi så præcis skal
+fastsætte det undervejs i forhandlingerne, synes jeg vi skal tale med
+hinanden om. Nu har vi fået et delmål for 2025, som er meget
+ambitiøst. Vi har vores gode, gamle 2030-mål, som kører derudad,
+og så er vi i gang med landbrugsforhandlingerne, og der vil det jo
+være naturligt også at se på, hvor meget det så skal reduceres med, i
+øvrigt også af hensyn til de investeringer, som landbruget skal ud og
+foretage.";Mette Frederiksen
+38914;Time;;Kl. 13:34
+38949;title_name;":
+Sofie Carsten Nielsen. Sidste spørgsmål, værsgo.
+
+Tirsdag den 11. maj 2021 (US 61)
+
+7";Henrik Dam Kristensen
+39048;Time;;Kl. 13:34
+39059;Time;;Kl. 13:37
+39087;name_party;":
+Tak for det. Apropos det 2025-mål, som vi lige har fastsat, på 50-54
+pct. reduktion – og det er jeg rigtig glad for – så betyder det jo, at
+vi faktisk skal levere de reduktioner, også her og nu på kort sigt. Så
+er statsministeren ikke enig i, at hvis ikke der kan findes en ambitiøs
+aftale om landbruget, så står vi over for at finde reduktionerne i
+andre sektorer inden 2025?";Sofie Carsten Nielsen
+39502;title_name;":
+Tak for det spørgsmål også. Jeg er ikke et sekund i tvivl om, at der er
+børn i Danmark, der vokser op i familier, hvor pengene ikke rækker.
+Jeg er langtfra sikker på, at det primært er et ydelsesspørgsmål. Jeg
+tror i lige så høj grad, at det er på grund af andre udfordringer
+omkring familierne, herunder gæld. Det er i hvert fald det, der ofte
+kendetegner de her familier, og så har det selvfølgelig også at gøre
+med længden, altså hvor lang tid man modtager en overførselsind‐
+komst. Jeg har igennem længere tid anfægtet det tal, som også bliver
+brugt som baggrund for spørgsmålet her, fordi jeg faktisk ikke aner‐
+kender den uofficielle måde at opgøre det her på, som jeg mener
+giver et fejlagtigt billede. Så det er egentlig bare for at sige, at vores
+udgangspunkt ikke nødvendigvis er helt ens.
+Jeg betragter det som en bunden opgave at se, om vi kan lave
+et ydelsessystem, som er bedre end i dag, og som adresserer de
+forskellige udfordringer, der er, og ja, det er eksempelvis, at der er
+nogle børn, der ikke har råd til at gå til fritidsaktiviteter, men jo i lige
+så høj grad, at det for nogle slet ikke kan betale sig at arbejde, og
+det er jo det vigtigste, når vi taler ydelser, altså at sørge for, at folk
+kommer i arbejde. For en ydelse, medmindre den er af permanent
+karakter, skal jo altså fungere som noget, der er midlertidigt, indtil
+man kommer i arbejde og forsørger sig selv igen. Så vores fokus vil
+altid primært være på at få folk i arbejde og ikke på at forhøje folks
+ydelser.
+Men der er nogle udfordringer i vores ydelsessystem, herunder
+jo også, at det er blevet så voldsomt komplekst og kompliceret, at
+der vel knap er nogen, der har et helt overblik derover. Derfor er der
+nedsat en ydelseskommission. Den er snart færdig med sit arbejde,
+og så venter der derefter de politiske drøftelser om, hvad vi så gør.";Mette Frederiksen
+41349;Time;;Kl. 13:34
+41384;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+41412;Time;;Kl. 13:34
+41449;title_name;":
+Jo, det kan man jo sige er simpel matematik. For vi har et 2025-mål,
+som vi ønsker at leve op til. Men målet er vel at lave en ambitiøs
+landbrugsaftale – langsigtet, så den enkelte landmand ved, hvad man
+har at gøre godt med, og så man kan foretage de investeringer,
+der skal til, og jo så forhåbentlig i den ånd, at vi også bruger land‐
+brugsaftalen til at modbevise, at der behøver at være en modsætning
+mellem arbejdspladser og klimaet.
+Jeg synes, det er stærkt her snart 2 år inde i valgperioden, at vi
+må konstatere, at selv om vi har så høje mål, ja, måske faktisk på
+grund af at vi har så høje mål, så lykkes det os stadig væk at fremme
+beskæftigelsen på det her område. Det mener jeg så også er det, der
+skal være vores ledetråd i forhold til landbrugsforhandlingerne. Men
+jeg mener, at målet er en ambitiøs aftale om landbrug.";Mette Frederiksen
+42296;Time;;Kl. 13:35
+42331;title_name;":
+Tak til fru Sofie Carsten Nielsen, Radikale Venstre.
+Så er det Mai Villadsen, Enhedslisten. Værsgo.";Henrik Dam Kristensen
+42443;Time;;Kl. 13:39
+42453;Time;;Kl. 13:36
+42488;title_name;":
+Mai Villadsen, værsgo.";Henrik Dam Kristensen
+42522;Time;Spm. nr. US 61;Kl. 13:39
+42557;name_party;":
+Næsten 60.000 børn i Danmark vokser op i fattigdom – næsten
+60.000. Det sker bl.a. på grund af de lave ydelser, som skiftende
+flertal herinde har besluttet sig for at vi skal have i Danmark. Det er
+familier, hvor børnene nogle gange fryser i frikvarteret, fordi de ikke
+har varme nok vinterstøvler. Det er familier, hvor køleskabet bliver
+mere og mere tomt, jo længere man kommer hen på måneden, hvor
+fødselsdage og hytteture ikke skaber begejstring, men bekymring,
+fordi man ikke har råd til at gøre det samme som vennerne. Det har
+simpelt hen kæmpestore konsekvenser for de familier, for de børn
+og faktisk for hele vores samfund. Derfor er der ingen tvivl hos os i
+Enhedslisten: Vi skal bekæmpe den fattigdom.
+Derfor var jeg simpelt hen også ved at få kaffen helt galt i halsen,
+da jeg læste et interview med beskæftigelsesministeren i JyllandsPosten. For der kunne man læse, at han sagde, at det ikke var en
+bunden opgave at gøre noget ved ydelsessystemet. Han mente sim‐
+pelt hen ikke, at det var en bunden opgave for en socialdemokratisk
+regering at lave om på det system, der betyder, at familier lever med
+fattigdom i Danmark, også selv om vi har forpligtet hinanden på det,
+da regeringen tiltrådte, med et forståelsespapir, hvor det står sort på
+hvidt. Så mit spørgsmål er derfor i dag: Anerkender statsministeren
+ikke, at det ville være et løftebrud fra regeringens side ikke at levere
+på at lave en ordentlig ydelsesaftale, som mindsker fattigdommen i
+det her land?";Mai Villadsen
+44045;Time;;Kl. 13:37
+44080;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+44118;name_party;":
+Jeg hører det her som en tilkendegivelse fra statsministeren om, at
+det er en bunden opgave: jeg håber virkelig, at det er sådan, det
+skal forstås. For når man læser interviewet med beskæftigelsesmi‐
+nisteren, udtaler han jo også, at det ikke er et prestigeprojekt for
+regeringen at gøre noget ved det her område. Jeg forstår simpelt hen
+ikke, at det ikke kan være et prestigeprojekt for en socialdemokratisk
+regering at gøre noget ved et område, som betyder, at mennesker
+lever i fattigdom i Danmark – det begriber jeg ikke. Jeg vil gerne
+være helt sikker på, at svaret er: Jo, der skal gøres noget. Det kan
+godt være, vi er uenige i udgangspunktet, men der skal handles på,
+at børn vokser op i vores land i fattigdom, og at det ikke bare er et
+prestigeprojekt, men faktisk noget, som børnenes statsminister selv
+vil gøre noget ved, nemlig børnefattigdom i Danmark.";Mai Villadsen
+44996;Time;;Kl. 13:40
+45031;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+45059;Time;;Kl. 13:40
+45096;title_name;":
+Vi må jo se, om der materialiserer sig et politisk flertal, når Ydelses‐
+kommissionen er færdig med sit arbejde. Det ved vi ikke på forhånd,
+men der bliver jo politiske forhandlinger, så må vi se, hvor langt vi
+kan komme og med hvem. Det er jo på det her område som med
+andre politiske forhandlinger. Jeg tror, vi bliver nødt til at have nogle
+omgange, hvor vi diskuterer med hinanden, hvad fattigdom egentlig
+er for en størrelse, for jeg synes, det er blevet for let, og det synes
+
+8
+
+Tirsdag den 11. maj 2021 (US 62)
+
+jeg det har været igennem mange år, at bruge nogle tal, som jeg ikke
+mener er holdbare. For hvis man går ned i de 60.000 og begynder
+at kigge på rådighedsbeløb, er jeg simpelt hen ikke enig i, at der er
+en fattigdomsproblemstilling ved alle familier. Jeg tror, det er rigtigt,
+at den er der i nogle, og det har i høj grad at gøre med, hvor lang
+tid man er på ydelserne, og hvorfor man er der, og om man kan
+komme væk derfra. Men jeg synes, det kræver en meget grundigere
+diskussion, inden vi konkluderer, hvor stor problemstillingen med
+børnefattigdom egentlig er. Det her sagde jeg altså også før valget,
+vil jeg gerne lige have lov til at understrege og i valgkampen og
+umiddelbart efter valget.";Mette Frederiksen
+46326;Time;;Kl. 13:41
+46361;title_name;":
+Mai Villadsen for det sidste spørgsmål. Værsgo.";Henrik Dam Kristensen
+46420;Time;;Kl. 13:41
+46440;name_party;":
+Så er det jo godt, at vi også skal diskutere en fattigdomsgrænse i
+Danmark, og så må vi jo tage den her diskussion. Jeg tror ikke, at vi
+er enige, men vi må jo finde en vej frem, for det er rigtig vigtigt, at
+vi får gjort noget på det her område.
+Jeg vil også gerne holde fast i et andet område, som fylder rigtig
+meget lige nu, nemlig coronaen. Statsministeren nævnte selv Indien
+i et af sine svar. Vi ser lige nu en regulær katastrofe i Indien med
+tusindvis af døde – det er forfærdelige billeder. I Enhedslisten har vi
+jo gang på gang foreslået, at patenterne på coronavaccine ophæves
+midlertidigt, mens krisen raser. Nu kan vi se, at den amerikanske
+præsident Joe Biden har foreslået det sammen og Emmanuel Macron
+siger det samme. Statsministeren er åben over for at gøre noget, men
+tilkendegiver alligevel ikke helt tydeligt hverken i dag eller tidligere,
+hvad statsministeren egentlig mener. Derfor vil jeg gerne høre her
+i Folketingssalen: Mener statsministeren ikke, at det kunne være en
+måde at gøre noget ved at hjælpe med hurtigt og billigt at få nogle
+vacciner ud til de meget, meget nødlidende lande?";Mai Villadsen
+47565;Time;;Kl. 13:42
+47600;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+47628;Time;;Kl. 13:42
+47665;title_name;":
+Hvis jeg var sikker på, at det er det, der er løsningen, ville jeg jo
+indtage det synspunkt, at det bare var det, vi skulle gøre. Men jeg er
+simpelt hen ikke sikker på, at det er den rigtige løsning, for proble‐
+met er, at der ikke er fabrikker nok. Problemet er ikke, at vi ikke
+har gode vacciner. Det vil sige, at patentet er der, vaccinen findes,
+men verden kan ikke følge med, hvad angår produktionskapacitet.
+Det kan man hverken i Indien eller USA – nu er Indien jo et stort
+produktionsland, hvad angår vacciner – eller her i Europa. Så det
+er set i mine øjne, hvis det handler om at generere vacciner på den
+korte, den mellemlange bane, men også på den længere bane, et
+kapacitetsspørgsmål. Der har jeg en bekymring for, at patentspørgs‐
+målet i virkeligheden ad bagvejen kan komme til at spænde ben for
+det, selv om jeg er fuldstændig sikker på, hvad der ligger til grund
+for spørgsmålet, nemlig et ønske om at få udbredt vaccinerne. Så
+jeg er ikke sikker på, at det er den rigtige måde. I mine øjne er det
+først og fremmest et kapacitetsspørgsmål, der lige nu holder os alle
+sammen tilbage, desværre.";Mette Frederiksen
+48785;Time;;Kl. 13:43
+48820;title_name;":
+Tak til Mai Villadsen. Spørgsmålet er slut.
+Så er det hr. Søren Pape Poulsen, Det Konservative Folkeparti.
+Værsgo.";Henrik Dam Kristensen
+48947;Time;Spm. nr. US 62;Kl. 13:43
+48987;name_party;":
+Tak for det, formand. Mon ikke vi var mange, der sukkede voldsomt
+dybt, da Johnson & Johnson-vaccinen ikke blev en del af det danske
+vaccineprogram. Det er jo så godt, at vi nu har besluttet, at der er
+en frivillig ordning, og det er der så en masse med, altså hvordan
+det kan lade sig gøre, osv. Men det bekymrer mig alligevel lidt, for
+ikke at sige meget. Vi er jo afhængige af, at danskerne har tillid til
+vaccinerne, og det kan være svært at forstå, at samtidig med at vi må
+beholde nogle restriktioner, for ellers, siger nogen, går det galt, så
+siger de samme mennesker, at den her vaccine kan vi ikke godkende.
+Det har jeg meget svært ved at forstå. Jeg har godt set de tekniske
+forklaringer osv.: det er bare meget svært at forstå.
+Det, der gør mig bekymret, er det, jeg gerne vil spørge til her, for
+vi skal jo give danskerne tryghed om vaccineprogrammet. Det er et
+vaccineprogram, der er udsat gang på gang, fordi vi ikke har kunnet
+få de vacciner, vi skal bruge, og det bliver ikke bedre, når så nogle
+af dem ikke bliver godkendt til massevaccination. Det, der gør mig
+dybt bekymret, er, når man ser et tv-program – nogle af de bedste
+hyggelige programmer i dansk tv – hvor studieværten så sidder og
+spørger dem, der er derinde: Kunne du finde på at tage en af de
+skrottede vacciner? Det giver jo danskerne et fuldstændig forkert
+billede af, hvad de her vacciner er. Det er godkendte vacciner, som
+millioner af amerikanere og millioner af andre mennesker tager, men
+det får så navnet skrottet vaccine i Danmark. Hvad kan vi gøre ved
+det? Vi er politikere, og vi er også nødt til at spørge, hvordan det er,
+vi sikrer en vis tryghed i befolkningen. For vi skal have det her land
+åbnet fuldt og helt. Vi skal have danskerne, hvis de vil, til at tage
+vaccinen.
+Så nu vil jeg bare foreslå, at vi glemmer alt om jantelov, også
+selv om der skulle være nogle kolleger her i salen, der vil dyrke
+det jantelovsspørgsmål helt vildt, og så skal vi partiledere, hvis vi
+vil, tage jakken af, smøge ærmerne op og for rullende kameraer
+blive vaccineret med Johnson & Johnson og sende det signal til
+danskerne, at de roligt kan lade sig vaccinere, og at de ikke skal
+være bange. Er det ikke en god idé?";Søren Pape Poulsen
+51194;Time;;Kl. 13:45
+51229;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+51257;Time;;Kl. 13:45
+51294;title_name;":
+Hvad hver enkelt gør, hvad angår vaccine, vil jeg lade være op til
+hver enkelt, men jeg vil gerne understrege, at det, at Johnson &
+Johnson ikke indgår i vaccinationsprogrammet, ikke er en politisk
+beslutning. Det er ikke en beslutning truffet i Folketinget eller i rege‐
+ringen. Der er tale om en godkendt vaccine, både i USA, af EMA i
+Europa og af de danske sundhedsmyndigheder, og mig bekendt har
+der ikke været et eneste dødsfald relateret til mænd, der har taget
+Johnson & Johnson-vaccinen. Så det er Sundhedsstyrelsen, der egen‐
+hændigt har truffet en beslutning om Johnson & Johnson-vaccinen.
+Det er ikke en politisk beslutning.
+Det er til gengæld en politisk beslutning, og den er jeg glad for, at
+der nu skal være en tilvalgsordning i Danmark, så man kan benytte
+sig af de to godkendte vacciner, som sundhedsmyndighederne ikke
+ønsker at tage i brug for nærværende i Danmark. Det gælder Astra‐
+Zenecavaccinen, og det gælder Johnson & Johnson-vaccinen. Jeg
+kan i øvrigt bekræfte billedet af, at det er altafgørende, at der er tillid
+til den danske vaccineudrulning, og som den skrider frem, og det gør
+den jo heldigvis uagtet de her beslutninger, ser det ud til, at vi får
+en meget, meget høj tilslutning i Danmark til vaccineudrulningen.
+
+Tirsdag den 11. maj 2021 (US 63)
+
+Vi ligger lige nu for de grupper, der er blevet vaccineret, på en
+tilslutning på over 90 pct. ved mange af dem, og dermed ligger vi
+potentielt, næsten, med en verdensrekord eller med noget, der kunne
+minde om det, for nærværende.
+Så det er bare for at understrege, at der ikke er tale om en politisk
+beslutning i forhold til Johnson & Johnson-vaccinen. Det er alene
+Sundhedsstyrelsens beslutning.";Mette Frederiksen
+52984;Time;;Kl. 13:47
+53019;title_name;":
+Søren Pape Poulsen.";Henrik Dam Kristensen
+53050;Time;;Kl. 13:47
+53075;name_party;":
+Når nu statsministeren ikke vil være med til at tage et skud i armen
+sammen med mig, så må vi jo bare i fællesskab tale det op – og jeg
+tænker på lovlige produkter i den her anledning. Vi må tale det op.
+Jeg er dybt, dybt bekymret, når oplyste mennesker kan kalde det for
+skrottede vacciner. Jeg er dybt bekymret over, hvad det her kan føre
+til.
+Nå, nu er vi ved vacciner, og det er nok taget lidt ud fra de
+spørgsmål, der har været tidligere. Jeg bliver mere og mere betrygget
+af noget af det, statsministeren har sagt, men statsministeren siger,
+at det jo handler om kapaciteten i forhold til vaccinerne, og at det
+ikke så meget handler om patentet. Men jeg kunne egentlig godt
+tænke mig at høre, hvad statsministerens holdning er. For jeg hører
+fra denne pult nogle udsagn om, at USA's præsident siger det, og at
+Macron siger det. Er vi ikke enige om, at uanset hvem der siger det,
+så er det at ophæve patenterne rendyrket socialisme med store risici
+for den fremtidige forskning? Så skal vi ikke være enige om, at det
+her med at ophæve patenterne bare er et no-go?";Søren Pape Poulsen
+54155;Time;;Kl. 13:48
+54190;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+54218;Time;;Kl. 13:48
+54255;title_name;":
+Først er det helt rigtigt, at der ikke er tale om skrottede vacciner.
+Der er tale om, at Sundhedsstyrelsen på baggrund af den nuværende
+situation i Danmark vurderer, at man ikke ønsker at anbefale brugen
+af to vacciner. Men der er tale om godkendte vacciner. Hvad angår
+Johnson & Johnson, er den godkendt af de amerikanske sundheds‐
+myndigheder, af de europæiske sundhedsmyndigheder og af de dan‐
+ske sundhedsmyndigheder. Så der er ikke tale om skrottede vacciner.
+Politisk har vi valgt at lave en tilvalgsordning, og jeg regner med,
+at når der er et bredt flertal her i Folketinget, der ønsker sådan en
+tilvalgsordning, så arbejder alle, inklusive sundhedsmyndighederne,
+alt, hvad de kan, for at få den ordning til at fungere så hurtigt som
+overhovedet muligt. Hver time, den ordning ikke er i gang, er en
+spildt time for Danmark og for verden. For det, der er vigtigt, hvad
+angår covid-19, er, at vi opnår flokimmunitet, og der er vi lige nu
+bagud på point i Danmark, fordi der er taget to vacciner ud af vores
+vaccineudrulning.
+De ord, der påhæftes spørgsmålet omkring patenterne, tror jeg jeg
+skal lade hr. Søren Pape Poulsen eje selv. Men jeg vil gerne bekræf‐
+te, at der selvfølgelig er en risiko, hvis man går ad patentvejen, altså
+at man dermed blokerer for yderligere udvikling. Og vi har altså
+at gøre med private virksomheder, der i privat-offentligt samarbejde
+har lavet rigtig, rigtig gode vacciner, og vi skal passe på, at vi ikke
+spænder ben for det.";Mette Frederiksen
+55732;Time;;Kl. 13:49
+55767;title_name;":
+Hr. Søren Pape Poulsen for det sidste spørgsmål. Værsgo.
+
+9";Henrik Dam Kristensen
+55839;Time;;Kl. 13:49
+55864;name_party;":
+Tak. Jeg havde nok også bare mere brug for at komme af med det
+for at balancere debatten lidt. Nok om det. Nogle af os mødes jo i
+næste uge og skal tale om, hvad der skal ske den 21. maj, altså i
+næste genåbningsfase. Det er jo lidt det samme, jeg havde nær sagt
+spil, vi spiller hver gang, altså at nogle siger, at vi skal have åbnet
+noget mere, og at andre siger, at nej, nu er det lidt for meget, og de
+er meget bekymrede. Er vi ikke ved at være der nu, hvor vi godt
+kan være enige om, at selv om vi hver gang, vi forhandler, sidder
+og taler om, hvor bekymrende det kan blive, så ender det aldrig
+sådan? For danskerne er ansvarlige mennesker, dybt ansvarsfulde
+mennesker, der tænker sig om. Jeg tror, at vi nu har omkring 150
+indlagte. Vi har været under 200 siden februar. Der er vel snart
+ikke nogen argumenter for, at vi skal blive ved med nidkært at køre
+den ene restriktion efter den anden. Jeg ved jo godt, at selv om vi
+har coronapasset, er der stadig væk mange restriktioner på f.eks.
+restauranter. Og på et tidspunkt skal vi jo gerne derhen, hvor de kan
+drive en helt almindelig forretning, og hvor man godt må få lov at
+tjene penge, når man driver en forretning.";Søren Pape Poulsen
+57051;Time;;Kl. 13:51
+57086;title_name;":
+Statsministeren. Værsgo.";Henrik Dam Kristensen
+57122;Time;;Kl. 13:51
+57159;title_name;":
+Det skal restaurationerne have lov til, og det glæder vi os alle sam‐
+men til. Det er godt for restauranterne, det er godt for danskerne,
+det er godt for dansk økonomi. Vi er jo, må man sige, i fuld gang
+med at udfase restriktionerne og genåbne samfundet. Indtil nu er
+det lykkedes os at genåbne hurtigere, end vi havde regnet med. Det
+gjorde sig sådan set også gældende sidste forår. Heldigvis ser vi
+ind i en fortsat stabil smitteudvikling, som jo i høj grad, tror jeg,
+skyldes, at vi har coronapasset. For den meget høje testkapacitet er
+med til at få lukket smittekæder ned sammen med smitteopsporing
+og de andre initiativer. Så lad os mødes til forhandlinger igen. Jeg
+vil nødig karakterisere de forhandlinger som et spil, som hr. Søren
+Pape Poulsens gjorde, men det er jo rigtigt, at vi over de seneste
+14-15 måneder har indtaget nogenlunde de samme roller i en del dis‐
+kussioner. Vi er meget, meget tæt på forhåbentlig målstregen nu. For
+hver dag, der går, bliver stadig flere danskere vaccineret, og årstiden
+hjælper os. Så vi er meget, meget tæt på efterhånden, heldigvis.";Mette Frederiksen
+58253;Time;;Kl. 13:52
+58288;title_name;":
+Hr. Søren Pape Poulsen, det er slut med spørgetiden her, men vi
+skulle lige have sprittet lidt af.
+Så er det fru Pernille Vermund, Nye Borgerlige. Værsgo.";Henrik Dam Kristensen
+58454;Time;Spm. nr. US 63;Kl. 13:52
+58492;name_party;":
+Tak. Sidst vi stod her, spurgte jeg statsministeren til en dom over
+to udlændinge, som i Københavns Byret stod anklaget for 794 krimi‐
+nelle forhold, herunder en voldtægt af en kun 14-årig pige, som de
+to udlændinge forbrød sig på på skift, imens de endda filmede det,
+og de to udlændinge blev som bekendt ikke udvist. Jeg forstod på
+svaret, at statsministeren overordnet set var enig i, at udlændinge,
+der begår grov kriminalitet, som voldtægt af en mindreårig jo må
+siges at være, ikke skal være her i landet. Men jeg syntes ikke, jeg
+fik et klart svar på, hvad statsministeren så vil gøre ved det, og
+derfor sendte jeg jo et brev til statsministeren den 28. april, altså
+
+10
+
+Tirsdag den 11. maj 2021 (US 63)
+
+dagen efter spørgetimen, hvor jeg ret præcist stillede de spørgsmål,
+som jeg uden sådan det store held forsøgte at få et svar på i spørge‐
+timen. Brevet med spørgsmålene blev jo sendt af mig, men med
+mange tusind bekymrede danskere som medunderskrivere, og der er
+nu gået 2 uger, og jeg har desværre ikke fået et svar. Jeg går ud fra,
+at statsministeren dog trods alt nu er bekendt med spørgsmålene og
+også vil være i stand til at svare mere klart i dag end for 2 uger
+siden, så lad mig stille spørgsmålene igen, og jeg skal pointere, at
+det ikke er den konkrete sag, jeg beder statsministeren forholde sig
+til, at det ikke er den aktuelle sag, men at det er det principielle
+og de generelle aspekter, som jeg ønsker at kende statsministerens
+holdning til.
+1) Ønsker statsministeren at forsvare den nuværende retstilstand,
+hvor to udlændinge, der voldtager en 14-årig pige, får lov til at blive
+i Danmark? 2) Hvis svaret er nej, hvad vil statsministeren konkret
+ændre i lovgivningen for at sikre, at danske domstole dømmer til
+udvisning i sager som den her? Og 3) Hvad vil statsministeren
+gøre for at sikre, at det er Folketinget, der beslutter, hvilke krimi‐
+nelle handlinger der skal føre til udvisning fra Danmark, og at vi
+hverken forhindres af Menneskerettighedsdomstolen, EU-retten eller
+EU-Domstolen?";Pernille Vermund
+60525;Time;;Kl. 13:54
+60560;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+60588;Time;;Kl. 13:54
+60625;title_name;":
+I forhold til den konkrete sag, og jeg forstår, at man ønsker en
+mere generel drøftelse, har jeg nemlig forstået det sådan, at anklage‐
+myndigheden har anket sagen, og at den jo nu derfor ligger ved
+domstolene. På det mere generelle plan, altså i forhold til spørgsmål
+1, mener jeg, at man skal udvises af Danmark, hvis man voldtager en
+14-årig. Så der er svaret ja, og det mener jeg absolut man skal. Jeg
+mener, at man ved den handling og den grusomme forbrydelse det
+er at voldtage et barn – en voldtægt er under alle omstændigheder
+slemt, men at der er tale om et barn, gør det kun tifold værre –
+så intet har at gøre i Danmark mere, og det er ligegyldigt, hvilken
+tilknytning man har, og om man selv måtte have børn her, er man
+i øvrigt under alle omstændigheder også diskvalificeret i forhold til
+at være forældre for de børn, hvis man voldtager et barn. Så ja, jeg
+mener, at man skal udvises.
+Jeg er blevet klogere på det her spørgsmål, siden det blev rejst
+sidst, og jeg forstår, at der så gælder noget særligt, hvis der er tale
+om EU-borgere, og det kræver jo så, at vi får løftet det her på
+europæisk plan. For det, at vi har fri bevægelighed i EU, skal jo altså
+ikke bruges til at begå kriminalitet, og det skal slet ikke bruges til, at
+man voldtager en 14-årig. Derfor er det jo så på europæisk plan, vi
+skal se om ikke vi kan få strammet de her regler.";Mette Frederiksen
+62001;Time;;Kl. 13:55
+62036;title_name;":
+Fru Pernille Vermund, værsgo.";Henrik Dam Kristensen
+62077;Time;;Kl. 13:55
+62100;name_party;":
+Jamen det er jo et reelt dilemma. Altså, dilemmaet består jo i, at
+statsministeren formentlig ligesom jeg og stort set alle andre i vores
+samfund er dybt fortørnede over, at det her kan ske, altså at man
+kan voldtage en 14-årig pige og være udenlandsk statsborger, og
+at det så ikke får den konsekvens, at man selvfølgelig bliver sendt
+tilbage til sit hjemland. På den anden side står der jo, at man har
+en aftale, som er indgået med andre europæiske lande. Personligt
+kæmper jeg for, at danskerne kan vælge politikere, som bestemmer
+reglerne i vores eget land. Det er os her i Folketinget, som sætter
+
+rammerne for, hvordan vi skal kunne leve sammen, og det er for
+mig kernen i folkestyret. Men konkret er det jo sådan, at man i 2004
+har vedtaget og indført EU's opholdsdirektiv, og jeg ved godt, at det
+skete under en Venstreledet regering med DF som støtteparti, men
+Socialdemokratiet stemte jo dengang også for.
+Så spørgsmålet er: Vil statsministeren erkende den fejl og ændre
+på lovgivningen, så vi fremover kan udvise dem, der voldtager min‐
+dreårige piger i Danmark?";Pernille Vermund
+63185;Time;;Kl. 13:57
+63220;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+63248;Time;;Kl. 13:57
+63285;title_name;":
+Hvis vi tager opholdsdirektivet først, har idéen med det jo aldrig
+været, at det skulle bruges til at voldtage, og derfor må det jo også
+være muligt at søge at få ændret opholdsdirektivet, så det ikke kan
+bruges til, at man begår så alvorlig kriminalitet i andre lande, uden
+at det har konsekvenser, og uden at det har en betydning. Jeg er
+tilhænger af, at vi europæere kan bevæge os rundt, at vi kan tage
+arbejde, at vi kan studere, at vi kan knytte familiebånd og rejse, og
+hvad vi ellers i øvrigt gør med hinanden, som tjener os alle sammen
+til det bedste, men selvfølgelig skal det ikke bruges til at begå
+alvorlig kriminalitet, ligesom det i øvrigt heller ikke skal bruges til
+at underminere vores arbejdsmarkeder, ligesom det heller ikke skal
+bruges til – vi har jo også haft diskussionen i Danmark omkring det
+– kriminalitet i forbindelse med tiggeri, hvilket så pludselig ramte
+danske hjemløse, som aldrig har gjort andet end at ligge på gaden,
+hvad de jo så i øvrigt heller ikke burde, men det er en anden diskus‐
+sion. Så et opholdsdirektiv må det jo altså være muligt for os at søge
+at forandre, sådan at det ikke kan bruges til at begå kriminalitet.";Mette Frederiksen
+64458;Time;;Kl. 13:58
+64493;title_name;":
+Fru Pernille Vermund for det sidste spørgsmål. Værsgo.";Henrik Dam Kristensen
+64559;Time;;Kl. 13:58
+64582;name_party;":
+En løsning, hvor man med alle andre EU-lande skal finde en vej
+frem lyder sådan umiddelbart som en lidt langhåret proces, som
+formentlig ikke hjælper de piger, der her bliver ramt, men lad det nu
+ligge.
+Jeg vil sige, at alle de her kriminelle udlændinge, som den nuvæ‐
+rende regering og som tidligere regeringer har lukket ind i vores
+land, jo mildest talt er en reel hovedpine for vores samfund. 143
+udenlandske voldtægtsforbrydere er siden 2015 blevet dømt til ud‐
+visning, og kun 22 af dem er registreret udsendt af Danmark – 22 ud
+af 143. Det fremgår af et svar, som jeg har fået fra justitsministeren.
+Så når voldtægtsforbryderne endelig bliver dømt til udvisning, bliver
+de fleste alligevel hængende, parate til nye eventyr i Danmark, om
+man så må sige, og mit spørgsmål her er altså toleddet:
+Det ene er, om det er rimeligt over for ofrene, at domstolene
+dømmer til udvisning, men at regeringen ikke sørger for, at domme‐
+ne bliver fuldbyrdet. Hvis svaret er ja, så lad os lade den ligge der,
+men hvis svaret er nej – og det håber jeg at det er – vil jeg som det
+andet gerne høre, om statsministeren vil være med på at afsondre
+disse udenlandske voldtægtsforbrydere, så der ikke er gener for det
+omgivende samfund, eventuelt et sted, hvor der kun er én dør ud, og
+det er døren ud af landet.";Pernille Vermund
+65891;Time;;Kl. 13:59
+65926;title_name;":
+Statsministeren.
+
+Tirsdag den 11. maj 2021 (US 64)";Henrik Dam Kristensen
+65990;Time;;Kl. 14:02
+66001;Time;;Kl. 13:59
+66038;title_name;":
+Altså, hvis man ved dom udvises af Danmark, skal man jo forlade
+Danmark, og det skal vi gøre alt, hvad vi kan for at sikre sker.
+Jeg er faktisk ikke helt bekendt med, hvad Nye Borgerlige egentlig
+mener om EU, altså om vi skal melde os ud af det europæiske
+samarbejde, og hvis man mener det, er vi jo grundlæggende uenige.
+For EU-samarbejdet giver selvfølgelig udfordringer, men samlet set
+giver det en langt større værdi, ikke bare for Danmark, men for
+Europa, at vi har et fælles politisk samarbejde, og det vil jeg slås for,
+og det tror jeg at jeg vil gøre altid. Den eneste fredelige tid, der har
+været i Europa, er, mens vi har arbejdet sammen på kryds og tværs
+af grænserne, som vi gør det nu. Så nej, jeg ønsker ikke at opsige
+EU-samarbejdet. Jeg ønsker at forandre EU-samarbejdet indefra, og
+det gælder eksempelvis opholdsdirektivet.";Mette Frederiksen
+66890;Time;;Kl. 14:00
+66925;title_name;":
+Tak til fru Pernille Vermund. Der er ikke flere spørgsmål. Vi skal
+lige have gjort lidt rent.
+Så er det hr. Alex Vanopslagh, Liberal Alliance. Værsgo.";Henrik Dam Kristensen
+67087;Time;Spm. nr. US 64;Kl. 14:00
+67140;title_name;":
+Skal vi nu ikke lade være med at smide den der tendens til sådan
+lidt halv-fake news ind i Folketingssalen. Jeg har ikke på noget tids‐
+punkt sagt, at der ville være bestemte restriktioner på noget bestemt
+tidspunkt. Det har jeg ikke på noget som helst tidspunkt sagt. Jeg
+glæder mig til den dag, hvor den sidste restriktion er væk. Der er
+nærmest ikke noget, jeg glæder mig mere til end det.
+Så det er ikke rigtigt, når der bliver sagt, at jeg har sagt, der ville
+være restriktioner, når alle er blevet vaccineret. Det har jeg ikke sagt
+noget som helst om.
+Det, jeg har sagt omkring restriktioner, som vi i øvrigt hele tiden
+udfaser, og som der heldigvis bliver færre og færre af, er, at vi har
+dem på det tidspunkt, hvor de er nødvendige at have. Det kan man
+da ikke oversætte til at citere mig for at have sagt, at der vil være
+nogle givne restriktioner på et givent tidspunkt. For de restriktioner,
+vi har i Danmark, har vi for at have styr på epidemien dér, hvor
+epidemien måtte være. Så nej, det er ikke rigtigt, hvad der bliver
+sagt.";Mette Frederiksen
+68192;Time;;Kl. 14:03
+68227;title_name;":
+Hr. Alex Vanopslagh.";Henrik Dam Kristensen
+68259;Time;;Kl. 14:03
+68281;name_party;":
+Tak for det. Det er jo ikke nogen hemmelighed, at statsministeren
+og jeg ser lidt forskelligt på, hvor mange og hvilke restriktioner vi
+skal have i landet i den kommende tid, og måske i særdeleshed på,
+hvornår de sidste restriktioner skal ophæves. Jeg har i hvert fald
+den klare holdning, at når alle sårbare grupper og alle over 50 er
+vaccineret, så er det svært at retfærdiggøre yderligere restriktioner,
+også selv om os unge frejdige mennesker under 50 kan risikere at
+få corona, fordi vi ikke har fået en vaccine. Og jeg synes, det er
+særlig svært at retfærdiggøre restriktioner i den situation, der er nu,
+hvor vi jo næsten har fået sundhedsmyndighedernes ord for, at en
+coronainfektion ikke er så farlig for den yngre del af befolkningen.
+Det må være den logiske konklusion, når sundhedsmyndigheder‐
+ne har besluttet og konstateret, at Johnson&Johnson-vaccinen er far‐
+ligere end det at få en coronavirus, også selv om Johnson&Johnsonvaccinen ikke har vist sig at have alvorlig komplikationer, og kun
+har det hos en ud af 83.000 kvinder. Så kan man ikke sige, det er en
+farlig vaccine, men ifølge myndighederne er det altså farligere at få
+den her vaccine, end det er at få corona, om ikke andet for de yngre
+dele af befolkningen. Og så synes jeg, det er svært at retfærdiggøre,
+at noget skal være lukket og der skal være mange restriktioner, når
+alle over 50 og alle de sårbare grupper er vaccineret. Og der ser vi jo
+meget forskelligt på tingene.
+Statsministeren har tidligere sagt til hr. Jakob Ellemann-Jensen
+i dag, at selv når alle danskere er vaccineret, vil der være nogle
+restriktioner i Danmark. Der vil være få restriktioner, men der vil
+være nogle. Og det synes jeg er helt vildt - for at sige det ligeud. Jeg
+vil gerne høre: Hvad er det for nogle restriktioner, statsministeren ser
+for sig, når alle danskere er vaccineret mod coronavirus – eller alle
+dem, der har lyst til det? Og hvilke betingelser skal egentlig være
+indfriet, for at man kan ophæve de sidste restriktioner?";Alex Vanopslagh
+70288;Time;;Kl. 14:02
+70323;title_name;":
+Statsministeren.
+
+11";Henrik Dam Kristensen
+70367;name_party;":
+Det er da fuldstændig rigtigt, at statsministeren ikke har sagt, hvilke
+bestemte restriktioner der vil være, når alle danskere er vaccineret.
+Men da hr. Jakob Ellemann-Jensen tidligere i dag spurgte, om man
+vil garantere, at alle restriktioner er ophævet, når alle danskere er
+vaccineret, så var statsministerens svar, at der ville være ganske få
+restriktioner, når alle danskere er vaccineret. Det var statsministerens
+svar. Og så er mit spørgsmål bare: Hvilke restriktioner er det, stats‐
+ministeren forestiller sig, når alle danskere er vaccineret? Og hvilke
+betingelser skal være opfyldt for, at vi kan fjerne alle restriktioner
+– i forhold til at man kan give den garanti? Og der har jeg forstået,
+at man ikke kan sige hvornår, men så kan man i det mindste snakke
+om, hvilke betingelser der skal være opfyldt. Men det kunne selvføl‐
+gelig også være, at svaret er, at vi ophæver alle restriktioner, når alle
+er vaccineret – og så er det jo det, som vi ønsker et klart svar på.";Alex Vanopslagh
+71359;Time;;Kl. 14:03
+71394;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+71422;Time;;Kl. 14:03
+71459;title_name;":
+Men det er jo heller ikke rigtigt. Jeg har ikke sagt, at der er restrikti‐
+oner, når alle folk er vaccineret. Det, jeg siger, er, at de restriktioner,
+vi måtte have behov for som samfund på et givent tidspunkt, mener
+jeg vi skal have for at have styr på epidemien. Og det siger jo sig
+selv, at jo flere der bliver vaccineret, jo færre restriktioner skal vi
+have. Det er klart, og det er vi i fuld gang med, og meget tyder jo på
+– nu er det jo primært Israel og UK, vi kan læne os op ad som lande,
+der har gode vaccineerfaringer – at vaccinen virker, og den virker
+endda rigtig godt. Den virker godt i forhold til dødelighed, den
+virker godt – i hvert fald Pfizer-BioNTech – i forhold til mutationer.
+Så vaccinerne virker, og i og med at meget tyder på, at vi i Danmark
+får en fantastisk høj vaccinedækning, så føler jeg mig efterhånden
+mere og mere sikker på, at det normale Danmark, og det vil sige et
+Danmark uden en masse restriktioner, er inden for rækkevidde. Og
+det er inden for rækkevidde på en måde, som vi ikke har set igennem
+de seneste par måneder, heldigvis.
+
+12
+
+Tirsdag den 11. maj 2021 (US 65)";Mette Frederiksen
+72581;Time;;Kl. 14:04
+72616;title_name;":
+Hr. Alex Vanopslagh, sidste spørgsmål.";Henrik Dam Kristensen
+72666;Time;;Kl. 14:04
+72688;name_party;":
+Jeg synes i hvert fald, det er svært at få den her garanti for, at alle
+restriktioner bliver ophævet, og hvornår det kan ske. Men noget, der
+i hvert fald er en garanti for, er, at der vil være en masse bureaukrati
+i den offentlige sektor, også i takt med at vi får genåbnet samfundet
+helt. Og der skete jo faktisk noget interessant under nedlukningen
+sidste år.
+Der var en masse læger og sygeplejersker ude og sige, at de
+faktisk havde fået bedre arbejdsvilkår: de havde fået nemmere ved
+at løse opgaverne, fordi en række mellemledere og med dem bureau‐
+kratiske processer var hjemsendt. Og det gav mig på det tidspunkt,
+for 1 år siden, den idé, at vi som en slags forsøg skulle sige, at
+vi i samarbejde med læger og sygeplejersker identificerer alt det
+bureaukrati, som er overflødigt i sundhedsvæsenet, og så suspende‐
+rer vi det 1 år frem. Og hvis det er sådan, at sygeplejerskerne og
+lægerne savner det meningsløse papirarbejde, og hvis patienterne
+måske ligefrem også savner det, så kunne vi altid genindføre det
+bureaukrati. Og det foreslog jeg statsminister, faktisk for præcis 1 år
+siden
+Der sagde statsministeren, at det ikke var så dum en idé – og
+det er jo store ord fra statsministeren, når det kommer til vores
+respektive partier. Der er jo ikke sket så meget siden sidste år, ud
+over, tror jeg, at bureaukratiet og mellemlederne er vendt tilbage til
+sygehusene. Og der vil jeg egentlig bare i al beskedenhed høre:
+Skal vi ikke få gjort noget ved det? Skal vi ikke som et forsøg
+sige: Prøv i 4 års tid af afbureaukratisere den offentlige sektor. Det
+er ikke lykkedes, og måske skulle man bare gå drastisk til værks og
+sige: Nu suspenderer vi det et helt år, og så ser vi, hvad der sker –
+selvfølgelig ikke alt bureaukrati, men det meste.
+
+Spm. nr. US 65";Alex Vanopslagh
+74475;name_party;":
+Tak, formand. Jeg vil drøfte noget med statsministeren, som har
+bekymret os meget i Alternativet, siden vi blev bekendt med det
+her for et stykke tid siden. Det handler om landbruget, nemlig om,
+at vores landbrug i nogen grad er ved at blive solgt til udlandet. I
+2015 blev landbrugsloven liberaliseret, og det betyder, at udenland‐
+ske investorer har opkøbt dansk jord, og fra 2015-2018 er 2½ pct.
+af det danske landbrug blevet solgt. Det areal svarer til to gange
+Storkøbenhavn. Jorden er bl.a. blevet købt af 300 udenlandske virk‐
+somheder. Siden 2018 er der ikke nogen, der ved, hvor meget dansk
+landbrugsjord der yderligere er blevet solgt, men der er flere og flere
+steder rundtomkring i Danmark, hvor vi hører at store arealer af
+dansk landbrugsjord bliver solgt til udlandet.
+Jeg besøgte selv Sønderjylland her i weekenden, hvor der var
+bølgende marker, så langt øjet rakte – men de var tyskejet, fordi
+tyske kapitalinteresser havde opkøbt dem. Lokalbefolkningen ople‐
+vede, at det var svært at komme i kontakt med ejeren af deres
+nabojorde. De har oplevede f.eks., at de levende hegn mellem mar‐
+kerne, som jo er vigtige bosteder for f.eks. rødlistede arter, at hans
+forsvandt, efterhånden som de udenlandske investorer lagde deres
+marker sammen.
+Så vi har altså åbnet en mulighed for, at udenlandske kapitalinte‐
+resser kan købe ubegrænsede mængder af dansk landbrugsjord. Vi
+ved, at den danske landmand i gennemsnit er 57 år gammel, så land‐
+bruget står over for et stort generationsskifte. Og vi ved, at globale
+kapitalfonde jo selvfølgelig leder efter investeringer, der gør, at de
+kan undgå at betale negative renter. Hvad tænker statsministeren om,
+at vi i de kommende år risikerer, at udenlandske kapitalinteresser
+faktisk opkøber store dele af dansk landbrug, altså reelt store dele
+af Danmark? Statsministeren har jo mange gange sagt, at vi er et
+landbrugsland. Men hvordan kan Danmark være et landbrugsland,
+hvis vi faktisk sælger vores jord?";Torsten Gejl
+76448;Time;;Kl. 14:09
+76459;Time;;Kl. 14:06
+76494;title_name;":
+Statsminister.";Henrik Dam Kristensen
+76545;title_name;":
+Socialministeren.";Henrik Dam Kristensen
+76575;Time;;Kl. 14:09
+76586;Time;;Kl. 14:06
+76623;title_name;":
+Jo, der er jo sket noget siden. Vi har godt nok ikke kunnet følges
+ad hele vejen, men Folketinget har besluttet sig for, at man i syv
+kommuner, på de respektive velfærdsområder, skal have lov til at be‐
+gynde forfra. Jeg har lige haft lejlighed til at besøge Leon Sebbelin
+og dermed Rebild Kommune, og efterfølgende Middelfart Kommu‐
+ne – på ældreområdet – og Viborg Kommune, også på ældreområdet.
+Og der er man nu i fuld gang med at starte forfra. Og jeg tror, det er
+noget af det her, der skal til.
+For jeg er fortsat fuldstændig enig med hr. Alex Vanopslagh, at vi
+her i Folketinget snakker og snakker om det her. Og når det kommer
+til stykket, tør vi ikke, fordi vi har så stort et behov for at være i
+kontrol og styre alting ned i mindste detalje.
+Jeg håber, at de syv kommuner kommer til at vise os, at man
+både får en bedre ældrepleje med mere værdighed, at du får et
+stærkere børneområde med flere muligheder, og at man får en mere
+interessant skole af at lade os politikere træde et skridt tilbage og
+lade forældre, børn, pårørende og medarbejdere være dem, der sætter
+farten.";Mette Frederiksen
+77720;Time;;Kl. 14:07
+77755;title_name;":
+Tak for det. Og så er det hr. Torsten Gejl, Alternativet. Værsgo.";Henrik Dam Kristensen
+77832;Time;;Kl. 14:07
+77869;title_name;":
+Det synes jeg faktisk er et utrolig godt spørgsmål. Og det er rigtigt
+– jeg tror, at det er sådan, at det er cirka 2½ pct. nu, som er opkøbt
+udefra. Jeg forstår også, at Alternativet har fremsat et beslutningsfor‐
+slag omkring det her. Og landbrugsforhandlingerne er godt i gang,
+så jeg vil egentlig foreslå, at vi tager det her spørgsmål med ind i
+forhandlingerne, for selvfølgelig er det helt relevant at kigge på.
+Om det er nogen stor udfordring i dag, tør jeg ikke sige, men
+jeg tror da, at det kan være rigtigt, at hvis der bliver opkøbt meget
+store arealer, så er det jo ikke sikkert, at de folk, der opkøber dem,
+har den samme interesse, som Folketinget eksempelvis har, i en
+70-procentsmålsætning – eller i det hele taget en interesse i at sikre,
+at vi har et land, som afspejler vores godnatsange til vores børn, hvor
+der i næsten dem alle sammen indgår et dyr, som lever i det åbne
+land i Danmark, og som vi har for få af. Så jeg synes faktisk, at
+problemstillingen er relevant.";Mette Frederiksen
+78869;Time;;Kl. 14:10
+78904;title_name;":
+Ordføreren.";Henrik Dam Kristensen
+78927;Time;;Kl. 14:10
+78947;name_party;":
+Altså, jeg er utrolig glad for statsministerens respons i forhold til det
+her, og i forhold til at vi kan tage det med ind til forhandlingerne
+
+Tirsdag den 11. maj 2021 (US 66)
+
+og se på det dér. Jeg vil også henlede opmærksomheden lidt på, at
+når det er sådan, at vores land bliver solgt i rimelig store klumper
+til store investorer, kan det også være svært for de her kommende
+generationer af unge danske landmænd og -kvinder – forhåbentlig
+økologiske – at overtage landet, fordi de er i konkurrence med store
+udenlandske investorer.
+Så tak for den respons. Og jeg håber, at ministeren også vil være
+med til at sikre, at vi måske på en eller anden måde kan finde ud af
+at stoppe det tempo, hvormed Danmark bliver solgt.";Torsten Gejl
+79681;Time;;Kl. 14:11
+79716;title_name;":
+Statsminister.";Henrik Dam Kristensen
+79742;Time;;Kl. 14:11
+79779;title_name;":
+Ja, i forvejen er det jo ganske svært med det generationsskifte i
+dansk landbrug. Og jeg synes, at det, man hører, når man taler
+med landbruget, jo er, at det er ret umuligt for sådan en ung mand
+eller kvinde eller et ægtepar, der gerne vil ind at være landmand,
+overhovedet at rejse kapital til at kunne komme ind i dag. Så vi har
+udfordringer her. I det hele taget synes jeg jo, at vi skal have et
+kritisk øje på det, når der skal opkøbes udefra.
+Nu står vi her midt i hovedstaden. Det er jo en hovedstad, hvor
+vi plejer at bryste os af at almindelige mennesker har råd til at bo
+– det bliver stadig sværere – men hvor vi i øvrigt endnu kan glæde
+os over at have en bymidte, hvor der er lys i vinduerne om aftenen,
+fordi der faktisk bor mennesker. Kigger man til andre hovedstæder,
+vil man jo kunne se den dér tendens til, at lyset er slukket mange
+steder, fordi det er meget rige folk udefra, der så køber en lejlighed i
+Berlin eller London eller et tredje sted, og så er man måske dér fire
+gange om året. Sådan ønsker jeg ikke at det skal være i København.
+Jeg ønsker, at vi har et København, hvor mennesker bor og lever,
+og hvor det ikke er rige folk udefra, hvad enten det er danskere, der
+bor andre steder, eller ikkedanskere, der så opkøber lejligheder, som
+ikke bliver brugt, men som også er med til at presse priserne op. Så
+måske skulle vi både have et fokus på landet og på byen.";Mette Frederiksen
+81182;Time;;Kl. 14:12
+81217;title_name;":
+Hr. Torsten Gejl, et sidste spørgsmål, værsgo.";Henrik Dam Kristensen
+81275;Time;;Kl. 14:12
+81295;name_party;":
+Jamen Alternativet deler bestemt de håb og de visioner.
+Det sidste spørgsmål er fra et medlem. Vi har jo altid et medlems‐
+spørgsmål, og her er det fra Jens Harder Vingaard Larsen, som kort
+spørger:
+Vil statsministeren være med til at skabe mere gennemsigtighed
+i dansk politik og regulere anonyme donationer og erhvervsklubber,
+så danskerne bedre kan følge med i, hvem der finansierer de forskel‐
+lige partier?";Torsten Gejl
+81718;Time;;Kl. 14:12
+81753;title_name;":
+Statsminister.";Henrik Dam Kristensen
+81779;Time;;Kl. 14:12
+81816;title_name;":
+Jamen altså, jeg synes sådan set, at vi har udmærkede regler i for‐
+hold til partistøtte i Danmark. Og min oplevelse er helt generelt, at vi
+er et land med stor gennemsigtighed og med det, der jo helt objektivt
+er en meget, meget lav grad af både nepotisme og korruption. Så jeg
+går ikke rundt med en oplevelse af, at vi har problemer i partierne,
+hvad det her angår. Men altså, selvfølgelig kan vi jo altid diskutere
+
+13
+
+partistøttereglerne. Men altså, vi har et meget, meget velfungerende
+dansk demokrati, og det skal vi selvfølgelig på alle mulige måder
+holde fast i at have.";Mette Frederiksen
+82407;Time;;Kl. 14:13
+82442;title_name;":
+Tak til hr. Torsten Gejl. Efter lidt rengøring er det hr. Jens Rohde,
+Kristendemokraterne. Værsgo.";Henrik Dam Kristensen
+82552;Time;Spm. nr. US 66;Kl. 14:13
+82584;name_party;":
+For godt og vel 20 år siden fik Socialdemokratiet en medieordfører
+ind i Folketinget, som både var overmåde engageret at gå op imod i
+Venstres politiske medieordfører, men som også var meget engageret
+i, at vi skulle styrke public service, at vi saftsuseme skulle investere
+i vores lokale og regionale dagblade, og at vi for alt i verden måtte
+sørge for at lave et meget stærkt armslængdeprincip over for den
+politiske indblanding, der var ved at komme ind.
+I næste uge fremlægger Kristendemokraterne et stort medieud‐
+spil, som endelig gør noget og opfylder nogle af denne medieordfø‐
+rers visioner for medieområdet og hjælper lidt på vej. Vi kommer
+med massive investeringer på medieområdet – vi ønsker at fordoble
+medietilskuddet i det her land, fordi vi har en demokratisk infra‐
+struktur, vi skal have genopbygget. Hvordan finansierer vi det? Det
+gør vi ved at etablere en særlig medieskat, fordi vi ønsker, at der
+skal være et folkeligt ejerskab til vores demokratiske infrastruktur.
+Så etablerer vi armslængdeprincip, og så ønsker vi selvfølgelig at
+styrke vores lokale og regionale blade, fordi vi skal have gjort noget
+ved de nyhedsørkener, som er ved at opstå, og så skal vi selvfølgelig
+have nogle stærke public service-stationer, også regionale.
+Jeg kunne egentlig godt tænke mig at høre, hvad statsministeren
+tænker om det.";Jens Rohde
+83932;Time;;Kl. 14:15
+83967;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+83995;Time;;Kl. 14:15
+84032;title_name;":
+Så kom vi lige ned ad memory lane. Det er snart 20 år siden –
+dengang var der et bord her midt i Folketingssalen, hvor den davæ‐
+rende ordfører for Venstre og den daværende ordfører for Socialde‐
+mokratiet krydsede klinger ganske mange sene aftener og nattetimer
+i meget, meget lange diskussioner.
+Jeg tror sådan set ikke, vi er så uenige på det område – dog
+måske nok med hensyn til hvor mange penge vi har råd til at bruge
+på det her og nu, for der er mange andre opgaver. Men idéen om
+at styrke danskproduceret public service deler vi. Det ligger i øvrigt
+også til grund for forståelsespapiret, og det behov er jo ikke blevet
+mindre igennem den senere tid.
+Jeg synes i øvrigt, det er rigtigt og have et stærkt fokus på den
+lokale og regionale presse, som jeg oplever ofte er til stede i forbin‐
+delse med nogle problemstillinger, der vedrører mange mennesker,
+og som det en gang imellem kan være svært at se afspejlet i hvert
+fald i nogle af de nationale medier. Derudover er der så kommet
+en helt ny problemstilling – den var der ikke for de knap 20 år
+siden – i forbindelse med streamingtjenesterne, techgiganterne, som
+både udfordrer rettighedshaverne, men som jo også er med til, synes
+jeg, på nogle områder at underminere vores demokratiske samtale
+med algoritmer og viderebringelse af fake news og uden et redaktør‐
+ansvar. Så jeg synes i virkeligheden kun, at mediediskussionen er
+blevet endnu mere relevant, end den var for knap 20 år siden.
+
+14
+
+Tirsdag den 11. maj 2021 (FM )";Mette Frederiksen
+85534;Time;;Kl. 14:16
+85569;title_name;":
+Hr. Jens Rohde.";Henrik Dam Kristensen
+85596;Time;;Kl. 14:16
+85613;name_party;":
+Det er dejligt at høre, at statsministeren synes det. Så kunne jeg så
+bare godt tænke mig et lidt større engagement fra regeringens side i
+sagen. Hvad angår techgiganterne, kommer vi også med forslag til,
+hvordan man kunne regulere nogle af de problemstillinger, som det
+jo er åbenlyst vi står over for, og som statsministeren også nævner.
+Den 24. januar 2020 skrev kulturministeren en kronik om, at
+danske medier er ved at forberede sig til de udfordringer, som både
+er, og som kommer, og nu er det på tide, at politikerne går ind og
+blander sig og bliver en del af løsningen. Siden har vi ikke hørt
+noget fra regeringens side. Hvornår kommer det medieudspil fra
+regeringens side, som en del af os i hvert fald længe har ventet på?
+Jeg kan se, at hr. Søren Søndergaard fra Enhedslisten sidder dernede,
+og vi har jo presset på i lang tid, og hvornår bliver der indkaldt til
+forhandlinger? Lige i øjeblikket fosser pengene ud af navnlig de her
+lokale og regionale medier, og over de seneste år er 25 pct. af dem
+blevet nedlagt. Er det ikke tid at handle?";Jens Rohde
+86678;Time;;Kl. 14:17
+86713;title_name;":
+Statsministeren.
+
+Derfor er der behov for, at vi handler hurtigt, og det har der været
+længe.
+Så endnu en gang: Hvornår bliver de forhandlinger startet op,
+og hvornår kan vi forvente at der kommer et regeringsudspil? Nu
+kommer vi med vores her i næste uge, og jeg håber, at regeringen vil
+lade sig inspirere til også at komme lidt ud af starthullerne.";Henrik Dam Kristensen
+87076;Time;;Kl. 14:20
+87111;title_name;":
+Statsministeren.";Henrik Dam Kristensen
+87139;Time;;Kl. 14:20
+87176;title_name;":
+Jamen jeg kommer altså ikke til at dukke nakken, når jeg siger, at vi
+selvfølgelig er blevet forsinket i noget af vores arbejde på grund af
+pandemien. Den har krævet et utrolig stort tilstedevær, og heldigvis,
+skulle jeg til at sige, har vi udfyldt den rolle så godt, som vi som
+regering overhovedet har kunnet. Så selvfølgelig er der ting, der vil
+være forsinket.
+Som jeg sagde før, kommer jeg altså ikke til at dukke nakken, for
+når der er en pandemi af den her karakter, er det det, der skal være
+det primære fokus som regering. Nu er vi på vej ud af den kritiske
+fase, og det betyder også, at der begynder at være luft til mange
+flere andre politiske projekter, herunder medieforhandlingerne, som
+vi altså forventer at gå i gang med i indeværende år.";Mette Frederiksen
+87942;Time;;Kl. 14:20
+87953;Time;;Kl. 14:17
+87990;title_name;":
+Jeg kan sige, at jeg faktisk lige for nylig har haft et møde med de tre
+partiledere fra Det Radikale Venstre, SF og Enhedslisten i forhold til
+sociale medier og techgiganter, og der er en bred enighed om, at det
+her er et arbejde, vi skal have opprioriteret og sat i gang. Det har jo
+rigtig mange dimensioner i sig. Foruden det rent mediemæssige har
+vi også det problem, at der ikke betales den skat, der skal betales,
+at der viderebringes oplysninger, som ikke er rigtige, at det kan
+bruges til ikke alene at forplumre debatten, men også at ødelægge
+eksempelvis demokratiske valghandlinger med trollhære og andre
+ting. Så der er en masse problemer her. Og så tror jeg også, vi må
+sige, at den måde, sociale medier bruges på, også i den politiske
+debat, jo i vidt omfang er med til at polarisere og splitte os ad i
+stedet for at samle os i det, der er den danske tradition, nemlig at vi
+taler med hinanden. Så det er et arbejde, som vi sætter i gang snart.
+Så er det helt rigtigt, at vi ikke har nået alt det, vi gerne ville, i
+det forgangne år, og det er jo ganske enkelt, fordi vi har været meget
+optaget af at løse krisen, men et medieforlig skal vi i gang med at
+forhandle, og det skal vi i gang med i år.";Mette Frederiksen
+89211;Time;;Kl. 14:19
+89246;title_name;":
+Så er det Jens Rohde med det sidste spørgsmål. Værsgo.";Henrik Dam Kristensen
+89312;Time;;Kl. 14:19
+89329;name_party;":
+Det sagde I også sidste år. Kulturministeren har jo lovet det adskilli‐
+ge gange. Det er sådan hvert halve år, så kommer det: Nu, i det her
+halvår skal vi i gang med at forhandle medier. Problemet er jo, at de
+her problemstillinger, som statsministeren nævner, jo absolut ikke er
+nye, og det bliver kun værre og værre med journaliststanden, altså
+ikke journalisterne som sådan, men altså antallet af journalistiske
+stillinger og antallet af journalistisk arbejde ude i det åbne land,
+når landet sander til i de her nyhedsørkener – det har Syddansk
+Universitet jo påvist i en rapport – og når økonomien forsvinder.";Jens Rohde
+89979;title_name;":
+Tak for det. Spørgetimen er slut.
+Jeg skal hermed udsætte mødet til kl. 14.35. Jeg skal bede medlem‐
+merne om at forlade salen, så vi kan få rengjort, for kl. 14.35 vil der
+være afstemninger.
+Mødet er udsat. (Kl. 14:21).";Henrik Dam Kristensen
+90212;Time;Meddelelser fra formanden;Kl. 14:35
+90273;title_name;":
+Mødet er genoptaget.
+I dag er der følgende anmeldelser:
+Statsministeren (Mette Frederiksen) har meddelt mig, at hun ønsker
+i henhold til forretningsordenens § 19, stk. 4, at give Folketinget en
+skriftlig
+Redegørelse om rigsfællesskabet 2021.
+(Redegørelse nr. R 17).
+Eksemplarer vil blive omdelt, og redegørelsen vil fremgå af
+www.folketingstidende.dk.
+Redegørelsen vil komme til forhandling tirsdag den 18. maj
+2021.
+Medlemmer af Folketinget Sikandar Siddique (UFG), Uffe Elbæk
+(UFG) og Susanne Zimmer (UFG) har meddelt mig, at de ønsker at
+tage følgende forslag tilbage:
+Forslag til folketingsbeslutning om at fjerne lønefterslæbet for kvin‐
+dedominerede fag i den offentlige sektor.
+(Beslutningsforslag nr. 243).
+
+Tirsdag den 11. maj 2021 (L 218)
+
+Ønsker nogen at optage dette beslutningsforslag?
+Da det ikke er tilfældet, er forslaget bortfaldet.
+
+15
+
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.";Henrik Dam Kristensen
+91218;Time;"Afstemning
+Det næste punkt på dagsordenen er:
+2) 2. behandling af lovforslag nr. L 218:
+Forslag til lov om ændring af lov om arbejdsløshedsforsikring
+m.v. og lov om sygedagpenge. (Forlængelse af suspension af
+dagpengeforbrug, 4-månedersperioden ved opgørelse af karens
+og forbrug af supplerende dagpenge, mulighed for fravalg af
+årsopgørelsen for 2020 ved satsberegningen for selvstændige er‐
+hvervsdrivende og forlængelse af retten til sygedagpenge som
+følge af covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 23.04.2021. 1. behandling 04.05.2021. Betænkning
+07.05.2021).";Kl. 14:38
+91828;Time;;Kl. 14:35
+91863;title_name;":
+Inden jeg starter afstemningen, beder jeg om, at man tjekker, at der
+står korrekt navn i afstemningspanelet.
+Ønskes afstemning om ændringsforslag nr. 1 og 3, tiltrådt af et
+flertal (S, V, DF, RV, KF og NB)?
+De er vedtaget.
+Der stemmes om ændringsforslag nr. 4 af et mindretal (EL), tiltrådt
+af et mindretal (SF og ALT), og der kan stemmes.
+Afstemningen slutter.
+For stemte 16 (SF, EL og Susanne Zimmer (UFG)), imod stemte 71
+(S, V, RV, KF, NB, LA og KD), hverken for eller imod stemte 8
+(DF).
+
+Forhandling
+
+Ændringsforslaget er forkastet.";Henrik Dam Kristensen
+92438;title_name;":
+Der er stillet ændringsforslag.
+Ønsker nogen at udtale sig? Fru Jette Gottlieb, Enhedslisten.
+
+Herefter er ændringsforslag nr. 2, stillet og tiltrådt af de samme
+mindretal, bortfaldet.";Henrik Dam Kristensen
+92635;Time;(Ordfører);Kl. 14:35
+92667;name_party;":
+Enhedslisten er tilfreds med, at regeringen har iagttaget et problem,
+der er for de små selvstændige, når de skal genindplaceres efter en
+kriseperiode. Det er vi glade for. Vi er også glade for, at regeringen
+har lavet et ændringsforslag til sit eget forslag, hvilket viser, at de
+forstår, at det ikke er bare lige at lave sådan noget. Til gengæld
+er vi fuldstændig uforstående over for, at regeringen, når man har
+identificeret et problem, som rammer de små selvstændige, og får at
+vide, at det også er noget, der rammer lønmodtagerne, så ikke stiller
+et ændringsforslag, der sikrer, at lønmodtagerne heller ikke bliver
+ramt af denne ordning.
+Problemstillingen er meget simpel. Vi har været igennem et kri‐
+seår, som vi helst så smidt væk, men det kan vi ikke komme til:
+det eksisterer – 2020 eksisterer. Rigtig mange mennesker er blevet
+fyret og har taget kortvarige vikariater til lavere løn, end de er vant
+til, og nu står de så og bliver beregnet med en ny dagpengesats,
+som kommer til at gælde for de næste 3 år. Regeringen kan ikke
+undskylde sig med uvidenhed, for det fremgår meget tydeligt af de
+eksempler, der er: »Bent røg i dagpengefælden: Mistede over 6.000
+kroner om måneden«, »Vivis vikarjob koster hende 8.000 kroner om
+måneden«, »Sonja mister 3000 kroner om måneden« osv. osv. Det
+er vel at mærke nogle satser, der bliver beregnet og kommer til at
+gælde, indtil de næste gang bliver ledige og har haft de der 1.924
+timer.
+Det er mig ubegribeligt, at regeringen ikke vil løse problemet for
+lønmodtagerne, når de vil løse det for de små selvstændige. Derfor
+har vi været nødt til at stille ændringsforslaget. Det er et meget
+simpelt forslag, det er bare et spørgsmål om at ligestille. Jeg vil
+meget gerne bede om at få en forklaring fra Socialdemokratiet eller
+fra regeringen om, hvad begrundelserne er for, at man kun vil løse
+problemet for de små selvstændige.";Jette Gottlieb
+94556;Time;;Kl. 14:38
+94591;title_name;":
+Tak for det. Er der flere, der ønsker at udtale sig?
+
+Jeg foreslår, at lovforslaget går direkte tredje behandling uden forny‐
+et udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg det
+som vedtaget.
+Det er vedtaget.
+
+Det næste punkt på dagsordenen er:
+3) 2. behandling af lovforslag nr. L 219:
+Forslag til lov om ændring af lov om aktiv socialpolitik. (Yderli‐
+gere forlængelse af 12-månedersperioden i 225-timersreglen som
+følge af covid-19).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 23.04.2021. 1. behandling 04.05.2021. Betænkning
+07.05.2021).";Henrik Dam Kristensen
+95179;Time;Forhandling;Kl. 14:39
+95226;title_name;":
+Er der nogen, der ønsker at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.
+
+Det sidste punkt på dagsordenen er:
+4) 2. behandling af lovforslag nr. L 225:
+Forslag til lov om ændring af lov om bemyndigelse til midlerti‐
+dig fravigelse af bestemmelser om fysisk fremmøde ved general‐
+
+16
+
+Tirsdag den 11. maj 2021 (FM )
+
+forsamling i virksomheders vedtægter eller tilsvarende aftaler
+i forbindelse med covid-19. (Bemyndigelse til midlertidig udsky‐
+delse af indsendelsesfristen for årsrapporter og fravigelse af
+visse bestemmelser i virksomheders vedtægter eller tilsvarende
+aftaler).
+Af erhvervsministeren (Simon Kollerup).
+(Fremsættelse 29.04.2021. 1. behandling 04.05.2021. Betænkning
+06.05.2021).";Henrik Dam Kristensen
+96125;Time;Forhandling;Kl. 14:39
+96172;title_name;":
+Der er ikke stillet ændringsforslag. Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet.
+Jeg foreslår, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Henrik Dam Kristensen
+96473;Time;Meddelelser fra formanden;Kl. 14:40
+96534;title_name;":
+Når vi skal holde en pause nu, er det, fordi der er nogle af de her
+andenbehandlinger, som nu skal til tredje behandling, og der er altså
+noget teknik i forbindelse med det. Derfor er jeg nødt til at udsætte
+mødet til kl. 14.55.
+Mødet er hævet. (Kl. 14:40).";Henrik Dam Kristensen

@@ -1,0 +1,59 @@
+split;reason;text;value
+0;;"Tirsdag den 20. april 2021 (D)
+
+1
+
+de relateret til covid-19 ved indtægtsregulering af folke-, seniorog førtidspension m.v.).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 24.03.2021. 1. behandling 13.04.2021. Betænkning
+19.04.2021).
+
+97. møde";
+297;Time;;kl. 13.00
+308;Time;"Dagsorden
+Forhandling
+1) Eventuelt: 2. behandling af lovforslag nr. L 197:
+Forslag til lov om ændring af lov om social pension og lov om høje‐
+ste, mellemste, forhøjet almindelig og almindelig førtidspension m.v.
+(Ret til at få fratrukket merindtægt som følge af arbejde relateret til
+covid-19 ved indtægtsregulering af folke-, senior- og førtidspension
+m.v.).
+Af beskæftigelsesministeren (Peter Hummelgaard).
+(Fremsættelse 24.03.2021. 1. behandling 13.04.2021. Betænkning
+19.04.2021).";Kl. 13:00
+806;Time;Meddelelser fra formanden;Kl. 12:59
+870;title_name;":
+Der er stillet ændringsforslag. Ønsker nogen at udtale sig?
+Da det ikke er tilfældet, er forhandlingen sluttet, og vi går til
+afstemning.";Karen Ellemann
+1019;Time;Afstemning;Kl. 13:00
+1067;title_name;":
+Ønskes afstemning om ændringsforslag nr. 1-9, tiltrådt af et flertal
+(udvalget med undtagelse af KF)?
+De er vedtaget.
+Så foreslår jeg, at lovforslaget går direkte til tredje behandling uden
+fornyet udvalgsbehandling. Hvis ingen gør indsigelse, betragter jeg
+det som vedtaget.
+Det er vedtaget.";Karen Ellemann
+1398;title_name;":
+Mødet er åbnet.";Karen Ellemann
+1425;Time;Samtykke til behandling;Kl. 13:00
+1486;title_name;":
+Den sag, som er opført under punkt 1 på dagsordenen, kan kun med
+Tingets samtykke behandles i dette møde. Hvis ingen gør indsigelse,
+betragter jeg samtykke som givet.
+Det er givet.
+
+Det eneste punkt på dagsordenen er:
+1) 2. behandling af lovforslag nr. L 197:
+Forslag til lov om ændring af lov om social pension og lov om
+højeste, mellemste, forhøjet almindelig og almindelig førtidspen‐
+sion m.v. (Ret til at få fratrukket merindtægt som følge af arbej‐";Karen Ellemann
+1953;Time;Meddelelser fra formanden;Kl. 13:00
+2016;title_name;":
+Så er der ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i dag, mandag den 19. april 2021,
+kl. 13.15.
+Jeg vil bede medlemmerne om i det mellemliggende tidsrum at
+forlade salen, så der lige kan blive gjort klar til det næste møde.
+Mødet er hævet. (Kl. 13:01).";Karen Ellemann
