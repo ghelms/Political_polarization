@@ -66,10 +66,18 @@ rules = [
     Rule(header_format6, "title_name")
 ]
 
-with open("txtfile.txt") as f:
-    f = f.read()
-    print(f)
-    print(f[:50])
+with open("./data/txt/20191_M151_referat.txt") as tekst:
+    t = tekst.read()
+    print(t)
+    t = tekst[d.end():]
+    linjer = [l for l in tekst.read().split("\n") if l]
+
+
+    for i in linjer:
+
+        cut = i[:50]
+        print(cut)
+        print(len(cut))
 
 #for r in rules:
 #    print(r.find(t[:50]))

@@ -64,8 +64,6 @@ class Rule:
     def find(self, txt):
         return self.regex.match(txt)
 
-
-
 rules = [
     # match time
     Rule("(?:(?:(?:man|tirs|ons|tors|fre|lør|søn)dag "\
@@ -91,7 +89,8 @@ def show(i):
 data_cols = ['split', 'reason', 'text']
 file_list = glob.glob("data/txt/*.txt")
 
-file_list = sys.argv[1:]
+print(str(sys.argv)))
+#file_list = sys.argv[1:]
 
 fl = len(file_list)
 
