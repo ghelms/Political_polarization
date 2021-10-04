@@ -1,0 +1,568 @@
+split;reason;text;value
+0;;"Tirsdag den 6. oktober 2020 (D)
+
+1
+
+Det første punkt på dagsordenen er:
+1) Valg af formand.";
+101;Time;1. møde;Kl. 12:01
+144;title_name;":
+Til formand har samtlige partier indstillet hr. Henrik Dam Kristensen.
+Hvis ingen begærer afstemning, vil jeg betragte hr. Henrik Dam
+Kristensen som valgt.
+Han er valgt.";Bertel Haarder
+354;Time;"Dagsorden
+1) Valg af formand.
+2) Valg af 4 næstformænd.
+3) Valg af 4 tingsekretærer.
+4) Statsministerens redegørelse i henhold til grundlovens § 38.
+
+Det næste punkt på dagsordenen er:
+2) Valg af 4 næstformænd.";kl. 12.00
+575;Time;;Kl. 12:01
+586;Time;;Kl. 11:58
+620;title_name;":
+Deres Majestæt og Kongelige Højheder.
+Gennem 170 år er det kun krig og corona, der har kunnet forstyrre friheden og folkestyret i Danmark. Jeg har været med til Folketingets åbning 40 gange – kun overgået af Hendes Majestæt – og det er
+10. gang, jeg åbner folketingsåret, men aldrig under sådanne omstændigheder. Normale demokratiske debatter og beslutningsprocesser har været sat til side. Regeringen har med Folketingets accept taget over i hidtil uset grad.
+Mit ønske til det nye år er, at vi lærer at træffe hurtige beslutninger uden demokratisk underskud, uden at det går ud over logik og
+forudsigelighed, og med klarhed over, hvad der er sagkundskab, og
+hvad der er politiske valg.
+Vi har her i salen taget vores egen medicin og fulgt vores egne
+restriktioner. Vi har improviseret, vandret rundt i Vandrehallen og er
+gået ud og ind ti ad gangen for ikke at være for mange i salen, når vi
+skulle stemme. Og heller ikke i dag er vi uanfægtet af pandemien,
+men vi skal mødes den første tirsdag i oktober: det siger grundloven.
+Den kræver, at vi mødes og starter arbejdet den første tirsdag i oktober og påhører statsministerens redegørelse om – og jeg citerer – »rigets almindelige stilling og de af regeringen påtænkte foranstaltninger«.
+Ifølge Folketingets Forretningsorden er det mig, der som aldersformand, det vil sige ikke den ældste, men den længst siddende, skal
+åbne Tinget og få det sat. Det vil sige, at jeg skal lede valget af Præsidium og tingsekretærer.";Bertel Haarder
+2126;title_name;":
+Til første næstformand har Venstres gruppe udpeget fru Karen Ellemann. Efter fælles forståelse mellem Dansk Folkeparti og Radikale
+Venstre, som har lige mange medlemmer, er udpegningen af anden
+og tredje næstformand sket uden lodtrækning. Til anden næstformand har Dansk Folkepartis gruppe udpeget fru Pia Kjærsgaard. Til
+tredje næstformand har Radikale Venstres gruppe udpeget hr. Jens
+Rohde. Og til fjerde næstformand har Socialistisk Folkepartis gruppe
+udpeget fru Trine Torp.
+
+Det næste punkt på dagsordenen er:
+3) Valg af 4 tingsekretærer.";Bertel Haarder
+2682;Time;;Kl. 12:02
+2716;title_name;":
+Til tingsekretærer er i henhold til de indgåede valgforbund og gruppernes indstilling valgt følgende medlemmer: fru Annette Lind (S),
+hr. Christian Juhl (EL), hr. Erling Bonnesen (V) og hr. Bent Bøgsted
+(DF).
+Hermed er Tinget sat, og jeg skal bede formanden om at indtage
+sin formandsplads.";Bertel Haarder
+3019;Time;;Kl. 12:02
+3054;title_name;":
+Jeg vil gerne starte med at takke mine kolleger for valget til formand
+for Folketinget. At få lov at varetage denne post anser jeg som en
+stor ære, og jeg vil gøre mit bedste for at leve op til tilliden.
+Mit holdepunkt vil være at sørge for, at lovgivningsarbejdet foregår efter grundloven og forretningsordenens bestemmelser, og i min
+
+2
+
+Tirsdag den 6. oktober 2020 (R 1)
+
+mødeledelse vil jeg bestræbe mig på at give alle en korrekt og fair
+behandling.
+Jeg er sikker på, at vi deler en fælles forhåbning om, at vi må få
+mere normale tilstande i det danske samfund, ja, i hele verden. Desværre sidder vi stadig fast i pandemiens greb. Meget er anderledes,
+også på en dag som i dag.
+Coronaepidemien har påvirket meget af Folketingets arbejde i
+foråret, og der er næppe nogen tvivl om, at det seneste folketingsår
+vil skrive sig ind i historien som ganske usædvanligt. Da krisen stod
+for døren i foråret, var der enighed i Tinget om, at vi skulle holde
+lovgivningsarbejdet og de parlamentariske funktioner kørende. Det
+var afgørende for det danske samfund, at folkestyret fungerede og
+kunne handle også under ekstraordinære forhold. Hvis det igen skulle blive nødvendigt at sætte lovgivningstempoet op og tilpasse rammerne i forhold til folketingsarbejdet, så har vi erfaringer fra foråret,
+som vi kan drage nytte af. Det er et ganske godt udgangspunkt.";Henrik Dam Kristensen
+4419;Time;Velkomstord;Kl. 12:04
+4466;title_name;":
+Det er mig en glæde at kunne byde velkommen til vores gæster i
+dag. Hjertelig velkommen til Hendes Majestæt Dronningen, til Hans
+Kongelige Højhed Kronprinsen, til Hendes Kongelige Højhed Kronprinsessen og til Hendes Kongelige Højhed Prinsesse Benedikte.
+En særlig velkomst skal lyde til Højesterets præsident.
+Det er ærgerligt, at rigtig mange af vores faste gæster ikke har
+kunnet være til stede ved denne åbning. Derfor vil jeg også gerne benytte lejligheden til at sende Folketingets hilsen til selvstyremyndighederne i Grønland og til hjemmestyremyndighederne på Færøerne.
+
+igen været nødvendige. Sådan er det i rigtig mange lande. Vi ser i
+hele Europa, at virussen igen breder sig hurtigt.
+Meget tyder på, at Danmark, som situationen er lige nu, har styr
+på epidemien. Det skyldes ikke mindst, at vi er et af de lande i verden, der tester allermest. Men sundhedsmyndighedernes vurdering
+er, at tallene er for høje nu, hvor vinteren er på vej. Derfor har vi
+brug for alles indsats igen. Inden længe vil regeringen som lovet
+præsentere et varslingssystem, der giver mere forudsigelighed omkring, hvad vi gør, når smitten stiger.
+Den såkaldte dans med corona bliver lang, den bliver hård, og
+den er udmattende: ældre, der oplever ensomheden: smittede, som
+bliver bange for deres helbred: medarbejdere, som med rette frygter
+for jobbet: iværksættere, der kæmper for deres livsværk: et kulturliv,
+der higer efter publikum. Og de fleste savner livet, som det var, og
+som det skal blive igen – spontaniteten, nærheden, et kram – og det
+gør jeg også selv. Men virus skal heller ikke få lov til at vinde den
+her gang, for hvad gør det ved et samfund, et fællesskab, hvad gør
+det ved mennesker, hvis Fanden bare får lov til at tage de sidste,
+dem, som alligevel er svage? Sådan må vi aldrig tænke, sådan må
+det aldrig blive i Danmark.
+Vi har bevist, at vi både kan værne om det enkelte menneskeliv
+og samtidig være et af de lande i Europa, hvis økonomi ser ud til at
+komme bedst igennem krisen. Fordi vi lukkede smitten ned, kunne
+vi åbne samfundet hurtigt op igen. Sundhed og økonomi er ikke hinandens modsætninger, tværtimod, og tryghed er fundamentet for
+fremgang. Alle i Danmark har del i vores fælles resultater, og selv
+om det er svært, og selv om smitten igen byder os trods, så har jeg
+aldrig været mere optimistisk på Danmarks vegne. For coronaen er
+som et forstørrelsesglas på vores liv, på vores samfund. Vi har kunnet se, at politik gør en forskel. Nu ved vi, hvor meget vi kan, når vi
+vil, når det gælder, når vi samler kræfterne. Det er det, vi skal bruge
+til at få Danmark ud af krisen og ind i fremtiden.";Henrik Dam Kristensen
+7093;Time;"Det sidste punkt på dagsordenen er:
+4) Statsministerens redegørelse i henhold til grundlovens § 38.";Kl. 12:10
+7204;Time;;Kl. 12:05
+7239;title_name;":
+Så vil jeg give ordet til statsministeren, så hun efter grundloven kan
+give en redegørelse for rigets almindelige stilling og de foranstaltninger, som regeringen påtænker at gennemføre.
+Værsgo til statsministeren.";Henrik Dam Kristensen
+7464;Time;;Kl. 12:05
+7501;title_name;":
+Man siger, at kriser viser, hvilket stof man er gjort af. Foråret 2020
+skulle blive Danmarks styrkeprøve: en fælles fjende, en global pandemi. Og hvilket stof: fællesskab, samfundssind, handlekraft. Danmark viste alt det, vi kan. Vi blev mindet om, hvorfor sårbare vi er,
+når vi er alene, og husket på, hvor stærke vi er, når vi står sammen.
+Vi kunne have accepteret, at sygdommen tog tusindvis af liv, men i
+Danmark skal en virus ikke bestemme, om sundhedsvæsenet bukker
+under, om den slår tusinder ihjel. Vi lader ikke en virus ødelægge tilliden til vores samfundsmodel og dermed fundamentet for vores
+samfundsøkonomi. Det gjaldt i foråret, og det gælder nu.
+Efter sommerens afmatning er coronaen vendt tilbage. Det var
+forventet, at virussen ville få fat igen, men det er sket hurtigere, end
+vi havde håbet. De seneste 3 uger har vi i gennemsnit haft omkring
+450 nye smittede om dagen. I går havde vi 120 indlagte, det højeste
+antal siden maj. Indtil videre er det lykkedes os at bremse stigningen, inden den har fået for godt fat, og nye restriktioner har desværre
+
+I foråret faldt bruttonationalproduktet med næsten 7 pct. – et hårdere tilbageslag end under finanskrisen. Men finanskrisen havde rod
+i grundlæggende ubalancer i økonomien, årtiers deregulering, overforbrug og en blind tro på markedskræfterne. Den her krise er anderledes, og vores modstandskraft som samfund er større. Rettidig omhu, en flittig befolkning og de reformer, der er aftalt her i Folketinget, har skabt en sund dansk økonomi med lav offentlig gæld, høj
+kreditværdighed, dygtige medarbejdere og stærke virksomheder.
+Derfor kunne vi i Folketinget vedtage danmarkshistoriens største
+hjælpepakker. Læg dertil trepartsaftaler med lønmodtagere og arbejdsgivere, sektorpartnerskaber med erhvervslivet, som kom i
+stand, næsten hurtigere end vi selv kunne nå at foreslå dem.
+Når vi engang ser tilbage, vil det, vi gjorde sammen, stå som en
+stjernestund for dansk samarbejde og demokrati. Vi blev ramt hårdt,
+vi håndterede det hurtigt og har klaret det langt bedre, end vi kunne
+have frygtet, både sundhedsmæssigt og økonomisk.
+Til fagforeninger, arbejdsgiverorganisationer, virksomheder, det
+frivillige Danmark, kulturinstitutionerne, offentlige myndigheder, alle jer, som hjælper Danmark igennem det her: Tak. Og ikke mindst
+tak til jer her i Folketingssalen. Jeg har dyb respekt for, at alle partier
+stod klar, da Danmark vaklede for en stund. I var der alle sammen
+som ledere, som kollegaer og som mennesker. Taktik blev lagt til side, og Danmark blev sat forrest.
+Ved vores fælles indsats på tværs af interesser står dansk økonomi nu et bedre sted end mange andre landes, men mange er ramt, også herhjemme. Vi har udvidet og forlænget mulighederne for at få
+dagpenge, styrket sikkerhedsnettet i en svær tid. Det er den danske
+vej og et klart politisk valg. Vi er solidariske.
+Siden februar er arbejdsløsheden steget med 34.000 personer.
+Bag hver eneste fyreseddel gemmer der sig et menneske og en familie. Det er ægteparret i Tårnby, hvor begge var ansat i eller omkring
+
+Tirsdag den 6. oktober 2020 (R 1)
+
+lufthavnen, som nu begge står uden et job: I kan ikke betale jeres
+regninger, selv om vi har sunde statsfinanser. Og vi kan ikke fjerne
+usikkerheden. Den vil fortsætte, både for lønmodtagere og virksomheder, men for en socialdemokratisk regering er det og vil det altid
+være en kerneopgave at bekæmpe arbejdsløsheden.
+Det kræver også, at vi får alle eksportvirksomhederne godt igennem. Næsten 800.000 danske job er direkte eller indirekte afhængige
+af eksporten. Danmark er en handelsnation. Derfor foreslår regeringen oven på de omfattende hjælpepakker at føre en ekspansiv finanspolitik i 2021 og i de kommende år. Vi kan kun bringe Danmark
+fremad ved at investere. Og det er ikke en naturlov, at en krise skal
+betales af de mennesker, som i forvejen har en usikker tilknytning til
+arbejdsmarkedet. Det er ikke en nødvendighed, at det er velfærdssamfundet, der må holde for. Og det er ikke fremsynet at efterlade
+den her regning på kollegieværelset i form af ungdomsarbejdsløshed, som vi har set det før, ikke mindst i 1980'erne. Den her krise
+skal vi løse anderledes. Vi skal danne, vi skal uddanne og vi skal udvikle, så både unge og mere erfarne kan trække nye livsspor, få et
+nyt arbejde, hvis det gamle forsvinder, og uddanne sig til fremtiden.
+Jeg er taknemlig over, at vi har lavet en trepartsaftale om lærlinge, som holder hånden under danske lærepladser og gør det økonomisk muligt også for virksomheder, der er i vanskeligheder, at ansætte flere lærlinge i praktik og holde på de elever, man måtte have.
+Bliv ved med det, for vi får brug for flere faglærte i fremtiden.";Mette Frederiksen
+12180;Time;"Jeg er stolt over, at vi har afsat midler til at oprette 5.000 ekstra
+studiepladser på de videregående uddannelser, så der er bedre plads
+til de tusindvis af unge, som har måttet droppe sabbatrejsen ud i verden, men som i stedet kan pakke tasken og begynde at studere. Og
+jeg er så glad for, at et flertal her i Folketinget nu står bag, at mennesker, som ikke har en uddannelse, som er ufaglærte, nu kan få lov til
+at lære noget nyt til et højere dagpengebeløb, blive faglærte, få papir
+på det, som de måske allerede kan. Jeg vil gerne opfordre så mange
+ledige som overhovedet muligt til at gå i gang med en uddannelse,
+selv om jeg godt ved, at nogle af jer ikke har de bedste erfaringer, fra
+dengang I gik i skole. Bliv ved alligevel! Uddannelse er i dag ofte en
+forudsætning for, at man kan åbne nye døre i livet.
+Landsdele og brancher er ramt forskelligt. Nogle er kommet tilbage på niveau, frisørerne, tøjbutikkerne: for andre er det faktisk gået frem, byggemarkeder, supermarkeder og nethandel. Men for jer
+inden for oplevelsesøkonomien, rejsebranchen, restauranterne, hotellerne, barerne, vores kulturliv, sportsarrangementerne, er det her en
+hård tid. Noget skyldes restriktioner, andet, at hele verden er ramt af
+corona. Ingen kan tilpasse sig på så kort tid, og derfor satte vi ind
+med akut krisehjælp. Men på længere sigt vil mange virksomheder
+komme til at skulle forandre den måde, man driver virksomhed på.
+På finanslovsforslaget har vi afsat mere end 9 mia. kr. alene til genstarten og håndteringen af corona. Fra Den Europæiske Genopretningsfond forventer vi at Danmark får et beløb af cirka samme størrelse. Det skal vi bruge til at sætte skub i udviklingen på de områder,
+som Danmark skal leve af i fremtiden.
+I sidste uge indgik vi et strategisk grønt partnerskab med Indien.
+Selv om Indien er stort, er vores eksport til landet lille. Til gengæld
+er mulighederne enorme. Får vi samme eksportsucces som i Kina,
+kan vi fordoble vareeksporten til Indien, og det vil svare til knap 4
+mia. kr. Som Indiens premierminister Modi sagde, da jeg talte med
+ham: Indien har størrelsen, Danmark har løsningerne. Tænk engang,
+af alle lande i hele verden har Indien – verdens største demokrati, 1,3
+milliarder mennesker, en hel afgørende spiller for klodens grønne
+omstilling – valgt os, Danmark, som det første og hidtil eneste land,
+de har indgået en grøn strategisk samarbejdsaftale med. Det viser,
+hvad Danmark og vores virksomheder kan. Aftalen er god for klimaet, den er god for danske arbejdspladser, den er god for Danmarks
+
+3
+
+placering i verdenssamfundet, og den viser, at vi ikke skal vente på
+tiden efter corona.
+Det er nu, vi skal træffe de nødvendige beslutninger, og vi skal
+investere i teknologi. En ikke ubetydelig del af danske industrivirksomheder oplever faktisk selv, at de er kommet styrket ud af den her
+krise, og det skyldes i høj grad, at de pågældende virksomheder har
+haft et digitalt forspring, at de er ude på verdensmarkedet før konkurrenterne. Sagt lidt forsimplet: Webshoppen virker, produktionen
+fortsætter, arbejdspladser fastholdes i Danmark. Og digitaliseringen
+er gået fra at være ét konkurrenceparameter blandt mange til i den
+her tid at kunne afgøre, om en virksomhed kan overleve.
+Også som samfund var vi hurtige til at omstille os og bruge Danmarks digitale førerposition. Patienten kunne se lægen via video, og
+alle børnene og alle de unge kunne undervises online. Vi skal videre,
+og derfor har Danmark brug for en ny digitaliseringsstrategi. Det arbejde sætter vi i gang med den ambition, at Danmark fortsat skal være et digitalt udstillingsvindue for resten af verden. I stedet for at forsøge at genoprette fortiden er det vores opgave her at sætte strøm til
+fremtiden.";Kl. 12:15
+15909;Time;"I sidste måned besøgte jeg Motalavej sammen med justitsministeren og boligministeren. Det er et boligområde i Korsør, som alt for
+længe har været præget af uro. Vi mødtes med forskellige beboere
+og med boligforeningen. En kvinde tog ordet, og jeg fik desværre ikke hendes navn. Hun havde minoritetsbaggrund på en eller anden
+vis, og hun var dybt forarget. Hvorfor? Ja, fordi hun syntes, at reglerne er for slappe. Hvorfor tager I ikke bare kontanthjælpen fra dem,
+der laver balladen? spurgte hun. Jeg kan sådan set godt forstå forslaget og frustrationen. Alt for mange steder har utrygheden fået lov til
+at slå rod. Skal vi acceptere, at der er steder i Danmark, hvor helt almindelige mennesker er bange for at bo og være, hvor beboere er
+utrygge ved at komme sent hjem fra arbejde om aftenen eller bekymrede for at sende deres børn ned at lege? Aldrig i livet. Vi kan
+ændre det, og vi skal ændre det. Men det kræver, at vi taler om tingene, som de er, og at vi selvfølgelig får nuancerne med.
+Mange af jer, der har jeres rødder uden for Danmark, tager i dag
+et stort ansvar og yder en stor indsats: iværksættere, rengøringsassistenter, designere, virksomhedsledere, sportsstjerner, sosu'er, musikere, ingeniører, håndværkere, pædagoger, sygeplejersker, læger,
+buschauffører. Jeg bliver stolt, når jeg ser de unge, især mange unge
+piger, som klarer sig godt på uddannelserne. Det er stærkt: I er et
+forbillede og en fortrop for en hel generation. Mange af jer står midt
+i en værdikamp, en frihedskamp for at vriste jer fri af den forældede
+og forstokkede kultur, der desværre hersker i for mange kredse.
+Hvor kvindekampen herhjemme foregik i fuld offentlighed i 1970'erne med protestmarcher i gaderne og indslag i tv, foregår jeres kamp i
+det skjulte, og det gør jeres kamp sværere end vores. Derfor har vi
+brug for, at alle bakker op: det gælder også alle herboende imamer.
+Til alle jer, som vil Danmark, vil jeg sige: Hold fast i det. Og til
+alle I unge mænd, der via sociale medier tager afstand fra vold oven
+på drabet i Brønshøj i sidste uge, vil jeg sige: Bliv ved med det, tag
+afstand fra det forkerte, og tag ansvar for det rigtige.
+Jeg er selv rundet af kampen for social retfærdighed, for et samfund med muligheder for alle, ikke kun chancer for de få, og alle her
+ved, at der er kæmpe forskel på at vokse op i Gellerup og i Gentofte.
+Opvækstbetingelserne er for skævt fordelt, desværre. Men jeg har ingen forståelse for, at den forskel kan sætte sig i chikane af andre,
+overfald på unge eller anden form for brutal opførsel. Vi bliver nødt
+til at holde fast i, at mennesker, ligegyldigt deres baggrund, er født
+med en vilje. Hvordan vi forvalter vores liv, er i bund og grund vores eget ansvar, og uden at generalisere og uden at skære alle over én
+kam bliver vi nødt til at forholde os til virkeligheden, til fakta og til
+rå statistik. Hver femte mand med ikkevestlig baggrund, som blev
+født i 1997, havde overtrådt straffeloven, inden han fyldte 21 år –
+
+4
+
+Tirsdag den 6. oktober 2020 (R 1)
+
+hver femte. Det er ikke alle, det er bestemt ikke alle, men det er da
+åbenlyst alt for mange. Det er unge mænd, der tager andres frihed,
+som stjæler børns fremtid, som bryder fængselsbetjente ned og efterlader et langt spor af utryghed.
+Det er ikke noget nyt, og det er sådan set det, der er det største
+problem, for det her har stået på i alt, alt for mange år. Der er piger,
+som bliver kaldt nedsættende ting, fordi de er danske, eller piger, der
+bliver udsat for social kontrol, fordi de er blevet for danske. Der er
+en pølsevogn i Brønshøj, som bliver angrebet med kanonslag, fordi
+der sælges svinekød. Vi skal grundlæggende ikke acceptere den opførsel, den væremåde og den mentalitet, for den rammer ikke kun
+ofrene. Den sætter også en hel befolkningsgruppe eller et helt boligområde i bås – alle jer, der til daglig kæmper med de mange fordomme, som skyldes andres forkerte opførsel.
+
+me i nattelivet i op til 2 år. For det er jo ikke rimeligt, at den unge
+dreng eller pige, der bliver slået ned foran en bar eller et diskotek,
+kan møde den selvsamme voldsmand i samme kø et par uger efter.
+Med andre ord skal der være konsekvens, kort proces. For i Danmark er det vores ansvar, at alle kan være trygge, om det er foran et
+diskotek, i boligområdet eller på togstationen. Og får vi stoppet den
+her kriminalitet og den undergravende opførsel, som vi ser alt for
+mange steder, så kan der også endelig blive plads til noget forebyggende og til at bygge på det gode, som der trods alt stadig er mest af.
+Mange af de problemer, jeg taler om her, og som vi står med i
+dag, rækker desværre langt tilbage. Alt for mange kom til, alt for
+mange blev tabt, alt for længe fik det lov at fortsætte. Fortidens udlændingepolitik var en fejl. Så enkelt kan det siges.";Kl. 12:20
+20685;Time;"Derfor bliver vi nødt til at fortsætte en stram udlændingepolitik i
+Danmark, men vi bliver nødt til at gøre mere end det. Vi står med et
+europæisk asylsystem, som reelt er brudt sammen. Lad os være ærlige over for hinanden: I dag afhænger muligheden for asyl ofte af,
+om man kan betale en menneskesmugler, og om man er villig til at
+sætte livet på spil i en overfyldt gummibåd. Middelhavet er blevet en
+kirkegård, og flere sydeuropæiske kyster er i en eller anden form for
+næsten permanent undtagelsestilstand.
+Der er ikke nogen mennesker, der flygter for sjov, men lige nu
+svigter vi både dem, der er på flugt med menneskesmuglernes mellemkomst, og dem, der er ladt tilbage, og som måske har det allerstørste behov for hjælp. Derfor skal vi hjælpe i nærområderne.
+Vi vil behandle asylsager væk fra Danmark, i tredjelande, som
+kan yde sikkerhed til dem, der har behov for beskyttelse. Det er for
+regeringen at se den eneste reelle og langsigtede løsning. Mange har
+sagt, at det er helt urealistisk, at det ikke kan lade sig gøre, men også
+her gælder det, at vi bestemmer det selv: Giver vi op på forhånd, eller skal vi omsætte ord til handling? Regeringen vil i den folketingssamling, som vi åbner i dag, fremsætte et lovforslag, der gør det muligt for os at overføre asylansøgere til lande uden for Europa og dermed gøre Danmark klar til et nyt asylsystem. Jeg håber, det er en opgave, vi kan stå sammen om.
+I det hele taget er det stærke fællesskaber, der bærer os længst.
+Det gælder i Europa, og det gælder i kongeriget. Mange i verden beundrer vores konstruktion: tre lande – et rige. Og den globale interesse for Arktis stiger. Vi ser en stadig mere aggressiv adfærd fra
+Rusland – det er problematisk. Vi ser en stigende amerikansk interesse for et stadig tættere samarbejde i og omkring Arktis – det er
+selvsagt positivt. USA er vores vigtigste allierede, og samarbejdet
+mellem USA og Europa bør øges, hvor det er muligt, for vi er den
+globale akse, der kæmper for frihed, demokrati og fred i Arktis og i
+resten af verden.
+Regeringen vil fremlægge lovgivning om investeringsscreening
+og 5G-nettet. Teknologi og sikkerhedspolitik bliver mere og mere
+sammenfaldende, og derfor har vi brug for et endnu tættere samarbejde i rigsfællesskabet om de udenrigs- og sikkerhedspolitiske
+spørgsmål, der knytter sig til den nye virkelighed i Arktis og Nordatlanten. Vi skal værne om vores fælles sikkerhed.
+Vi skal også værne om det velfærdssamfund, vi gennem generationer har skabt i Danmark – et trygt fællesskab, hvor vi tager os af
+hinanden. Med forståelsespapiret har vi aftalt, at når der kommer
+flere børn og flere ældre, så skal pengene følge med. Det foreslår vi
+nu at hele Folketinget forpligter sig på, og at vi får vedtaget en velfærdslov, så vi så at sige sætter en bund under velfærdssamfundet.
+Alternativet til det er besparelser – det holder velfærden ikke til.
+De seneste årtier har reformer alt for ofte betydet forringelser. Efterlønsforringelsen er ét eksempel. Vi ønsker at gå den modsatte vej
+med en ny ret til tidlig pension for dem, der har været længst tid på
+arbejdsmarkedet, ofte slidt i hårde jobs. Alle fortjener en værdig tilbagetrækning. Det forhandler vi lige nu med Folketingets partier om.
+
+De boligområder, der i dag bliver betegnet som ghettoer eller udsatte boligområder, blev i sin tid bygget for at skabe mere frihed,
+mere livskvalitet til helt almindelige mennesker – mennesker, der
+ville ud af byen til frisk luft og trygge rammer. Sådan var det også i
+mange år, men alt for mange steder er det nu det modsatte. I de særlig udsatte boligområder begår 1 pct. af beboerne næsten halvdelen
+af kriminaliteten, når man vægter kriminalitetens alvorsgrad. Og på
+den måde er der jo tale om et os mod dem – ikke hvide mod brune
+eller unge mod ældre eller København mod provinsen eller alle mulige andre falske modsætninger, men imellem alle os, der vil have
+tryghed, anstændighed, demokrati, ligestilling, frihed på den ene side, og dem, der vil det modsatte på den anden side.
+Dér, hvor kriminaliteten får fat, skal politiet slå ned, og vi foreslår, at det skal gøres mere konsekvent. Som det er i dag, kan politiet
+forbyde enkeltpersoner at komme i særlige områder, f.eks. et bandemedlem. Det er fint, men hvad nu, hvis resten af gruppen stadig væk
+er der? Derfor foreslår vi, at politiet fremover skal kunne indføre et
+egentligt opholdsforbud for alle personer på bestemte steder i en afgrænset periode. Det kan være på parkeringspladsen i boligområdet,
+hvor der i dag er uro og kriminalitet, på S-togstationen, hvor grupper
+af unge drenge og mænd samles og skaber utryghed.
+Her siger vi: I må ikke være her, for ingen andre i vores land skal
+være bange for at gå på gaden, og I skal ikke få lov til at tage andre
+menneskers frihed. Hvis opholdsforbuddet ikke overholdes, er det
+vores forslag, at straffen skal være tydelig, den skal være konsekvent, og den skal kunne mærkes: første gang en bøde på 10.000
+kroner. Og har man gæld til det offentlige – det kan være ubetalte
+regninger, fordi man har begået kriminalitet tidligere – så foreslår vi
+en kontant afregning. Så skal politiet kunne tage dynejakkerne,
+urene, guldhalskæderne, mobiltelefonerne, eller hvad man ellers
+måtte have af værdi, og med det samme. Anden gang taler vi 30
+dage i fængsel. Vi giver politiet flere muskler, og samtidig sender vi
+et klart signal til de unge og til deres forældre – en besked, som ikke
+kan misforstås. Bandemedlemmerne og andre kriminelle skal have
+taget deres statussymboler med det samme, vanvidsbilisten skal have
+taget sin bil. For de statussymboler er dem, der i dag bruges til at rekruttere lillebrødre. Den fødekæde skal vi bryde. Vi vil hellere give
+lillebroren et fritidsjob end en kriminel storebror at se op til. Og vi
+stopper ikke her.
+I dag går der alt for lang tid, fra at en kriminel beboer bliver dømt
+for en lovovertrædelse, og til at vedkommende sættes ud af sin bolig.
+Det er et af problemerne på Motalavej. I nogle tilfælde går der flere
+år, fordi sagen om udsættelsen først kan behandles, efter at selve
+lovovertrædelsen er behandlet i det strafferetlige system. Det vil vi
+lave om. Fremover skal det være muligt at sætte kriminelle beboere
+ud af deres lejelejlighed, i umiddelbar forlængelse af at de bliver
+dømt for en lovovertrædelse.
+Endelig er der volden i nattelivet. Her foreslår vi, at personer,
+som begår vold og får en dom, skal kunne udelukkes helt fra at kom-";Kl. 12:25
+27112;Time;"Tirsdag den 6. oktober 2020 (R 1)
+
+Jeg håber på en aftale snart, så flere kan få lov til at lukke døren til et
+langt arbejdsliv med både god samvittighed og en krop, som fungerer.
+De mest sårbare i vores samfund har krav på, at vi passer bedre
+på dem. Langt de fleste danske børn har det godt, men vi skal være
+langt mere opmærksomme på de børn, der har det dårligt, ofte fordi
+deres forældre ikke formår at passe godt nok på dem. Vi vil gerne
+give de udsatte børn flere rettigheder – færre skift, tidligere og mere
+stabile anbringelser. Vi bliver nødt til at træde i karakter som samfund.
+Det gør vi nu langt om længe også på et andet vigtigt område,
+nemlig retssikkerheden for voldtægtsofre. Vi skrev det i forståelsespapiret – nu bliver det til lovgivning. Regeringen, Radikale Venstre,
+Enhedslisten og SF er enige om, at sex altid skal være baseret på
+samtykke. Tænk, at det ikke har været en selvfølge før.";Kl. 12:30
+28036;Time;"Vi har alle sammen et ansvar. Det gælder også i den debat om
+sexisme, der er blevet rejst af hundredvis af stærke og modige kvinder. Som folkevalgte og som ledere af partier og organisationer har
+vi selvfølgelig en særlig forpligtelse – også til, at forandringen ikke
+kun sker hos os selv, men i hele Danmark: i skurvognen, på sygehuset, i lærerværelset, i alle dele af arbejdsmarkedet. Og det oprør, som
+nu er sat i gang, må ikke ende med bare at blive en opdatering af
+medarbejderhåndbogen. Den her gang skal kulturen ændres. Det
+skylder vi hinanden.
+Danmark har et af verdens bedste velfærdssamfund. Vi har dygtige og engagerede medarbejdere, og de fleste af os har også mange
+gode oplevelser, når vi har brug for velfærdssamfundet i hverdagen
+– i dagtilbuddet eller på sygehuset. Det er forsiden af medaljen. Men
+der er også en bagside: billederne af Else og andre hemmelige optagelser fra plejehjem – nedværdigende, umenneskeligt og smerteligt.
+Hvor udspringer de problemer fra? Noget af det handler om tid og
+medarbejdere, og vi er i gang med at prioritere velfærden igen, og
+det er nødvendigt. Men kroner og øre er langtfra hele svaret, og vi
+får aldrig løst problemerne, hvis det altid er der, hvor diskussionen
+starter og slutter. Mangel på ordentlighed og respekt handler ikke
+bare om penge, det handler om faglighed og ledelse og også om at
+tage affære, når de få, som overhovedet ikke skal arbejde med mennesker, overskrider alle grænser. Det handler om anstændighed og
+om, at der er nogle, der svigter deres ansvar.
+Da vi åbnede Folketinget sidste år, var mit vigtigste budskab, at
+vi har brug for en nærhedsreform i den offentlige sektor, fordi den
+offentlige sektor over årene er blevet viklet ind i styring, centralisering, minutskemaer, dokumentation og regneark. Coronaen har forsinket vores arbejde, men behovet er ikke blevet mindre.
+De resolutte beslutninger i foråret viste os faktisk, hvor meget vi
+kan, når vi tør vise hinanden tillid. Social- og sundhedsassistenter
+har fortalt, at meget blev meget mere enkelt, da fagligheden faktisk
+fik plads. Hvor det tidligere kunne tage lange møder at fordele opgaver efter en sygemelding, var det nu bare: Jeg tager den – videre! Sygeplejersker og læger omstillede et halvt sygehus på ingen tid. Der
+kom nye sengepladser, nyt udstyr, nye medarbejdere, og pensionerede kolleger kom på arbejde igen. Det fungerede – videre! I skolerne
+blev grønne arealer gjort til åbne klasseværelser med den friske luft
+og den bevægelse, som egentlig var en af grundtankerne i skolereformen. Nogle steder oplevede man, at konflikterne blev færre, og at
+problemerne faktisk blev håndteret – videre! Offentligt ansatte over
+hele landet løftede og løfter fortsat en stor opgave uden fortilfælde.
+Jeg forsøger ikke at tegne et skønmaleri. Der blev trukket og vi
+trækker mange veksler, men når sosu'erne, sygeplejerskerne og lægerne pludselig siger, at meget kunne lade sig gøre på kort tid på
+grund af en global pandemi, så skal vi virkelig spidse ører.
+Regeringen har valgt at starte med politiet som et første skridt i
+nærhedsreformen. I vores øjne er politiet i dag kommet for langt væk
+
+5
+
+fra mange danskeres hverdag. Med vores udspil halverer vi Rigspolitiet, og vi opretter i stedet 20 nye nærpolitienheder og skal have 300
+flere betjente i den borgernære indsats rundtomkring i politikredsene. Det er måske den største decentralisering af dansk politi i en generation, og vi kan styrke den nære tryghed, som er så grundlæggende for os alle sammen.
+Også på skatteområdet er vi i gang. Vi gik til valg på at oprette
+fire nye skattecentre fordelt i hele landet. Og det ender faktisk med
+at blive til otte. De to første står klar i den her uge, i Frederikssund
+og i Fredericia. Og til næste år åbner vi to mere, i Viborg og i Esbjerg.
+Nærhed handler både om geografi og et opgør med mange års
+centralisering og om mindre central styring og mere tid lokalt. Men
+jeg forstår godt jer offentligt ansatte, som bliver fjerne i blikket i
+dag, når vi og jeg igen taler om det her på Christiansborg – og alle
+jer andre derude, som synes, at I har hørt det tusind gange før. Jeg
+forstår sådan set også godt, hvis mange af jer ikke tror på, at det
+kommer til at ske. For allerede i 80'erne begyndte daværende statsminister Poul Schlüter at tale imod det voksende bureaukrati. Siden
+da er det faktisk kun blevet værre og værre. Vi har aldrig før brugt så
+mange penge på velfærd, men resultaterne står grundlæggende ikke
+mål.";Kl. 12:35
+32509;Time;"Det var også begrundelsen for den tidligere VK-regering for frikommuneforsøget – det var en god idé. Nedefra og op blev der foreslået og iværksat mange gode idéer. Sidst vi sad i regering, var det
+særlig Det Radikale Venstre, som var optaget af at sætte kommunerne mere fri. Det var rigtigt.
+I dag vil jeg så foreslå noget, det er mere vidtgående, noget, som
+vi ikke har prøvet før. Og jeg indrømmer til en start, at det her er en
+meget, meget vild idé. Vores forslag er, at vi giver syv danske kommuner fuldstændig frihed på et udvalgt velfærdsområde. Det er f.eks.
+Helsingør. De næste 3 år får Helsingør fuldstændig frihed på daginstitutionsområdet. Der vil selvfølgelig være enkelte hegnspæle af juridisk karakter, men derudover vil der være frihed. Sammen med
+forældre og det pædagogiske personale får Helsingør lov til at skabe
+Danmarks bedste dagpleje, vuggestuer og børnehaver. Vi fjerner så
+meget statslig regulering og lovgivning som overhovedet muligt, og
+i stedet lader vi mennesker tage ansvaret selv. Vi lever i år 2020, vi
+er en af verdens bedst uddannede befolkninger, vi behøver ikke at
+lovgive om alt mellem himmel og jord.
+Ud over Helsingør har regeringen indgået lignende aftaler med
+borgmestrene i Rebild i nord, Viborg i midt, Middelfart på Fyn, Holbæk på Sjælland, Langeland, så vi også har en ø med, og Esbjerg i
+vest – hver på et af følgende tre velfærdsområder: folkeskolen, dagtilbuddene eller ældreområdet. De syv borgmestre skal efter i dag gå
+tilbage til deres byråd og kommunalbestyrelser og søge opbakning
+til at sætte den enkelte dagpleje, børnehave, skole, hjemmeplejeenhed eller det enkelte plejehjem fri fra alle kommunale regler og krav
+om dokumentation. Og jeg skal gå til jer her i Folketinget og bede
+om opbakning til det samme: at vi i fællesskab sætter syv kommuner
+fri fra den lovgivning og den statslige regulering, de normalt er underlagt. Og hvis det skal virke, skal vi turde gå hele vejen. Vi bliver
+også nødt til i de her kommuner at fjerne de regler, som vi hver især
+selv har kæmpet for at få indført.
+To af de syv kommuner får lov til at sætte folkeskolen fri. Det er
+Esbjerg, og det er Holbæk. Noget helt grundlæggende skal vi selvfølgelig stadig have på plads – at undervisning i Danmark er gratis,
+og at eleverne skal til afgangseksamen – men det meste andet foreslår vi at fjerne. Det gælder minimumstimetal, elevplaner, klasselofter, nationale test, for bare at nævne nogle af de allersværeste eksempler. Det er ikke, fordi det er dårlig lovgivning – alt det her er
+jeg selv tilhænger af – og ikke, fordi det er forkerte hensyn, men fordi jeg synes, tiden er kommet til, at vi tør lægge et reelt ansvar ud
+
+6
+
+Tirsdag den 6. oktober 2020 (FM )
+
+lokalt, så de enkelte institutioner, ledere, medarbejdere, borgere, forældre, pårørende får friheden. Til gengæld forpligter de sig til at levere bedre resultater end det, vores lovgivning har evnet og magtet,
+for med friheden følger selvfølgelig også ansvaret.
+På den måde handler politik jo som altid om valg. Og børn og unge gjorde valget til et klimavalg. Flertallet her på Christiansborg fik
+et klart grønt mandat. Det føler vi os forpligtet af, og vi skal gøre os
+værdige til jeres tillid. Et massivt flertal står bag klimaloven. Det er
+enestående. Om 10 år skal vi have sænket udledningen af drivhusgasser med 70 pct. Det svarer til, at vi på ét årti skal sænke udledningerne næsten lige så meget, som vi har gjort over de seneste tre årtier. Siden valget har vi sat fart på. På ét år har vi her i Folketinget
+truffet beslutninger sammen med bl.a. erhvervslivet, der reducerer
+udledningerne med mere end 5 mio. t i 2030. Hvad betyder det? Det
+betyder faktisk, at vi på ét år allerede er nået en fjerdedel af hele vejen mod de 70 pct. Jeg siger det, fordi det faktum har det med at forsvinde i debatten – ligesom man næsten kan få det indtryk, at hvis
+man er for teknologi, så er man imod en ambitiøs klimaindsats.";Kl. 12:40
+36443;Time;"Men når vi i dag kan åbne Folketinget med grøn strøm i stikkontakterne og i de pærer, der lyser, så er det jo kun, fordi vores forgængere investerede i at udvikle vindmøllerne. Teknologi dumper jo ikke bare ned fra himlen. Det handler ikke om at satse på ny teknologi.
+Satse er sådan noget, man kan gøre på en travbane. Det handler om
+at skabe og udvikle teknologien ved at investere ambitiøst, klogt og
+målrettet. For selv om vi isoleret set er foran tidsplanen nu, ved vi jo
+godt, at herfra bliver det svært.
+Vi står over for de mest gennemgribende forandringer af vores
+samfund og vores økonomi, siden vi begyndte opbygningen af det
+moderne velfærdssamfund i efterkrigstiden. Det gælder måden, vi
+transporterer os på, opvarmer husene på, producerer fødevarer på.
+Alt skal forandres. Men det kan som det meste andet godt lade sig
+gøre, hvis vi tør træffe de rigtige valg. Alle de initiativer, vi kan tage
+her og nu, og som reducerer drivhusgasser, skal vi tage: energieffektiviseringer i industrien, øget brug af biogas, mere genanvendelse og
+udfasning af olie- og gasfyr. Alt det, som vi aftalte i det gamle folketingsår, skal vi have mere af i det nye år.
+Nu er vi gået i gang med transportområdet. Derefter tager vi fat
+på en grøn skattereform og en omstilling af landbruget. På kort sigt
+handler det om at ændre i foderet, så dyrene udleder mindre CO2,
+men også om mere klimavenlige stalde og om retvisende klimaregnskaber. På længere sigt skal vi se på den samlede regulering af landbruget og på, hvordan vi kan få det til at spille sammen med den
+grønne skattereform. Vi tager fat nu, fordi det haster. Men vi kan ikke nå alle vores mål med de løsninger, vi kender i dag.
+Diskussionen om elbiler er i virkeligheden et godt eksempel. Skal
+vi have en halv million elbiler i 2030 eller en million? Spørgsmålet
+er, om det er det rigtige spørgsmål at stille. Spørgsmålet skulle måske snarere være: Hvordan omstiller vi hele transportsektoren, så vi
+får mest mulig CO2-reduktion for pengene til samfundet og borgerne? Regeringen foreslår bl.a. at ændre bilbeskatningen, så elbiler bliver billigere og den tunge trafik bliver dyrere, og at brændstoffet bliver grønnere, så vi blander mere biobrændstof i den diesel, vores biler kører på. Vi skal være ambitiøse, men vi skal også have Danmark
+som et udstillingsvindue til resten af verden. Vi tror nemlig ikke, at
+nogen vil følge os, hvis vores vej er dyr, uoverskuelig og socialt
+uretfærdig.
+Samtidig med initiativerne på den korte bane skal vi sætte målrettet ind med investeringer i forskning. Vi øger i år investeringerne i
+grøn forskning fra 1,2 mia. kr. til 2,3 mia. kr. Det er tæt på en fordobling. Og på finansloven for næste år foreslår vi en yderligere
+stigning. Vi bringer den offentlige og den private forskning tættere
+sammen med klimapartnerskaber mellem stat, virksomheder, er-
+
+hvervsorganisationer, landbrug og fagbevægelse, og vi træffer nu et
+valg.
+I regeringens nye grønne forskningsstrategi udpeger vi fire områder, som kan blive Danmarks næste store eventyr. For det første skal
+vi være gode til at fange CO2'en ud af atmosfæren, lagre den på jorden eller omdanne den til grøn energi. For det andet skal vi være gode til at udvikle grønt brændstof til transport og industri, f.eks. omdanne strøm fra vindmøller til brændstof i fly, skibe og biler – altså
+det, som hele verden taler om som power-to-x. For det tredje skal vi
+have et mere klimavenligt landbrug. For det fjerde skal vi være gode
+til at genanvende og skære ned på plastikaffaldet – det plastikaffald,
+som i øvrigt alt for ofte ender i dyrenes maver. Vi har valgt fire områder, hvor vi som land står stærkt, og hvor mulighederne derfor er
+størst, både for at skabe grønne arbejdspladser og for at gøre en forskel i den grønne omstilling.
+Men lad mig afslutte med at sige det, så det ikke kan misforstås:
+70-procentsmålsætningen er lovfæstet, den er vedtaget, og den er besluttet – og vi står fast på den. Til vores gode samarbejdspartnere i
+både SF, Radikale Venstre og Enhedslisten vil jeg sige: Vi forstår jeres utålmodighed, for det haster med at tage beslutninger og tage
+flere af dem, hvis vi skal nå vores fælles mål. Derfor kommer jeg
+også med en klar tilkendegivelse i dag: Vi skal bruge den økonomiske genopretning til at indfri vores løfte om en mere ambitiøs grøn
+omstilling, og vi foreslår derfor et grønt råderum på 2 mia. kr. årligt
+frem til 2025, så vi sammen kan skabe vished om de grønne investeringer i de kommende år – i alt 10 mia. kr. Det kan vi, hvis vi både
+bruger midlerne fra EU's genopretningsfond og finansloven grønt.";Kl. 12:45
+41034;Time;"I de kommende klimaforhandlinger og i finansloven, som finansministeren snart inviterer til, vil vi omsætte utålmodigheden til handling. Vi har tre afgørende hensyn: Vi skal blive ved med at træffe
+klimabeslutninger på en måde, som skaber arbejdspladser i stedet for
+at lukke dem: uligheden må ikke stige: og vi skal selvfølgelig fortsat
+have råd til velfærd. Jeg tror faktisk godt, vi kan blive enige om den
+kontrakt, også bredt – altså grønne ambitioner, social retfærdighed,
+sund erhvervspolitik og råd til velfærd. Derfor tror jeg på, at vi i de
+kommende måneder kan træffe de næste store, grønne og progressive beslutninger, som viser de unge, at vi fortjener deres tillid.
+Om 3 måneder skriver vi historien om 2020 – et hårdt år for Danmark, et hårdt år for verden, men også et år, der giver os stof til eftertanke. Der er ikke noget menneske, der selv opfinder de værdier,
+et levet liv handler om, som det funderes i, og som relationerne skabes af. Coronaen er hårdere end noget andet, vi har prøvet i moderne
+tid. Men vi har sammen besluttet, at den udfordring klarer vi også.
+Og med dét, med den beslutning, kommer vi til at overlevere nogle
+utrolig stærke værdier til eftertiden. Handlekraften i Danmark er intakt, sammenholdet er stærkt, samfundssindet får os igennem. Jeg
+har aldrig været mere optimistisk på Danmarks vegne. Vi kan skabe
+den fremtid, vi ønsker os – for hinanden, for fremgangen, for fællesskabet. Sjældent har det været mere på sin plads at råbe et trefoldigt
+hurra for Danmark, som det er traditionen ved Folketingets åbning.
+Men også her i salen skal vi passe på hinanden, og derfor må det blive anderledes i år. I stedet for at råbe et hurra sammen her i salen,
+råber vi i dag et hurra i vores hjerter.
+Jeg vil slutte min tale med de to vigtigste ord i denne historiske
+tid: Danmark leve!";Kl. 12:50
+42866;Time;;Kl. 12:53
+42901;title_name;":
+Tak til statsministeren.
+Redegørelsen vil som bekendt komme til debat på torsdag den 8.
+oktober 2020.
+
+Tirsdag den 6. oktober 2020 (FM )";Henrik Dam Kristensen
+43051;Time;Meddelelser fra formanden;Kl. 12:53
+43112;title_name;":
+I dag er der følgende anmeldelser:";Henrik Dam Kristensen
+43182;title_name;":
+Lovforslag nr. L 1 (Forslag til finanslov for finansåret 2021),
+Lovforslag nr. L 2 (Forslag til lov om fastsættelse af udgiftslofter for
+stat, kommuner og regioner for finansåret 2024) og
+Lovforslag nr. L 3 ( Forslag til lov om ændring af lov om fastsættelse af udgiftslofter for stat, kommuner og regioner for finansåret
+2021, lov om fastsættelse af udgiftslofter for stat, kommuner og regioner for finansåret 2022 og lov om fastsættelse af udgiftslofter for
+stat, kommuner og regioner for finansåret 2023. (Konsekvenser af
+ny 2025-ramme og regeringens forslag til finanslov for 2021)).";Nicolai Wammen
+43805;title_name;":
+Lovforslag nr. L 4 (Forslag til lov om ændring af skattekontrolloven
+og forskellige andre love. (Gennemførelse af direktiv om at imødekomme det akutte behov for at udsætte visse frister for indgivelse og
+udveksling af oplysninger på beskatningsområdet på grund af covid-19-pandemien og ændring af ikrafttrædelse af ændring af håndtering af A-skat m.v. i forbindelse med udbetaling fra feriegarantiordninger m.v.)).
+Titlerne på de anmeldte sager vil fremgå af www.folketingstidende.dk. (jf. ovenfor.).
+Ministeren for nordisk samarbejde (Mogens Jensen) har meddelt
+mig, at han ønsker i henhold til forretningsordenens § 19, stk. 4, at
+give Folketinget en skriftlig
+Redegørelse om det nordiske samarbejde.
+(Redegørelse nr. R 2).
+Eksemplarer vil blive omdelt, og redegørelsen vil fremgå af
+www.folketingstidende.dk.
+Redegørelsen vil komme til forhandling onsdag den 7. oktober
+2020.";Morten Bødskov
+44695;Time;;Kl. 12:54
+44730;title_name;":
+Der er ikke mere at foretage i dette møde.
+Folketingets næste møde afholdes i morgen, onsdag den 7. oktober
+2020, kl. 13.00.
+Jeg henviser til den dagsorden, der fremgår af Folketingets hjemmeside.
+Mødet er hævet. (Kl. 12:54).
+
+7";Henrik Dam Kristensen

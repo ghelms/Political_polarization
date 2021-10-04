@@ -84,18 +84,25 @@ tidy_text <- function(filename) {
 
 test_function = tidy_text("./Folketinget-Scraping/data/segmented/20201_M101_referat.txt")
 
-files = list.files("./Folketinget-scraping/data/segmented", "*.txt", full.names = TRUE)
+files = list.files("./Folketinget-scraping/data/test", "*.txt", full.names = TRUE)
 
 data = map_dfr(files, tidy_text) %>%
     ## bind_rows() %>%
+    # adding metadata
     right_join(meta, by = "id") %>%
+    # adding column "Date" with combined Time and Dato, formatted using "orders". 
     mutate(Date = parse_date_time(str_c(Dato, Time, sep = " "),
                                   orders = c("dmy HMS", "dmy MS", "dmy S"))) %>%
+    #remove missing values
     filter(complete.cases(Date)) %>%
+    # sort based on date
     arrange(Date) %>%
     mutate(speaker_id = ifelse(lag(Name) != Name, 1, 0) %>%
-               coalesce(0) %>%
-               cumsum()) %>%
+                # taking care of NA in top row
+                coalesce(0) %>%
+                # cumulative sum
+                cumsum()) %>%
+    # har ikke styr på hvad der helt præcist sker her, noget med at samle flere rækker i én
     group_by(Name, id, Samling, Nr, Titel, Dato, speaker_id) %>%
     summarise(text = str_c(text, collapse = " "),
               Date = min(Date)) %>% ungroup() %>%
@@ -120,18 +127,23 @@ data = data %>%
 
 ###################
 # handle titles like "Anden næstformand"
-read_csv2("data/folketing_leaders.csv") %>%
+read_csv2("./Folketinget-scraping/data/folketing_leaders.csv") %>%
+    # reformatting using lubridate (date formatting)
     mutate(from = dmy(fra),
            to = dmy(til),
            Title = "Formand") %>%
     rename(Navn = formand) %>%
+    # deselecting initial columns
     select(-fra, -til, -levetid) ->
+    # saving output in df "titles_tmp"
     titles_tmp
 
 
-read_tsv("ministerposter.tsv") %>%
+read_tsv("./Folketinget-scraping/ministerposter.tsv") %>%
+    # reformatting using lubridate
     mutate(from = dmy(Start),
            to = dmy(Slut)) %>%
+    # deselecting initial columns
     select(-Start, -Slut) %>%
     rename(Title = Ministerpost) %>%
     bind_rows(titles_tmp) %>%
@@ -139,18 +151,20 @@ read_tsv("ministerposter.tsv") %>%
     titles
     
 
+titles[name == titles$Title]
 
 
 find_name_from_title = function(name, date) {
-    # formand | formanden
+    # matcher fx "formand | formanden". Resultatet må være en df der indeholder rækker der matchede
     d = titles[name == titles$Title | name == str_c(titles$Title, "en"),]
     # correct date range (the title switches hands)
+    # kun hvis d er en df giver det her mening, så kan han indeksere d og matche baseret på dato
     d = d[date %within% d$period,]
     n = d$Navn
     p = d$parti
     t = name
 
-
+    # character(0) er en character-vektor med en længde på 0. Her testes få noget a la NA værdi i name.
     if (identical(n, character(0))) {
         
         n = name
@@ -164,8 +178,11 @@ find_name_from_title = function(name, date) {
 
 title_subset = data %>%
     #sample_n(10) %>% 
+    # only keep distinct rows (men hvorfor Name vs Dato? Måske nogle fejl han har oplevet)
     distinct(Name, Dato) %>%
+    # ny formattering af Dato vha. lubridate funktion
     mutate(Dato2 = dmy(Dato))  %>%
+    # map2 bruges vel til at fodre de to inputs Name og Dato2 til funktionen find_name_from_title
     mutate(Name = map2(Name, Dato2, find_name_from_title)) %>% unnest(Name) %>%
     select(Dato, Name, Title, Parti)
 
