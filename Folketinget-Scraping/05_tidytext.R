@@ -24,43 +24,6 @@ meta = read_delim("./Folketinget-Scraping/data/metadata.csv", ";", col_types = c
 text_file = read_delim("./Folketinget-Scraping/data/segmented/20191_M4_referat.txt", delim = ";", col_types = cols()) %>% 
     filter(complete.cases(reason))
 
-test_function <- function(filnavn) {
-
-    cat(paste0("[ ] Tidying ", filnavn, "\n"))
-        
-    d = read_delim(filnavn, delim = ";", col_types = cols()) %>%
-        filter(complete.cases(reason))
-    
-    if (nrow(d) < 3) return(data.frame(NA))
-    if (!any(str_detect(d$reason, "name"))) return (data.frame(NA))
-    
-    d = d %>% 
-        # hvorfor? har han måske oplevet underlige fejl hvor split nr. var under 0? eller 0?
-        filter(split > 0) %>% 
-        # value må være det, der blev matchet (titel, navn, klokkeslæt)
-        mutate(value = case_when(
-                    # hvis reason er title_name igangsættes det efterfølgende ifelse-statement
-                    reason == "title_name" ~ ifelse(
-                                    # test of ifelse
-                                    str_detect(value, "\\(|\\)"),
-                                    # if true
-                                    str_extract(value, title_re_paren),
-                                    # if false
-                                    str_extract(value, title_re_noparen)),
-                    reason == "name_party" ~ str_extract(value, name_re),
-                    reason == "Time" ~ value),
-               reason = ifelse(reason == "Time", "Time", "Name"),
-               # remove whitespace from value column
-               value = trimws(value)) %>% 
-        # instead of having "Title" or "Name" in reason-col and corresponding title and name in value-col,
-        # there will now be a column called "Title" and a column called "Name". 
-        spread(reason, value) %>% 
-        # deselect column "split"
-        select(-split)
-}
-
-data <- test_function("./Folketinget-Scraping/data/segmented/20191_M4_referat.txt")
-
 tidy_text <- function(filename) {
     # print to screen the filename being formatted
     cat(paste0("[ ] Tidying ", filename, "\n"))
@@ -77,27 +40,41 @@ tidy_text <- function(filename) {
     d = d %>%
         filter(split > 0) %>%
         mutate(value = case_when(
-                   reason == "title_name" ~ ifelse(
-                                 str_detect(value, "\\(|\\)"),
-                                 str_extract(value, title_re_paren),
-                                 str_extract(value, title_re_noparen)),
-                   reason == "name_party" ~ str_extract(value, name_re),
-                   reason == "Time" ~ value),
+                    # hvis reason er title_name igangsættes det efterfølgende ifelse-statement
+                    reason == "title_name" ~ ifelse(
+                                    # test
+                                    str_detect(value, "\\(|\\)"),
+                                    # if true
+                                    str_extract(value, title_re_paren),
+                                    # if false
+                                    str_extract(value, title_re_noparen)),
+                    # hvis reason er name_party
+                    reason == "name_party" ~ str_extract(value, name_re),
+                    # hvis reason er Time
+                    reason == "Time" ~ value),
                reason = ifelse(reason == "Time", "Time", "Name"),
+               # remove whitespace from value column
                value = trimws(value)) %>%
+        # instead of having "Title" or "Name" in reason-col and corresponding title and name in value-col,
+        # there will now be a column called "Title" and a column called "Name". 
         spread(reason, value) %>%
+        # deselect split-column
         select(-split)
 
     if ("Time" %in% colnames(d)) {
         d = d %>%
+            # latest value in each column is repeated until next value (filling in missing values)
             fill(Time, Name) %>%
+            # time format changed to hours and minutes
             mutate(Time = hm(Time))
     } else {
         d$Time = hm(NA)
         }
     
     d = d %>%
+        # only keep rows where both text and Name is filled in.
         filter(complete.cases(text), complete.cases(Name)) %>%
+        # adding column "id" based on the inputted filename
         mutate(id = tools::file_path_sans_ext(basename(filename))) %>%
         as_data_frame()
 
@@ -105,7 +82,9 @@ tidy_text <- function(filename) {
     
 }
 
-files = list.files("data/segmented", "*.txt", full.names = TRUE)
+test_function = tidy_text("./Folketinget-Scraping/data/segmented/20201_M101_referat.txt")
+
+files = list.files("./Folketinget-scraping/data/segmented", "*.txt", full.names = TRUE)
 
 data = map_dfr(files, tidy_text) %>%
     ## bind_rows() %>%
