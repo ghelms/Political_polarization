@@ -194,7 +194,7 @@ data2 = left_join(data, title_subset, by = c("Name" = "Title", "Dato")) %>%
 #################
 # load in data on who's in which party
 cat("[ ] Combining with party data\n")
-ft_members = read_delim("data/folketing_members.csv", ";", col_names =FALSE, col_types = cols())
+ft_members = read_delim("./Folketinget-Scraping/data/folketing_members.csv", ";", col_names =FALSE, col_types = cols())
 names(ft_members) = c("Name", "Parti", "Year")
 
 ft_members_copy = ft_members
@@ -362,20 +362,17 @@ lemma = data3 %>%
     arrange(doc_id) %>%
     groupdata2::group(100)
 
-
 lemma %>%
     select(-text, -speaker_id) %>%
-    write_csv("data/tidy_metadata.csv")
+    write_csv("./Folketinget-Scraping/data/tidy_metadata.csv")
 
-write_csv(lemma, "data/folketinget_1953_2019_raw.csv")
+write_csv(lemma, "./Folketinget-Scraping/data/folketinget_1953_2019_raw.csv")
 
  
 lemma %>%
     split(.$.groups) %>%
-    walk(~(write_lines(.$text, str_c("data/to_udpipe/", unique(.$.groups)))))
+    walk(~(write_lines(.$text, str_c("./Folketinget-Scraping/data/to_udpipe/", unique(.$.groups)))))
 # it works!
-
-
 
 ##############
 

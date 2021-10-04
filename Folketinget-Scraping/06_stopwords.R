@@ -4,7 +4,7 @@ library(parallel)
 
 # load data from udpipe, do the last processing, then pass it on to vowpal wabbit
 
-data = read_csv("data/tidy_metadata.csv",
+data = read_csv("./Folketinget-Scraping/data/tidy_metadata.csv",
                 col_types = "ccnnccTncncccn")
 
 cat("[ ] parsing udpipe output\n")
@@ -12,7 +12,7 @@ cat("[ ] parsing udpipe output\n")
 
 read_parse_udpipe <- function(i) {
     library(tidyverse)
-    lemma_list = str_c("data/from_udpipe/", i) %>%
+    lemma_list = str_c("./Folketinget-Scraping/data/from_udpipe/", i) %>%
         read_file() %>%
         # split udpipe output into documents
         str_split("# sent_id = \\d+\n", simplify = TRUE) %>%
@@ -46,7 +46,7 @@ read_parse_udpipe <- function(i) {
 # prepare stopwords
 ft_members = read_delim("data/folketing_members.csv", ";", col_names = FALSE,
                         col_types = cols())[[1]]
-ft_titler = read_lines("folketing_titler.txt")
+ft_titler = read_lines("./Folketinget-Scraping/folketing_titler.txt")
 custom_stopwords = str_split(ft_members, " ") %>%
     c(ft_titler, str_c(ft_titler, "en")) %>%
     c(stopwords("da", source = "stopwords-iso")) %>%
