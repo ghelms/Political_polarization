@@ -13,18 +13,59 @@ title_re_paren = "(?<=\\().*(?=\\))"
 title_re_noparen = ".*"
 name_re = "[\\w\\s-\\.]+"
 
+getwd()
+
 # load in metadata
-meta = read_delim("data/metadata.csv", ";", col_types = cols()) %>%
+meta = read_delim("./Folketinget-Scraping/data/metadata.csv", ";", col_types = cols()) %>%
     mutate(id = tools::file_path_sans_ext(basename(PDF))) %>%
     select(-PDF, -X6)
 
+# testing functions on random text-file
+text_file = read_delim("./Folketinget-Scraping/data/segmented/20191_M4_referat.txt", delim = ";", col_types = cols()) %>% 
+    filter(complete.cases(reason))
+
+test_function <- function(filnavn) {
+
+    cat(paste0("[ ] Tidying ", filnavn, "\n"))
+        
+    d = read_delim(filnavn, delim = ";", col_types = cols()) %>%
+        filter(complete.cases(reason))
+    
+    if (nrow(d) < 3) return(data.frame(NA))
+    if (!any(str_detect(d$reason, "name"))) return (data.frame(NA))
+    
+    d = d %>% 
+        # hvorfor? har han måske oplevet underlige fejl hvor split nr. var under 0? eller 0?
+        filter(split > 0) %>% 
+        # value må være det, der blev matchet (titel, navn, klokkeslæt)
+        mutate(value = case_when(
+                    # hvis reason er title_name igangsættes det efterfølgende ifelse-statement
+                    reason == "title_name" ~ ifelse(
+                                    # test of ifelse
+                                    str_detect(value, "\\(|\\)"),
+                                    # if true
+                                    str_extract(value, title_re_paren),
+                                    # if false
+                                    str_extract(value, title_re_noparen))
+                    reason == "name_party" ~ str_extract(value, name_re),
+                    reason == "Time" ~ value),
+               reason = ifelse(reason == "Time", "Time", "Name"),
+               value = trimws(value))
+}
+
+data <- test_function("./Folketinget-Scraping/data/segmented/20191_M4_referat.txt")
 
 tidy_text <- function(filename) {
+    # print to screen the filename being formatted
     cat(paste0("[ ] Tidying ", filename, "\n"))
+    # read filename and filter missing incomplete values in "reason"
     d = read_delim(filename, delim = ";", col_types = cols()) %>%
         filter(complete.cases(reason))
 
+    # færre end tre rækker i dokumentet returnerer en 1x1 df med NA i value.
     if (nrow(d) < 3) return(data.frame(NA))
+    
+    # strengen "name" i kolonnen "reason" returnerer en 1x1 df med NA i value.
     if (!any(str_detect(d$reason, "name"))) return (data.frame(NA))
 
     d = d %>%

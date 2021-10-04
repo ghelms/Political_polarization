@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a78475-5dfd-41e8-b8db-e84f61285355" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Folketinget-Scraping/04_segment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Folketinget-Scraping/04_segment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Folketinget-Scraping/test_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Folketinget-Scraping/test_04.py" afterDir="false" />
-    </list>
+    <list default="true" id="e3a78475-5dfd-41e8-b8db-e84f61285355" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +155,7 @@
       <workItem from="1632847151645" duration="3999000" />
       <workItem from="1632950681329" duration="4733000" />
       <workItem from="1632986567181" duration="1425000" />
-      <workItem from="1632989156608" duration="1846000" />
+      <workItem from="1632989156608" duration="2192000" />
     </task>
     <task id="LOCAL-00001" summary="testing from pycharm">
       <created>1632838712222</created>
@@ -304,7 +300,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Folketinget-Scraping/04_segment.py</url>
-          <line>91</line>
+          <line>93</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
