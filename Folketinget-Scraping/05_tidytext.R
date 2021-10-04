@@ -46,11 +46,17 @@ test_function <- function(filnavn) {
                                     # if true
                                     str_extract(value, title_re_paren),
                                     # if false
-                                    str_extract(value, title_re_noparen))
+                                    str_extract(value, title_re_noparen)),
                     reason == "name_party" ~ str_extract(value, name_re),
                     reason == "Time" ~ value),
                reason = ifelse(reason == "Time", "Time", "Name"),
-               value = trimws(value))
+               # remove whitespace from value column
+               value = trimws(value)) %>% 
+        # instead of having "Title" or "Name" in reason-col and corresponding title and name in value-col,
+        # there will now be a column called "Title" and a column called "Name". 
+        spread(reason, value) %>% 
+        # deselect column "split"
+        select(-split)
 }
 
 data <- test_function("./Folketinget-Scraping/data/segmented/20191_M4_referat.txt")
