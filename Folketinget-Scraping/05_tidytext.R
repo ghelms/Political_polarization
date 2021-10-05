@@ -202,6 +202,7 @@ ft_members_copy = ft_members
 ft_members = ft_members %>%
     ## mutate(Parti = str_extract(Parti, "\\w+") ) %>%
     group_by(Name, Parti) %>%
+    # "Year" becomes the minimum value of Year per member
     summarise(Year = min(Year)) %>% ungroup()
 
 ft_members = ft_members %>%
