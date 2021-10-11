@@ -14,7 +14,7 @@ title_re_noparen = ".*"
 name_re = "[\\w\\s-\\.]+"
 
 # load in metadata
-meta = read_delim("Folketinget-Scraping/data/metadata.csv", ";", col_types = cols()) %>%
+meta = read_delim("./data/metadata.csv", ";", col_types = cols()) %>%
     mutate(id = tools::file_path_sans_ext(basename(PDF))) %>%
     select(-PDF, -X6)
 
@@ -57,7 +57,7 @@ tidy_text <- function(filename) {
     
 }
 
-files = list.files("Folketinget-Scraping/data/segmented", "*.txt", full.names = TRUE)
+files = list.files("./data/segmented", "*.txt", full.names = TRUE)
 
 data = map_dfr(files, tidy_text) %>%
     ## bind_rows() %>%
@@ -93,7 +93,7 @@ data = data %>%
 
 ###################
 # handle titles like "Anden næstformand"
-read_csv2("Folketinget-Scraping/data/folketing_leaders.csv") %>%
+read_csv2("./data/folketing_leaders.csv") %>%
     mutate(from = dmy(fra),
            to = dmy(til),
            Title = "Formand") %>%
@@ -102,7 +102,7 @@ read_csv2("Folketinget-Scraping/data/folketing_leaders.csv") %>%
     titles_tmp
 
 
-read_tsv("Folketinget-Scraping/ministerposter.tsv") %>%
+read_tsv("./ministerposter.tsv") %>%
     mutate(from = dmy(Start),
            to = dmy(Slut)) %>%
     select(-Start, -Slut) %>%
@@ -150,7 +150,7 @@ data2 = left_join(data, title_subset, by = c("Name" = "Title", "Dato")) %>%
 #################
 # load in data on who's in which party
 cat("[ ] Combining with party data\n")
-ft_members = read_delim("Folketinget-Scraping/data/folketing_members.csv", ";", col_names =FALSE, col_types = cols())
+ft_members = read_delim("./data/folketing_members.csv", ";", col_names =FALSE, col_types = cols())
 names(ft_members) = c("Name", "Parti", "Year")
 
 ft_members_copy = ft_members
@@ -326,9 +326,9 @@ lemma = data3 %>%
 
 lemma %>%
     select(-text, -speaker_id) %>%
-    write_csv("Folketinget-Scraping/data/tidy_metadata.csv")
+    write_csv("./data/tidy_metadata.csv")
 
-write_csv(lemma, "Folketinget-Scraping/data/folketinget_2019_2021_raw.csv")
+write_csv(lemma, "./data/folketinget_2019_2021_raw.csv")
 
  ############ MAYBE USE THIS ???? ########
 # lemma %>%
@@ -348,3 +348,5 @@ write_csv(lemma, "Folketinget-Scraping/data/folketinget_2019_2021_raw.csv")
 # }
 
 ##############
+
+unique(lemma$Name[is.na(lemma$Parti) == TRUE])
