@@ -210,6 +210,28 @@ data3 = left_join(data3, less_weird_names, by = c("Year", "Name")) %>%
     select(-Parti.x, -Parti.y, -realname) %>%
     distinct()
     
+### Hardcoding the last names that are missing
+hardcoded_names <- data3 %>% 
+    filter(is.na(Parti)) %>%
+    distinct(Name, Year) %>%
+    arrange(Name, Year)
+
+# HARDCODED - Needs to updated if scrape are scaled to more years
+names_to_keep <- c("Søren Egge Rasmussen", "Jeppe Kofod", "Hans Kristian Skibby", "Bruno Jerup", "Lars Christian Lilleholt", "Hans Christian Schmidt", "Christian Mejdahl", "Egge Rasmussen" )
+parties <- c("Enhedslisten", "Socialdemokratiet", "Dansk Folkeparti", "Enhedslisten", "Venstre", "Venstre", "Venstre", "Enhedslisten")
+hard <- data.frame(Name = names_to_keep, Parti = parties)
+
+hardcoded_names <- hardcoded_names %>% 
+    filter(Name %in% hard$Name) %>% 
+    left_join(hard, by = "Name")
+
+data3 = left_join(data3, hardcoded_names, by = c("Year", "Name")) %>%
+    mutate(Parti = ifelse(is.na(Parti.x), Parti.y, Parti.x)) %>%
+    select(-Parti.x, -Parti.y) %>%
+    distinct() %>%
+    # Removing the last NAs
+    drop_na(Parti)
+
 
 ##            match_fun = list(`==`, match_fun))
 
@@ -290,7 +312,9 @@ data3$text = data3$text %>%
     str_to_lower(locale = "da") %>%
     str_replace_all(str_c("[–_/()\\s'»$&+", '"', "]+"), " ")
 
-data3 = filter(data3, str_detect(text, "\\S"), nchar(text) > 20)
+data3 = filter(data3, str_detect(text, "\\S"), nchar(text) > 20) %>% 
+        mutate(text = str_replace(text, "^: ", "")) 
+    
 
 
 ## data3 %>%
@@ -316,12 +340,11 @@ cat("[ ] Udpipe\n")
 ##     cluster_library("tidyverse") %>%
 ##     cluster_library("udpipe")
 
-lemma = data3 %>%
-    arrange(doc_id) %>%
-    groupdata2::group(100) %>% 
-    mutate(
-        text = str_replace(text, "^: ", "")
-    )
+lemma = data3 #%>%
+    #arrange(doc_id) %>%
+    #groupdata2::group(100) 
+    
+
 
 
 lemma %>%
