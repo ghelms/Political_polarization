@@ -13,68 +13,43 @@ title_re_paren = "(?<=\\().*(?=\\))"
 title_re_noparen = ".*"
 name_re = "[\\w\\s-\\.]+"
 
-getwd()
-
 # load in metadata
-meta = read_delim("./Folketinget-Scraping/data/metadata.csv", ";", col_types = cols()) %>%
+meta = read_delim("Folketinget-Scraping/data/metadata.csv", ";", col_types = cols()) %>%
     mutate(id = tools::file_path_sans_ext(basename(PDF))) %>%
     select(-PDF, -X6)
 
-# testing functions on random text-file
-text_file = read_delim("./Folketinget-Scraping/data/segmented/20191_M4_referat.txt", delim = ";", col_types = cols()) %>% 
-    filter(complete.cases(reason))
-
 tidy_text <- function(filename) {
-    # print to screen the filename being formatted
     cat(paste0("[ ] Tidying ", filename, "\n"))
-    # read filename and filter missing incomplete values in "reason"
     d = read_delim(filename, delim = ";", col_types = cols()) %>%
         filter(complete.cases(reason))
 
-    # færre end tre rækker i dokumentet returnerer en 1x1 df med NA i value.
     if (nrow(d) < 3) return(data.frame(NA))
-    
-    # strengen "name" i kolonnen "reason" returnerer en 1x1 df med NA i value.
     if (!any(str_detect(d$reason, "name"))) return (data.frame(NA))
 
     d = d %>%
         filter(split > 0) %>%
         mutate(value = case_when(
-                    # hvis reason er title_name igangsættes det efterfølgende ifelse-statement
-                    reason == "title_name" ~ ifelse(
-                                    # test
-                                    str_detect(value, "\\(|\\)"),
-                                    # if true
-                                    str_extract(value, title_re_paren),
-                                    # if false
-                                    str_extract(value, title_re_noparen)),
-                    # hvis reason er name_party
-                    reason == "name_party" ~ str_extract(value, name_re),
-                    # hvis reason er Time
-                    reason == "Time" ~ value),
+                   reason == "title_name" ~ ifelse(
+                                 str_detect(value, "\\(|\\)"),
+                                 str_extract(value, title_re_paren),
+                                 str_extract(value, title_re_noparen)),
+                   reason == "name_party" ~ str_extract(value, name_re),
+                   reason == "Time" ~ value),
                reason = ifelse(reason == "Time", "Time", "Name"),
-               # remove whitespace from value column
                value = trimws(value)) %>%
-        # instead of having "Title" or "Name" in reason-col and corresponding title and name in value-col,
-        # there will now be a column called "Title" and a column called "Name". 
         spread(reason, value) %>%
-        # deselect split-column
         select(-split)
 
     if ("Time" %in% colnames(d)) {
         d = d %>%
-            # latest value in each column is repeated until next value (filling in missing values)
             fill(Time, Name) %>%
-            # time format changed to hours and minutes
             mutate(Time = hm(Time))
     } else {
         d$Time = hm(NA)
         }
     
     d = d %>%
-        # only keep rows where both text and Name is filled in.
         filter(complete.cases(text), complete.cases(Name)) %>%
-        # adding column "id" based on the inputted filename
         mutate(id = tools::file_path_sans_ext(basename(filename))) %>%
         as_data_frame()
 
@@ -82,27 +57,18 @@ tidy_text <- function(filename) {
     
 }
 
-test_function = tidy_text("./Folketinget-Scraping/data/segmented/20201_M101_referat.txt")
-
-files = list.files("./Folketinget-scraping/data/test", "*.txt", full.names = TRUE)
+files = list.files("Folketinget-Scraping/data/segmented", "*.txt", full.names = TRUE)
 
 data = map_dfr(files, tidy_text) %>%
     ## bind_rows() %>%
-    # adding metadata
     right_join(meta, by = "id") %>%
-    # adding column "Date" with combined Time and Dato, formatted using "orders". 
     mutate(Date = parse_date_time(str_c(Dato, Time, sep = " "),
                                   orders = c("dmy HMS", "dmy MS", "dmy S"))) %>%
-    #remove missing values
     filter(complete.cases(Date)) %>%
-    # sort based on date
     arrange(Date) %>%
     mutate(speaker_id = ifelse(lag(Name) != Name, 1, 0) %>%
-                # taking care of NA in top row
-                coalesce(0) %>%
-                # cumulative sum
-                cumsum()) %>%
-    # har ikke styr på hvad der helt præcist sker her, noget med at samle flere rækker i én
+               coalesce(0) %>%
+               cumsum()) %>%
     group_by(Name, id, Samling, Nr, Titel, Dato, speaker_id) %>%
     summarise(text = str_c(text, collapse = " "),
               Date = min(Date)) %>% ungroup() %>%
@@ -127,23 +93,18 @@ data = data %>%
 
 ###################
 # handle titles like "Anden næstformand"
-read_csv2("./Folketinget-scraping/data/folketing_leaders.csv") %>%
-    # reformatting using lubridate (date formatting)
+read_csv2("Folketinget-Scraping/data/folketing_leaders.csv") %>%
     mutate(from = dmy(fra),
            to = dmy(til),
            Title = "Formand") %>%
     rename(Navn = formand) %>%
-    # deselecting initial columns
     select(-fra, -til, -levetid) ->
-    # saving output in df "titles_tmp"
     titles_tmp
 
 
-read_tsv("./Folketinget-scraping/ministerposter.tsv") %>%
-    # reformatting using lubridate
+read_tsv("Folketinget-Scraping/ministerposter.tsv") %>%
     mutate(from = dmy(Start),
            to = dmy(Slut)) %>%
-    # deselecting initial columns
     select(-Start, -Slut) %>%
     rename(Title = Ministerpost) %>%
     bind_rows(titles_tmp) %>%
@@ -151,20 +112,18 @@ read_tsv("./Folketinget-scraping/ministerposter.tsv") %>%
     titles
     
 
-titles[name == titles$Title]
 
 
 find_name_from_title = function(name, date) {
-    # matcher fx "formand | formanden". Resultatet må være en df der indeholder rækker der matchede
+    # formand | formanden
     d = titles[name == titles$Title | name == str_c(titles$Title, "en"),]
     # correct date range (the title switches hands)
-    # kun hvis d er en df giver det her mening, så kan han indeksere d og matche baseret på dato
     d = d[date %within% d$period,]
     n = d$Navn
     p = d$parti
     t = name
 
-    # character(0) er en character-vektor med en længde på 0. Her testes få noget a la NA værdi i name.
+
     if (identical(n, character(0))) {
         
         n = name
@@ -178,11 +137,8 @@ find_name_from_title = function(name, date) {
 
 title_subset = data %>%
     #sample_n(10) %>% 
-    # only keep distinct rows (men hvorfor Name vs Dato? Måske nogle fejl han har oplevet)
     distinct(Name, Dato) %>%
-    # ny formattering af Dato vha. lubridate funktion
     mutate(Dato2 = dmy(Dato))  %>%
-    # map2 bruges vel til at fodre de to inputs Name og Dato2 til funktionen find_name_from_title
     mutate(Name = map2(Name, Dato2, find_name_from_title)) %>% unnest(Name) %>%
     select(Dato, Name, Title, Parti)
 
@@ -194,7 +150,7 @@ data2 = left_join(data, title_subset, by = c("Name" = "Title", "Dato")) %>%
 #################
 # load in data on who's in which party
 cat("[ ] Combining with party data\n")
-ft_members = read_delim("./Folketinget-Scraping/data/folketing_members.csv", ";", col_names =FALSE, col_types = cols())
+ft_members = read_delim("Folketinget-Scraping/data/folketing_members.csv", ";", col_names =FALSE, col_types = cols())
 names(ft_members) = c("Name", "Parti", "Year")
 
 ft_members_copy = ft_members
@@ -202,7 +158,6 @@ ft_members_copy = ft_members
 ft_members = ft_members %>%
     ## mutate(Parti = str_extract(Parti, "\\w+") ) %>%
     group_by(Name, Parti) %>%
-    # "Year" becomes the minimum value of Year per member
     summarise(Year = min(Year)) %>% ungroup()
 
 ft_members = ft_members %>%
@@ -244,8 +199,10 @@ less_weird_names = fuzzy_join(weird_names, test_ft,
                function(x, y) {
                    str_detect(y, x)})) %>%
     rename(realname = Name.y, Year = Year.y, Name = Name.x) %>%
-    select(-Year.x)
-
+    select(-Year.x) %>% 
+    mutate(
+        Parti = str_replace(Parti, "x - ", "")
+    )
 
 data3 = left_join(data3, less_weird_names, by = c("Year", "Name")) %>%
     mutate(Parti = ifelse(is.na(Parti.x), Parti.y, Parti.x),
@@ -361,19 +318,33 @@ cat("[ ] Udpipe\n")
 
 lemma = data3 %>%
     arrange(doc_id) %>%
-    groupdata2::group(100)
+    groupdata2::group(100) %>% 
+    mutate(
+        text = str_replace(text, "^: ", "")
+    )
+
 
 lemma %>%
     select(-text, -speaker_id) %>%
-    write_csv("./Folketinget-Scraping/data/tidy_metadata.csv")
+    write_csv("Folketinget-Scraping/data/tidy_metadata.csv")
 
-write_csv(lemma, "./Folketinget-Scraping/data/folketinget_1953_2019_raw.csv")
+write_csv(lemma, "Folketinget-Scraping/data/folketinget_2019_2021_raw.csv")
 
- 
-lemma %>%
-    split(.$.groups) %>%
-    walk(~(write_lines(.$text, str_c("./Folketinget-Scraping/data/to_udpipe/", unique(.$.groups)))))
-# it works!
+ ############ MAYBE USE THIS ???? ########
+# lemma %>%
+#     split(.$.groups) %>%
+#     walk(~(write_lines(.$text, str_c("Folketinget-Scraping/data/to_udpipe/", unique(.$.groups)))))
+# # it works!
+
+
+# TESTING THE TEXT FOR FURTHER PREPROCESSING
+# wup <- hep %>%
+#     sample_n(size = 1)
+# 
+# for (i in nrow(wup):1){
+#     this <- hep$text[i]
+#     print(this)
+#     print(" ---------------------------------------------------")
+# }
 
 ##############
-
