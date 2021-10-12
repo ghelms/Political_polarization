@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3a78475-5dfd-41e8-b8db-e84f61285355" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/political_polarization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/political_polarization.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Folketinget-Scraping/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Folketinget-Scraping/geckodriver.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -74,6 +78,28 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Folketinget-Scraping/04_segment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="political_polarization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -158,6 +184,7 @@
       <workItem from="1632950681329" duration="4733000" />
       <workItem from="1632986567181" duration="1425000" />
       <workItem from="1632989156608" duration="2513000" />
+      <workItem from="1633955276275" duration="539000" />
     </task>
     <task id="LOCAL-00001" summary="testing from pycharm">
       <created>1632838712222</created>
@@ -278,11 +305,11 @@
       <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state x="216" y="245" width="1084" height="605" key="com.intellij.dvcs.ui.CompareBranchesDialog/-1440.23.1440.877/0.23.1920.982@0.23.1920.982" timestamp="1632844993571" />
-    <state x="388" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1632989176081">
+    <state x="388" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1633955276423">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="388" y="292" key="com.intellij.ide.util.TipDialog/0.23.1440.802@0.23.1440.802" timestamp="1632986567150" />
-    <state x="388" y="293" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1632989176081" />
+    <state x="388" y="293" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1633955276423" />
     <state x="486" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632838970976">
       <screen x="0" y="23" width="1920" height="982" />
     </state>
