@@ -1,0 +1,135 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+# loading packages
+pacman::p_load(tidyverse,stringdist)
+```
+
+```{r}
+# Importing data
+df <- read_csv("/Users/gustavhelms/Documents/Cognitive Science/5_semester/Bachelor/political_polarization/Folketinget-Scraping/data/folketinget_2019_2021_raw.csv")
+
+# Color pallette
+pal <- wesanderson::wes_palette("Darjeeling1", 14, type = "continuous")
+
+# Setting up the theme
+theme_set(theme_minimal())
+```
+
+```{r}
+##### Inspecting the distribution of speeches for each party
+
+# Inspecting the data
+df %>% count(Parti) %>%
+  ggplot()+
+  aes(x = reorder(Parti, -n), y = n, fill = Parti, label = n)+
+  geom_col(width=0.5, position='dodge') +
+  geom_text(position=position_dodge(0.5), vjust=-.50) + 
+  scale_fill_manual(values = pal)+
+  labs(y="Count", x="Parti", title = "Number of speeches from each party") +
+  ylim(0, 13000)+
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+        legend.position = "none")
+```
+```{r}
+#### Accumulated number of characters for each party
+df %>% mutate(string_length = str_length(text)) %>% group_by(Parti) %>% 
+  summarize(sum = sum(string_length)) %>%  
+  ggplot()+
+  aes(x = reorder(Parti, -sum), y = sum, fill = Parti)+
+  geom_col(width=0.5, position='dodge') +
+  scale_fill_manual(values = pal)+
+  labs(y="Accumulated characters in speeches", x="Parti", title = "Total length of speeches for each party") +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
+        legend.position = "none")
+
+```
+```{r}
+##################################### NUMBER OF SPEECHES PR. MEMBER PR. YEAR ##########################################
+# Wrangling  
+df %>% group_by(Year, Name, Parti) %>% count() %>% 
+  ungroup() %>% group_by(Year) %>% 
+  summarise(mean = mean(n),
+            median = median(n),
+            fifth = quantile(n, probs = 0.05),
+            nintyfifth = quantile(n, probs = 0.95)
+            ) %>% pivot_longer(!Year) %>% 
+  
+  # Plotting
+  ggplot()+
+  aes(x = Year, y = value, color = name, linetype = name)+
+  geom_line()+
+  guides(linetype = FALSE)+
+  scale_color_manual(labels = c("5th %ile", "Mean", "Median", "95th %ile"),
+                     values = wesanderson::wes_palette("Darjeeling1"))+
+  labs(x = "Year", 
+       y = "Number of Speeches", 
+       title = "Number of Speeches pr. year pr. person")+
+  theme(legend.title = element_blank(), legend.key = element_rect(color = alpha("black", 0.2)))
+  
+  
+
+
+```
+```{r}
+############################# LENGTH OF SPEECHES #######################################
+# Wrangling  
+df %>% mutate(text_length = str_length(text)) %>% 
+  group_by(Year) %>% 
+  summarise(mean = mean(text_length),
+            median = median(text_length),
+            fifth = quantile(text_length, probs = 0.05),
+            nintyfifth = quantile(text_length, probs = 0.95)
+            ) %>% pivot_longer(!Year) %>% 
+  
+  # Plotting
+  ggplot()+
+  aes(x = Year, y = value, color = name, linetype = name)+
+  geom_line()+
+  guides(linetype = FALSE)+
+  scale_color_manual(labels = c("5th %ile", "Mean", "Median", "95th %ile"),
+                     values = wesanderson::wes_palette("Darjeeling1"))+
+  labs(x = "Year", 
+       y = "Speech length", 
+       title = "Speech legnth pr. year")+
+  theme(legend.title = element_blank(), legend.key = element_rect(color = alpha("black", 0.2)))
+  
+```
+
+
+
+```{r}
+####################################### CHECKING WHETHER THERE ARE ANY SIMILAR NAMES #############################
+# list of all names in the dataset
+names = unique(df$Name)
+
+# Creating a matrix with scores of how similar the names are
+hep <- as.data.frame(stringdistmatrix(names, names, method = "jw"))
+
+# Adding colnames to the matrix
+colnames(hep) <- names
+
+# Pivoting and filtering out similar records
+hep %>% 
+  mutate(
+    name = names
+    ) %>% 
+  pivot_longer(!name, names_to = "name2", values_to = "similarity_scores") %>% 
+  filter(similarity_scores <= 0.2 & similarity_scores !=0)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
